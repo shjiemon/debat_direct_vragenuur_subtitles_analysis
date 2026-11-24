@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Count asylum and migration terms in dated Vragenuur subtitle files."""
+"""Count asylum and migration terms in dated Vragenuur SRT or stenogram text files."""
 
 import argparse
 from collections import Counter, defaultdict
@@ -19,11 +19,23 @@ except ImportError as error:
         "Install the dependencies with python -m pip install nltk scikit-learn.") from error
 
 SEARCH_TERMS = ("asiel", "migratie")
-DATED_SRT = re.compile(r"[0-9]{4}-[0-9]{2}-[0-9]{2}\.srt")
+STRIP_SPEAKER_LABELS_FROM_STENOGRAM_TXT = True
+SOURCE_DEFAULTS = {
+    "subtitles": (".srt", "analysis"),
+    "stenograms": (".txt", "analysis_stenograms"),
+}
+
+DATED_INPUT = re.compile(
+    r"[0-9]{4}-[0-9]{2}-[0-9]{2}\.(?:srt|txt)", re.IGNORECASE)
+SPEAKER_PREFIX = "[[SPEAKER]] "
 TIMESTAMP = r"[0-9]{2,}:[0-9]{2}:[0-9]{2}[,.][0-9]{3}"
 CUE_TIMING = re.compile(rf"{TIMESTAMP}[ \t]+-->[ \t]+{TIMESTAMP}(?:[ \t]+.*)?")
 FORMATTING_TAG = re.compile(r"<[^<>\n]+>")
 WORD = re.compile(r"[^\W\d_]+(?:[’'][^\W\d_]+)*")
+
+
+def tokenize(text):
+    return WORD.findall(normalize("NFC", text).casefold())
 
 
 def subtitle_words(path):
@@ -44,10 +56,23 @@ def subtitle_words(path):
 
     captions = "\n".join(caption_lines)
     captions = unescape(FORMATTING_TAG.sub("", captions))
-    return WORD.findall(normalize("NFC", captions).casefold())
+    return tokenize(captions)
 
 
-def vectorize_debates(files_by_date):
+def stenogram_words(path, strip_speaker_labels):
+    """Read plain text, treating the speaker tag as markup."""
+    lines = []
+    for line in path.read_text(encoding="utf-8-sig").splitlines():
+        if line.startswith(SPEAKER_PREFIX):
+            if strip_speaker_labels:
+                continue
+            line = line.removeprefix(SPEAKER_PREFIX)
+        lines.append(line)
+    return tokenize("\n".join(lines))
+
+
+def vectorize_debates(files_by_date,
+                      strip_speaker_labels=STRIP_SPEAKER_LABELS_FROM_STENOGRAM_TXT):
     """Build a bag of words per debate and retain the original word totals."""
     if not files_by_date:
         return {}, {}
@@ -60,9 +85,13 @@ def vectorize_debates(files_by_date):
     word_counts = {}
     documents = {}
     for day, path in files_by_date.items():
-        words = subtitle_words(path)
+        if path.suffix.casefold() == ".srt":
+            words = subtitle_words(path)
+        else:
+            words = stenogram_words(path, strip_speaker_labels)
         if not words:
-            raise ValueError(f"{path}: the captions contain no words.")
+            raise ValueError(
+                f"{path}: the preprocessed text contains no words.")
         word_counts[day] = len(words)
         kept = " ".join(word for word in words if word not in dutch_stopwords)
         if kept:
@@ -115,28 +144,40 @@ def read_index_dates(index):
         return {date.fromisoformat(row["date"]).isoformat() for row in reader}
 
 
-def analyse(subtitles, output_dir, index=None):
-    if not subtitles.is_dir():
-        raise ValueError(f"Subtitle directory not found: {subtitles}")
+def analyse(input_dir, output_dir, index=None,
+            strip_speaker_labels=STRIP_SPEAKER_LABELS_FROM_STENOGRAM_TXT, suffix=None):
+    if not input_dir.is_dir():
+        raise ValueError(f"Input directory not found: {input_dir}")
 
-    files_by_date = {
-        date.fromisoformat(path.stem).isoformat(): path
-        for path in subtitles.iterdir()
-        if path.is_file() and DATED_SRT.fullmatch(path.name)
-    }
+    files_by_date = {}
+    for path in sorted(input_dir.iterdir()):
+        if path.is_file() and DATED_INPUT.fullmatch(path.name):
+            if suffix and path.suffix.casefold() != suffix:
+                continue
+            day = date.fromisoformat(path.stem).isoformat()
+            if day in files_by_date:
+                raise ValueError(
+                    f"{day}: found both {files_by_date[day].name} and {path.name}. "
+                    "Use separate input folders to analyse these files.")
+            files_by_date[day] = path
+
     if index is None:
-        default_index = subtitles.parent / "vragenuur_index.csv"
-        if default_index.is_file():
-            index = default_index
+        candidates = [input_dir.parent / "vragenuur_index.csv"]
+        if suffix != ".srt":
+            candidates.insert(0, input_dir / "stenograms_index.csv")
+        for candidate in candidates:
+            if candidate.is_file():
+                index = candidate
+                break
 
     debate_dates = set(files_by_date)
     if index is not None:
         debate_dates.update(read_index_dates(index))
     if not debate_dates:
         raise ValueError(
-            f"No debates found in the index or YYYY-MM-DD.srt files in {subtitles}.")
+            f"No debates found in the index or dated .srt or .txt files in {input_dir}.")
 
-    word_counts, bags = vectorize_debates(files_by_date)
+    word_counts, bags = vectorize_debates(files_by_date, strip_speaker_labels)
     debates = []
     monthly_words = defaultdict(Counter)
     monthly_word_counts = Counter()
@@ -177,17 +218,35 @@ def analyse(subtitles, output_dir, index=None):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("subtitles", nargs="?", type=Path,
-                        default=Path("subtitles"))
-    parser.add_argument("--output-dir", type=Path, default=Path("analysis"))
+    parser.add_argument("source", nargs="?", default="subtitles",
+                        help="subtitles, stenograms, or an input folder (default: subtitles)")
+    parser.add_argument("--input-dir", type=Path,
+                        help="override the selected source folder")
+    parser.add_argument("--output-dir", type=Path,
+                        help="output folder (default: analysis or analysis_stenograms)")
     parser.add_argument(
         "--index", type=Path,
-        help="CSV of completed debates (defaults to vragenuur_index.csv next to the subtitle directory)",
+        help="CSV of completed debates (default: stenograms_index.csv in the "
+             "stenogram folder, or vragenuur_index.csv in the input folder's parent)",
+    )
+    parser.add_argument(
+        "--strip-speaker-labels", action=argparse.BooleanOptionalAction,
+        default=STRIP_SPEAKER_LABELS_FROM_STENOGRAM_TXT,
+        help="exclude speaker names and roles from stenogram word counts "
+             f"(default: {STRIP_SPEAKER_LABELS_FROM_STENOGRAM_TXT})",
     )
     args = parser.parse_args()
+    if args.input_dir is not None and args.source not in SOURCE_DEFAULTS:
+        parser.error(
+            "--input-dir requires a source mode (subtitles or stenograms)")
+    suffix, default_output = SOURCE_DEFAULTS.get(
+        args.source, (None, "analysis"))
+    input_dir = args.input_dir or Path(args.source)
+    output_dir = args.output_dir or Path(default_output)
 
     try:
-        analyse(args.subtitles, args.output_dir, args.index)
+        analyse(input_dir, output_dir, args.index,
+                args.strip_speaker_labels, suffix=suffix)
     except (OSError, ValueError) as error:
         parser.exit(1, f"{error}\n")
 
