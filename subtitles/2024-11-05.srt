@@ -1,0 +1,2234 @@
+1
+05:28:00,830 --> 05:28:05,410
+Ik open meteen het vragenuurtje.
+We hebben slechts één vraag deze
+week. Daartoe geef ik het woord...
+
+2
+05:28:05,450 --> 05:28:08,669
+aan de heer Aardema van de fractie van de PVV.
+
+3
+05:28:08,730 --> 05:28:09,429
+Dank u wel, voorzitter.
+
+4
+05:28:22,869 --> 05:28:27,930
+Ook dank voor het feit dat de
+minister naar onze Kamer wil komen
+om mijn vraag te beantwoorden.
+
+5
+05:28:29,150 --> 05:28:35,890
+De Arbeidsinspectie heeft de politie een
+dwangsom opgelegd vanwege haar niet goed
+functionerende communicatiesysteem C2000.
+
+6
+05:28:37,189 --> 05:28:41,530
+Volgens een woordvoerder van de
+inspectie doet de politie te weinig
+om de problemen op te lossen.
+
+7
+05:28:42,309 --> 05:28:46,509
+Die dwangsom kan iedere twee maanden
+oplopen tot een maximum van 1 miljoen euro.
+
+8
+05:28:47,729 --> 05:28:51,970
+Het probleem is dat agenten in
+bepaalde gebieden in Nederland — dat
+zijn ongeveer 100 witte vlekken —...
+
+9
+05:28:52,449 --> 05:28:56,269
+niet kunnen communiceren door slecht bereik
+en dat het systeem bij crisissituaties...
+
+10
+05:28:56,830 --> 05:28:58,629
+overbelast kan raken.
+
+11
+05:28:59,509 --> 05:29:01,390
+Agenten, maar ook ambulance en brandweer...
+
+12
+05:29:01,729 --> 05:29:05,489
+moeten altijd en overal kunnen vertrouwen
+op een goed werkend communicatiesysteem,
+
+13
+05:29:06,049 --> 05:29:07,789
+zeker wanneer elke seconde telt.
+
+14
+05:29:09,390 --> 05:29:14,390
+Er zijn al jaren problemen met
+het communicatiesysteem C2000.
+Dit heeft al meerdere keren geleid...
+
+15
+05:29:14,530 --> 05:29:15,909
+tot gevaarlijke situaties.
+
+16
+05:29:17,950 --> 05:29:21,470
+"Wij kunnen vanaf de aarde glashelder
+praten met mensen op de maan en...
+
+17
+05:29:22,209 --> 05:29:23,149
+in ruimtestations,
+
+18
+05:29:23,789 --> 05:29:27,269
+maar politiemensen die op enkele kilometers
+van elkaar staan, kunnen dat soms niet." Dat...
+
+19
+05:29:28,069 --> 05:29:30,230
+is een vaak gehoorde quote onder dienders.
+
+20
+05:29:31,330 --> 05:29:33,010
+Daarom heb ik de volgende
+vragen aan de minister...
+
+21
+05:29:33,489 --> 05:29:34,530
+van Justitie en Veiligheid.
+
+22
+05:29:34,569 --> 05:29:37,269
+Is de minister op de
+hoogte van deze aanhoudende...
+
+23
+05:29:37,370 --> 05:29:38,549
+C2000-problemen?
+
+24
+05:29:39,450 --> 05:29:44,049
+Erkent de minister dat er door deze
+problemen levensgevaarlijke situaties
+kunnen ontstaan voor politie-,
+
+25
+05:29:44,129 --> 05:29:46,230
+brandweer- en ambulancepersoneel en...
+
+26
+05:29:46,310 --> 05:29:47,769
+dus ook voor de gewone burger?
+
+27
+05:29:49,090 --> 05:29:53,189
+Het Adviescollege ICT-toetsing heeft
+eind vorig jaar geadviseerd om te stoppen...
+
+28
+05:29:53,209 --> 05:29:54,289
+met het vervangende mobiele...
+
+29
+05:29:54,349 --> 05:29:55,010
+netwerk en zich...
+
+30
+05:29:55,049 --> 05:29:56,250
+te richten op het bestendigen...
+
+31
+05:29:56,289 --> 05:29:57,149
+van C2000.
+
+32
+05:29:57,810 --> 05:30:00,069
+Wat is nu de richtinggevende
+visie van deze minister?
+
+33
+05:30:01,370 --> 05:30:06,209
+Wat heeft de minister nodig en
+wat gaat hij doen om de problemen
+met C2000 snel op te lossen?
+
+34
+05:30:06,929 --> 05:30:10,549
+En op welke termijn denkt de minister de
+problemen adequaat opgelost te hebben?
+
+35
+05:30:11,410 --> 05:30:12,350
+Dank u wel, voorzitter.
+
+36
+05:30:13,910 --> 05:30:14,830
+Het woord is aan de minister.
+
+37
+05:30:17,170 --> 05:30:20,630
+Dank, voorzitter. Dank aan de
+heer Aardema voor zijn vragen.
+
+38
+05:30:21,690 --> 05:30:23,190
+Het antwoord op de vraag of ik op de hoogte ben...
+
+39
+05:30:23,190 --> 05:30:24,089
+van de problematiek...
+
+40
+05:30:24,110 --> 05:30:25,029
+rondom C2000...
+
+41
+05:30:25,149 --> 05:30:26,269
+is ja.
+
+42
+05:30:26,830 --> 05:30:29,049
+Daar rapporteren we ook halfjaarlijks
+over in het halfjaaroverzicht politie.
+
+43
+05:30:30,350 --> 05:30:33,469
+Wat is de stand van zaken?
+
+44
+05:30:33,709 --> 05:30:35,969
+Waar staan we? Dat ziet
+met name op twee dingen.
+
+45
+05:30:36,029 --> 05:30:36,890
+Dat zit 'm ten eerste...
+
+46
+05:30:37,730 --> 05:30:41,230
+in de dekking van C2000 en...
+
+47
+05:30:41,330 --> 05:30:45,489
+ten tweede in de manier waarop we
+daarmee omgaan in de voorlichting over
+het gebruik van C2000 aan agenten.
+
+48
+05:30:45,529 --> 05:30:49,670
+Dat zijn ook de twee aspecten waar
+de inspectie ons op heeft beoordeeld.
+
+49
+05:30:49,830 --> 05:30:52,110
+Laat ik op die twee punten afzonderlijk ingaan.
+
+50
+05:30:52,929 --> 05:30:53,929
+Eerst de dekking.
+
+51
+05:30:53,989 --> 05:30:57,690
+Het is bekend dat C2000 niet
+overal dezelfde dekking heeft.
+
+52
+05:30:58,709 --> 05:31:02,809
+Deels heeft dat te maken met de keuzes
+die bij de invoering zijn gemaakt.
+
+53
+05:31:02,850 --> 05:31:07,049
+Er zijn landelijke gebieden waar de dekking
+lager is dan in bepaalde stedelijke gebieden.
+
+54
+05:31:07,549 --> 05:31:10,670
+Deels heeft dat ook te maken met storingen.
+
+55
+05:31:11,969 --> 05:31:14,249
+De omvormers van sommige zonnepanelen...
+
+56
+05:31:14,309 --> 05:31:20,209
+storen bijvoorbeeld op de radiofrequentie
+van C2000. Deels heeft het ook te maken
+met veranderende bouwomstandigheden.
+
+57
+05:31:20,290 --> 05:31:22,410
+U kunt zich voorstellen:
+als je ergens een flat bouwt...
+
+58
+05:31:23,070 --> 05:31:26,209
+naast een zendmast van C2000,
+
+59
+05:31:26,670 --> 05:31:27,709
+ontstaat daarmee een nieuwe...
+
+60
+05:31:27,709 --> 05:31:28,730
+blinde vlek.
+
+61
+05:31:28,929 --> 05:31:29,929
+Het is een continu...
+
+62
+05:31:32,410 --> 05:31:35,989
+systeem waarbij we in de gaten houden
+waar de witte vlekken zitten in C2000,
+
+63
+05:31:36,749 --> 05:31:39,529
+waar de storingen zitten en hoe we daar
+verbeteringen in kunnen aanbrengen.
+
+64
+05:31:40,149 --> 05:31:44,649
+Op dit moment hebben we inderdaad te maken
+met ongeveer 94 bekende blinde vlekken.
+
+65
+05:31:45,029 --> 05:31:48,850
+Daarvan zijn er afgelopen
+jaar overigens 19 opgelost.
+
+66
+05:31:49,450 --> 05:31:51,230
+Aan de overige wordt op dit moment gewerkt.
+
+67
+05:31:51,929 --> 05:31:53,929
+Maar is dat van vandaag op morgen opgelost?
+
+68
+05:31:54,429 --> 05:31:55,929
+Nee, zeg ik tegen de heer Aardema,
+
+69
+05:31:56,790 --> 05:31:59,190
+want we hebben hier te maken met lange...
+
+70
+05:31:59,589 --> 05:32:02,249
+Europese procedures om
+zendmasten te kunnen neerzetten.
+
+71
+05:32:02,950 --> 05:32:03,969
+Er zijn wel stappen gezet,
+
+72
+05:32:04,170 --> 05:32:06,890
+onder andere om met provincies
+veel sneller te kunnen komen...
+
+73
+05:32:06,989 --> 05:32:09,989
+tot akkoorden over waar zulke
+zendmasten worden neergezet en...
+
+74
+05:32:10,049 --> 05:32:11,549
+hoe we zo'n witte vlek kunnen oplossen.
+
+75
+05:32:12,049 --> 05:32:15,570
+Ik heb dus goede hoop dat we die
+witte vlekken in de komende twee jaar...
+
+76
+05:32:16,390 --> 05:32:17,750
+voor een groot deel kunnen wegwerken.
+
+77
+05:32:18,849 --> 05:32:21,729
+Hebben we dan altijd en
+overal dekking van C2000?
+
+78
+05:32:22,349 --> 05:32:25,649
+Nee. Ik noemde al eerder de verstoringen
+door bijvoorbeeld zonnepanelen,
+
+79
+05:32:25,690 --> 05:32:27,810
+maar nog meer recentelijk
+zijn er luchtverfrissers...
+
+80
+05:32:28,649 --> 05:32:30,649
+uit de handel genomen.
+
+81
+05:32:30,729 --> 05:32:32,769
+U kent ze wel: het gaat om luchtverfrissers
+die je in het stopcontact steekt en die...
+
+82
+05:32:33,349 --> 05:32:36,630
+dan om de zoveel tijd een geur afgeven.
+
+83
+05:32:37,510 --> 05:32:38,729
+Dat is misschien heel prettig voor in huis,
+
+84
+05:32:38,769 --> 05:32:40,330
+maar het bleek dat ook deze...
+
+85
+05:32:40,849 --> 05:32:44,450
+luchtverfrissers een frequentie hebben
+die op het netwerk van C2000 stoort.
+
+86
+05:32:44,950 --> 05:32:46,669
+Dat zijn dingen die je
+niet altijd kunt voorzien.
+
+87
+05:32:46,830 --> 05:32:48,109
+Je moet ze wel snel onderkennen en...
+
+88
+05:32:48,229 --> 05:32:49,349
+dan oplossen.
+
+89
+05:32:49,849 --> 05:32:50,810
+In dit geval is dat gebeurd,
+
+90
+05:32:50,849 --> 05:32:54,810
+want deze luchtverfrissers kunt u, in
+ieder geval in Nederland, niet meer kopen.
+
+91
+05:32:55,870 --> 05:32:56,930
+C2000 is ook...
+
+92
+05:32:56,969 --> 05:33:00,229
+nooit bedoeld geweest om binnen
+gebouwen of huizen dekking te hebben.
+
+93
+05:33:01,690 --> 05:33:06,330
+Die verwachting is er natuurlijk
+wel. Als je een systeem hebt, wil
+je eigenlijk dat dat altijd werkt.
+
+94
+05:33:06,370 --> 05:33:11,669
+Maar vanwege de frequentie, de dikte van muren
+en het feit dat het radiogolven betreft,
+
+95
+05:33:12,190 --> 05:33:14,729
+kan dat niet altijd. Dat is dus bekend,
+
+96
+05:33:15,789 --> 05:33:17,649
+maar dat maakt het af en
+toe niet minder vervelend.
+
+97
+05:33:17,709 --> 05:33:19,769
+Daarom wordt er gewerkt
+met alternatieve methodes.
+
+98
+05:33:19,890 --> 05:33:20,830
+Ik noemde al...
+
+99
+05:33:21,550 --> 05:33:23,289
+het mobiele netwerk en het gebruik daarvan.
+
+100
+05:33:23,529 --> 05:33:24,709
+Dat heeft een hogere frequentie en...
+
+101
+05:33:25,570 --> 05:33:26,890
+daardoor een betere dekking,
+
+102
+05:33:27,029 --> 05:33:29,409
+ook in gebieden waar je...
+
+103
+05:33:31,469 --> 05:33:32,609
+binnenshuis zit.
+
+104
+05:33:33,550 --> 05:33:34,570
+Dat heeft ook zijn nadelen,
+
+105
+05:33:34,849 --> 05:33:36,010
+want hoe werken agenten dan?
+
+106
+05:33:36,750 --> 05:33:37,870
+Zij werken met een press-to-talkapp.
+
+107
+05:33:37,969 --> 05:33:41,330
+Op hun mobiele telefoon kunnen ze met een app...
+
+108
+05:33:41,669 --> 05:33:43,950
+verbinding maken met dezelfde meldkamer
+en op die manier wel contact hebben.
+
+109
+05:33:44,529 --> 05:33:47,669
+Maar ook daar krijgen we klachten over binnen,
+
+110
+05:33:48,070 --> 05:33:52,969
+namelijk dat mensen met twee handen moeten
+werken op het moment dat ze in een situatie
+zitten waar ze eigenlijk ten minste een van...
+
+111
+05:33:52,990 --> 05:33:54,709
+die twee handen nodig hebben...
+
+112
+05:33:55,409 --> 05:33:58,209
+om zich bezig te houden met de
+situatie waarin ze zich bevinden,
+
+113
+05:33:59,050 --> 05:34:00,330
+zeker als die levensbedreigend is.
+
+114
+05:34:00,930 --> 05:34:04,709
+Daar komt innovatie om de hoek kijken.
+Daarom kijken we ook hoe we dit soort apps...
+
+115
+05:34:05,130 --> 05:34:09,109
+als vervanging van C2000 in situaties
+waar C2000 nooit dekkend gaat zijn,
+
+116
+05:34:09,209 --> 05:34:12,589
+zo gebruiksvriendelijk mogelijk kunnen maken.
+
+117
+05:34:13,390 --> 05:34:15,130
+Over elke innovatie waar
+we wat in kunnen betekenen...
+
+118
+05:34:15,209 --> 05:34:17,330
+zal ik u natuurlijk informeren.
+
+119
+05:34:18,630 --> 05:34:21,769
+Dat is het wat betreft het eerste
+deel: de dekkingsgraad van C2000.
+
+120
+05:34:22,430 --> 05:34:23,289
+Dan het tweede deel: de...
+
+121
+05:34:23,349 --> 05:34:24,209
+voorlichting.
+
+122
+05:34:24,250 --> 05:34:26,510
+Dat is namelijk iets anders
+waar de inspectie op aanslaat.
+
+123
+05:34:27,050 --> 05:34:31,390
+De inspectie vindt dat er door de
+politie te weinig voortgang wordt
+gemaakt in het voorlichten over...
+
+124
+05:34:31,390 --> 05:34:33,269
+waar C2000 wel of niet werkt,
+
+125
+05:34:33,409 --> 05:34:37,729
+wat dan de alternatieven zijn
+en wat de werkwijze is op het
+moment dat je een gebied ingaat...
+
+126
+05:34:38,289 --> 05:34:41,010
+waar de C2000-dekking naar
+verwachting minder is.
+
+127
+05:34:42,149 --> 05:34:44,469
+Ten eerste is daarover
+gecommuniceerd met alle meldkamers.
+
+128
+05:34:44,630 --> 05:34:46,089
+Meldkamers zijn op de hoogte...
+
+129
+05:34:46,310 --> 05:34:48,830
+en hebben een kaart met de
+dekkingsgebieden. Als zij collega's een
+
+130
+05:34:48,830 --> 05:34:51,349
+gebied in sturen waar minder dekking
+is, dan sturen zij twee collega's.
+
+131
+05:34:51,830 --> 05:34:56,750
+Je hebt dan in ieder geval hopelijk
+één iemand die zijn handen vrij heeft.
+
+132
+05:34:56,789 --> 05:35:01,830
+Ze zijn ook op de hoogte van de
+methodes die er zijn om dan met
+de meldkamer in contact te komen.
+
+133
+05:35:03,349 --> 05:35:09,370
+Ten tweede is iedereen bekend met
+de beperkingen die er überhaupt
+gelden aan het C2000-systeem.
+
+134
+05:35:09,550 --> 05:35:11,450
+Daarover heeft de Arbeidsinspectie gezegd...
+
+135
+05:35:11,490 --> 05:35:14,649
+dat dat echt in de fundamentele opleidingen
+van de politie moet worden ingebouwd.
+
+136
+05:35:15,310 --> 05:35:19,089
+Iedereen moet in zijn cursus, bijvoorbeeld
+in de cursus Rijbevoegdheid waar het...
+
+137
+05:35:19,130 --> 05:35:20,289
+nu wordt ingevoerd,
+
+138
+05:35:20,409 --> 05:35:25,089
+een module hebben waarin je leert wat je
+met je systeem wel kunt, wat je niet kunt en...
+
+139
+05:35:25,409 --> 05:35:27,029
+hoe je daar in dat geval mee omgaat.
+
+140
+05:35:27,930 --> 05:35:29,190
+Dat begint in december.
+
+141
+05:35:29,310 --> 05:35:34,430
+Inmiddels is het dus geregeld dat
+deze module in die fundamentele
+opleidingen wordt meegenomen,
+
+142
+05:35:35,010 --> 05:35:39,789
+maar u kunt zich voorstellen dat er wat
+tijd overheen gaat voordat je 60.000
+politieagenten door alle opleidingen heen hebt.
+
+143
+05:35:40,469 --> 05:35:41,570
+Dat...
+
+144
+05:35:42,609 --> 05:35:46,990
+is waar de Arbeidsinspectie onder
+andere tegen geageerd heeft en waarom
+ze die dwangsom heeft opgelegd.
+
+145
+05:35:47,510 --> 05:35:49,010
+Ze vinden dat het niet snel genoeg gaat.
+
+146
+05:35:49,089 --> 05:35:53,990
+Om te kijken of we de inspectie
+milder kunnen stemmen, wil ik ervoor...
+
+147
+05:35:54,229 --> 05:35:58,050
+zorgen dat we nog voor het einde van het jaar
+een inspanning doen naar alle politieagenten...
+
+148
+05:35:59,109 --> 05:36:04,169
+om in ieder geval bij die
+voorlichting in bredere zin...
+
+149
+05:36:04,649 --> 05:36:09,050
+aandacht te besteden aan
+hoe om te gaan met C2000,
+
+150
+05:36:09,209 --> 05:36:10,769
+waar het wel werkt en waar het niet werkt.
+
+151
+05:36:14,609 --> 05:36:17,080
+Dat gebeurt dan niet via de opleiding,
+maar vanuit de korpsleiding. Dank aan de
+
+152
+05:36:17,080 --> 05:36:19,550
+minister voor de antwoorden. Er zitten
+volgens mij wel hoopgevende antwoorden bij.
+
+153
+05:36:19,649 --> 05:36:20,810
+Maar het zou...
+
+154
+05:36:20,870 --> 05:36:25,229
+toch altijd zo moeten zijn dat een politieman...
+
+155
+05:36:25,430 --> 05:36:27,870
+onmiddellijk verbinding met de meldkamer
+krijgt wanneer hij op de noodknop drukt.
+
+156
+05:36:27,930 --> 05:36:32,010
+Dat is dus niet het geval. Het
+is ook maar de vraag of dat met
+het mobiele netwerk gaat lukken.
+
+157
+05:36:32,830 --> 05:36:35,830
+Ik hoor ook voorbeelden
+waarin de vergunningsprocedure...
+
+158
+05:36:35,969 --> 05:36:38,589
+bij bijvoorbeeld Natura
+2000-gebieden ellenlang duurt.
+
+159
+05:36:39,190 --> 05:36:43,749
+Dan is het maar de vraag wat op dat
+gebied belangrijker is: het leven van
+een diender of de natuur in dat gebied.
+
+160
+05:36:43,969 --> 05:36:48,270
+Je moet daar dan natuurlijk een zendmast
+bij plaatsen. Er moet ook stroom
+naartoe en dat soort praktische dingen.
+
+161
+05:36:48,770 --> 05:36:51,109
+Misschien kan de minister daar
+dus nog even op reflecteren.
+
+162
+05:36:52,770 --> 05:36:54,229
+Dat zijn twee verschillende dingen.
+
+163
+05:36:54,349 --> 05:36:57,950
+Ten eerste de opmerking dat het met
+één druk op de knop altijd moet werken.
+
+164
+05:36:58,629 --> 05:36:59,830
+Het zal niet altijd werken.
+
+165
+05:36:59,969 --> 05:37:04,290
+Ik vertelde al dat C2000 vanuit de
+architectuur van het systeem in bepaalde...
+
+166
+05:37:04,609 --> 05:37:08,650
+omstandigheden nooit bedoeld is om te
+werken, bijvoorbeeld binnen gebouwen.
+
+167
+05:37:09,089 --> 05:37:10,650
+Daar moet je dan dus alternatieven voor hebben.
+
+168
+05:37:10,709 --> 05:37:14,910
+Je moet zorgen dat collega's met
+z'n tweeën zijn en dat ze zich
+bewust zijn van de alternatieven.
+
+169
+05:37:15,349 --> 05:37:16,950
+Wat betreft de witte vlekken...
+
+170
+05:37:17,330 --> 05:37:19,089
+vertelde ik al dat we daar druk mee bezig zijn.
+
+171
+05:37:19,670 --> 05:37:24,609
+Onlangs hebben we er met de provincies
+ook overeenstemming over bereikt
+om die vergunningsprocedures,
+
+172
+05:37:24,670 --> 05:37:28,089
+bijvoorbeeld bij Natura 2000-gebieden,
+sneller te kunnen doorlopen.
+
+173
+05:37:28,430 --> 05:37:32,810
+Maar dan nog is het niet zo van:
+we zien vandaag een witte vlek
+en we plaatsen morgen een mast.
+
+174
+05:37:33,109 --> 05:37:36,430
+We hebben op dat punt Europese procedures
+te doorlopen en die kosten tijd,
+
+175
+05:37:37,209 --> 05:37:39,330
+maar we zijn er, zoals ik zei, druk mee bezig.
+
+176
+05:37:41,810 --> 05:37:48,349
+Dan geef ik het woord graag aan
+mevrouw Helder van de fractie van BBB.
+
+177
+05:37:48,450 --> 05:37:50,910
+De tekst van de minister is
+precies dezelfde als die van...
+
+178
+05:37:50,969 --> 05:37:51,830
+zijn voorganger en van de voorganger van zijn...
+
+179
+05:37:51,889 --> 05:37:54,349
+voorganger.
+
+180
+05:37:54,790 --> 05:37:55,790
+Toen heb ik ook al gezegd...
+
+181
+05:37:56,050 --> 05:38:00,410
+dat de overheid eigenlijk faciliteert dat C2000
+niet werkt, want we geven vergunningen voor...
+
+182
+05:38:00,430 --> 05:38:01,650
+bouwen en zonnepanelen; daar...
+
+183
+05:38:02,050 --> 05:38:03,050
+krijgt men zelfs subsidie voor.
+
+184
+05:38:03,709 --> 05:38:05,150
+Dat zegt de minister nu ook:...
+
+185
+05:38:05,330 --> 05:38:07,469
+overal waar bijgebouwd wordt,
+ontstaat een nieuwe dip.
+
+186
+05:38:07,790 --> 05:38:08,950
+Dat probleem is dus blijvend.
+
+187
+05:38:09,009 --> 05:38:09,670
+Maar wat kreeg...
+
+188
+05:38:09,749 --> 05:38:10,690
+ik in...
+
+189
+05:38:10,810 --> 05:38:13,030
+het laatste commissiedebat als
+antwoord op mijn vraag hierover?
+
+190
+05:38:13,930 --> 05:38:16,109
+Er is een projectgroep die
+dit nu blijvend oppakt.
+
+191
+05:38:16,709 --> 05:38:19,589
+Kan de minister erkennen dat
+dat volstrekt niet voldoende is?
+
+192
+05:38:20,190 --> 05:38:21,109
+Want we blijven bouwen.
+
+193
+05:38:23,129 --> 05:38:28,369
+Ja. Via u, voorzitter, zeg ik tegen mevrouw
+Helder dat we in deze kabinetsperiode
+hopelijk een heleboel gaan bouwen,
+
+194
+05:38:28,389 --> 05:38:31,070
+want dat is een van de
+prioriteiten die we hebben gesteld.
+
+195
+05:38:31,150 --> 05:38:32,650
+Ik weet dat ik een collega van VRO...
+
+196
+05:38:33,469 --> 05:38:35,389
+heb die daar zeer gemotiveerd voor is.
+
+197
+05:38:35,869 --> 05:38:40,270
+Daarvoor hebben we een blijvende projectgroep,
+omdat de omgeving continu verandert.
+
+198
+05:38:40,950 --> 05:38:42,030
+Maar dat geldt niet alleen voor de omgeving.
+
+199
+05:38:42,089 --> 05:38:44,810
+Er komt ook nieuwe apparatuur
+die weer storing kan veroorzaken.
+
+200
+05:38:44,849 --> 05:38:46,050
+Projectgroepen...
+
+201
+05:38:46,589 --> 05:38:48,070
+an sich lossen niks op,
+
+202
+05:38:48,209 --> 05:38:51,150
+maar het feit dat mensen continu
+bij elkaar zitten om te kijken of...
+
+203
+05:38:51,229 --> 05:38:52,330
+we nieuwe witte vlekken en nieuwe...
+
+204
+05:38:52,749 --> 05:38:53,749
+problemen hebben en hoe we die oplossen,
+
+205
+05:38:53,910 --> 05:38:55,910
+is volgens mij wel een verbetering.
+
+206
+05:38:57,629 --> 05:39:01,889
+Dan de techniek. De minister
+twitterde nog geen etmaal geleden: de...
+
+207
+05:39:01,930 --> 05:39:05,969
+politie werkt aan allerlei technologieën die
+in gevaarlijke situaties ingezet kunnen worden.
+
+208
+05:39:06,249 --> 05:39:08,469
+Dat ging over tools om de
+slagkracht te verbeteren.
+
+209
+05:39:08,849 --> 05:39:13,869
+Maar kan er nou ook niet gewerkt worden
+aan iets wat dit al heel bekende en
+zeer urgente probleem kan verhelpen?
+
+210
+05:39:14,129 --> 05:39:15,270
+Zeker.
+
+211
+05:39:17,410 --> 05:39:21,369
+Er wordt gewerkt aan het
+opvolgingssysteem van C2000.
+
+212
+05:39:21,889 --> 05:39:24,530
+De vraag is welke technologieën
+we daarbij gaan gebruiken.
+
+213
+05:39:25,190 --> 05:39:26,190
+Geen we gebruikmaken...
+
+214
+05:39:26,229 --> 05:39:28,369
+van 6G-technologie of van satelliettechnologie?
+
+215
+05:39:28,849 --> 05:39:32,589
+Er zijn allerlei innovatieve oplossingen
+waarmee we ook in een nieuw systeem ten eerste...
+
+216
+05:39:33,089 --> 05:39:34,930
+de gebruiksvriendelijkheid kunnen verbeteren en...
+
+217
+05:39:35,670 --> 05:39:38,530
+ten tweede het mogelijk kunnen maken dat
+je niet alleen met elkaar kunt praten,
+
+218
+05:39:38,570 --> 05:39:40,609
+maar dat je ook data als foto's...
+
+219
+05:39:40,810 --> 05:39:42,330
+en video's live kunt streamen.
+
+220
+05:39:43,009 --> 05:39:46,509
+Daardoor kunnen collega's een beter beeld
+hebben van de situatie waarin ze terechtkomen.
+
+221
+05:39:47,389 --> 05:39:51,690
+Ten derde krijgt het hopelijk
+een betere dekking in gebieden
+waar dat nu nog niet mogelijk is.
+
+222
+05:39:51,950 --> 05:39:54,810
+Daar zijn echt wel hoopgevende
+voorbeelden van te zien.
+
+223
+05:39:55,629 --> 05:40:00,709
+De Franse autoriteiten hebben tijdens
+de Olympische Spelen gebruikgemaakt van
+een combinatie van bijvoorbeeld drones,
+
+224
+05:40:01,129 --> 05:40:06,190
+satellietcommunicatie en mobiele
+palen om een netwerk op te zetten dat...
+
+225
+05:40:07,209 --> 05:40:10,190
+heel veel meer mogelijkheden
+bood dan C2000 nu heeft.
+
+226
+05:40:10,349 --> 05:40:13,849
+Dat zijn alle dingen waarnaar we aan het kijken
+zijn om zo snel mogelijk te kunnen komen tot de...
+
+227
+05:40:14,249 --> 05:40:15,469
+aanbesteding van een nieuw systeem.
+
+228
+05:40:15,729 --> 05:40:17,729
+Maar tot die tijd moeten we het wel doen met...
+
+229
+05:40:18,089 --> 05:40:20,129
+C2000.
+
+230
+05:40:20,190 --> 05:40:25,930
+Ik voelde zelf wat ongemak toen ik de
+minister hoorde zeggen dat we dit probleem
+niet van vandaag op morgen hebben opgelost.
+
+231
+05:40:26,950 --> 05:40:28,050
+Nee, maar dat vroeg ook niemand.
+
+232
+05:40:28,489 --> 05:40:31,190
+Het punt is dat dit probleem al jaren speelt.
+
+233
+05:40:31,290 --> 05:40:36,129
+Mevrouw Helder zei bewust en terecht dat ook
+de voorganger van deze minister hiermee bezig
+was, en de voorganger van de voorganger en...
+
+234
+05:40:36,150 --> 05:40:40,389
+volgens mij zelfs daar weer de voorganger
+van. Het is een probleem van jaren...
+
+235
+05:40:40,469 --> 05:40:44,849
+dat wij agenten met slecht
+werkende, haperende apparatuur naar
+levensgevaarlijke situaties sturen.
+
+236
+05:40:44,930 --> 05:40:48,509
+Dat levert enorme risico's op. Dat
+kunnen we gewoon niet langer meer maken.
+
+237
+05:40:48,650 --> 05:40:51,430
+Heeft deze minister nou het idee
+dat alles op alles wordt gezet...
+
+238
+05:40:52,389 --> 05:40:53,989
+om C2000 beter te laten werken?
+
+239
+05:40:54,249 --> 05:40:59,450
+Kennelijk vindt de Arbeidsinspectie het
+onvoldoende. Kan de minister erkennen
+dat het echt nog veel beter moet?
+
+240
+05:41:01,450 --> 05:41:03,749
+Dat signaal van de Arbeidsinspectie
+neem ik serieus. Daarom zei ik ook
+
+241
+05:41:03,749 --> 05:41:06,050
+dat ik wil kijken of we nog een stap
+kunnen zetten op het punt waarvan de...
+
+242
+05:41:06,129 --> 05:41:08,410
+Arbeidsinspectie vindt dat we te langzaam gaan,
+
+243
+05:41:08,729 --> 05:41:09,690
+namelijk de voorlichting...
+
+244
+05:41:09,749 --> 05:41:10,190
+en het ervoor zorgen...
+
+245
+05:41:10,249 --> 05:41:11,930
+dat mensen weten waar zij aan toe zijn.
+
+246
+05:41:12,709 --> 05:41:14,729
+Dat staat...
+
+247
+05:41:15,209 --> 05:41:16,509
+los van de structurele stappen...
+
+248
+05:41:16,570 --> 05:41:19,830
+om dat te verwerken in de oplossing.
+Ik besef dat het een aantal jaar duurt...
+
+249
+05:41:20,170 --> 05:41:21,969
+voordat iedereen door die
+molen heen is geweest.
+
+250
+05:41:22,030 --> 05:41:24,190
+Ik ga op dat punt een extra inspanning plegen.
+
+251
+05:41:24,650 --> 05:41:29,229
+Als het gaat om het bijplaatsen van palen
+waardoor we de dekkingsgraad verbeteren,
+
+252
+05:41:29,570 --> 05:41:34,489
+heb ik het idee dat we nu doen wat
+we kunnen met de projectgroep en
+het versnellen van de vergunningen.
+
+253
+05:41:35,589 --> 05:41:37,389
+Maar dan nog duurt het...
+
+254
+05:41:38,830 --> 05:41:43,530
+gemiddeld een jaar voordat je tussen het
+identificeren en het plaatsen van een...
+
+255
+05:41:44,229 --> 05:41:46,249
+mast alle procedures hebt doorlopen.
+
+256
+05:41:46,330 --> 05:41:48,089
+Dat kan ik, vrees ik,
+niet heel veel versnellen.
+
+257
+05:41:50,249 --> 05:41:51,170
+Dank. Maar nogmaals,
+
+258
+05:41:51,270 --> 05:41:54,670
+het was niet deze minister die sinds zijn
+aantreden hiervoor verantwoordelijk is.
+
+259
+05:41:54,709 --> 05:41:58,729
+Het gaat al jaren zo. De vraag blijft een
+beetje waarom het nu zover moet komen...
+
+260
+05:41:59,190 --> 05:42:02,599
+dat het tot een procedure moet komen
+en de Arbeidsinspectie een dwangsom
+
+261
+05:42:02,599 --> 05:42:06,009
+moet eisen, die ook is toegekend,
+waardoor er betaald moet gaan worden.
+
+262
+05:42:06,070 --> 05:42:10,249
+Eigenlijk is het heel raar dat de ene
+overheid aan de andere moet betalen.
+Toch is het goed dat het gebeurt,
+
+263
+05:42:10,749 --> 05:42:14,129
+want zo worden deze minister en de
+politieorganisatie gedwongen om de...
+
+264
+05:42:14,709 --> 05:42:18,830
+veiligheidssituatie van al die agenten
+die dagelijks voor onze veiligheid staan,
+
+265
+05:42:19,450 --> 05:42:20,670
+te verbeteren.
+
+266
+05:42:20,889 --> 05:42:26,550
+Maar had dat geld nou niet beter gebruikt
+kunnen worden om het systeem eerder te
+verbeteren? Had het nou wel zover moeten komen,
+
+267
+05:42:27,209 --> 05:42:28,570
+vraag ik de minister eerlijk.
+
+268
+05:42:29,629 --> 05:42:32,629
+Voorop staat natuurlijk de
+veiligheid van onze agenten.
+
+269
+05:42:32,670 --> 05:42:37,129
+Ik denk niet dat er iemand in de organisatie
+ooit ongemotiveerd is geweest om dit systeem...
+
+270
+05:42:37,550 --> 05:42:41,369
+zo goed mogelijk werkend te maken. Geld is
+daarbij ook nooit een belemmering geweest.
+
+271
+05:42:42,150 --> 05:42:46,670
+We hebben wel onbekendheid
+gezien met de beperkingen die elk
+systeem nu eenmaal in zich heeft.
+
+272
+05:42:47,229 --> 05:42:48,109
+Daar moeten we aan werken.
+
+273
+05:42:48,150 --> 05:42:49,290
+Daarvoor zet ik nu een stapje extra.
+
+274
+05:42:49,849 --> 05:42:51,950
+Helpt druk van de inspectie daarbij? Absoluut.
+
+275
+05:42:52,790 --> 05:42:53,930
+Dat houdt ons allemaal scherp.
+
+276
+05:42:54,389 --> 05:42:58,229
+Ik hoop dat we niet tot betaling
+van de dwangsom over hoeven te gaan,
+
+277
+05:42:58,270 --> 05:43:00,550
+want dat gaat pas spelen
+vanaf februari volgend jaar,
+
+278
+05:43:00,910 --> 05:43:04,629
+namelijk als de inspectie op dat moment niet
+blij is met de voortgang die we hebben geboekt.
+
+279
+05:43:05,109 --> 05:43:06,150
+Ik probeer dat te voorkomen.
+
+280
+05:43:06,609 --> 05:43:07,770
+Wat betreft de dekkingsgraad...
+
+281
+05:43:08,150 --> 05:43:11,709
+doen we dat zo snel als we kunnen en op
+zo veel mogelijk plekken als we kunnen.
+
+282
+05:43:12,690 --> 05:43:15,089
+Ik...
+
+283
+05:43:15,629 --> 05:43:21,450
+voel het ongemak van mijn collega's ten
+aanzien van de antwoorden van de minister.
+
+284
+05:43:21,530 --> 05:43:25,670
+We hebben deze antwoorden ook keer op
+keer van zijn voorganger gehoord en er is...
+
+285
+05:43:25,709 --> 05:43:26,989
+telkens beterschap beloofd.
+
+286
+05:43:27,469 --> 05:43:30,170
+Het gaat hier wel om de veiligheid
+van onze politieagenten.
+
+287
+05:43:30,270 --> 05:43:31,849
+Wat er nu gebeurt is onacceptabel.
+
+288
+05:43:31,889 --> 05:43:35,930
+De dwangsom kan tot maximaal 1 miljoen oplopen.
+
+289
+05:43:36,589 --> 05:43:38,430
+Dat geld had je inderdaad
+ook anders kunnen bestemmen.
+
+290
+05:43:38,530 --> 05:43:43,349
+Mijn vraag gaat concreet over de dekkingsgraad.
+Ik weet dat we in het verleden de...
+
+291
+05:43:43,389 --> 05:43:47,989
+zogenaamde DIPP in het leven hebben
+geroepen om een prioritering aan te
+geven voor de dekkingsissues die er zijn.
+
+292
+05:43:48,410 --> 05:43:51,609
+Mag ik,
+
+293
+05:43:52,209 --> 05:43:57,849
+ook vanwege de dwangsommen die worden
+opgelegd, de conclusie trekken dat
+deze zogenaamde DIPP-procedure om...
+
+294
+05:43:58,450 --> 05:44:04,450
+prioritering aan te brengen op deze issues,
+en de aanpak daarvan, gewoon niet werkt?
+
+295
+05:44:04,489 --> 05:44:06,170
+Wat doet de minister daartegen?
+
+296
+05:44:07,670 --> 05:44:11,330
+Nee, die conclusie mag u daar
+niet aan verbinden. De DIPP werkt.
+
+297
+05:44:11,989 --> 05:44:16,190
+Tot 2024 zijn er...
+
+298
+05:44:16,690 --> 05:44:18,050
+via dit proces 31
+prioriteitsgebieden aangewezen.
+
+299
+05:44:18,070 --> 05:44:19,889
+Daarvan zijn er 19 al opgelost.
+
+300
+05:44:20,330 --> 05:44:21,509
+Dat is dus meer dan de helft.
+
+301
+05:44:22,570 --> 05:44:23,430
+Daardoor hebben we wel...
+
+302
+05:44:23,489 --> 05:44:24,869
+meer prioritaire gebieden...
+
+303
+05:44:24,910 --> 05:44:25,989
+toegewezen aan de DIPP.
+
+304
+05:44:26,050 --> 05:44:29,109
+Daarom noemde ik het totaalgetal van 94,
+
+305
+05:44:29,170 --> 05:44:29,830
+waarvan er nu 19...
+
+306
+05:44:30,609 --> 05:44:31,670
+zijn opgelost.
+
+307
+05:44:32,150 --> 05:44:34,550
+Het helpt dus, want het brengt focus aan en het...
+
+308
+05:44:35,109 --> 05:44:38,389
+laat ons de meeste effort steken in de
+gebieden waar dat het meeste nodig is.
+
+309
+05:44:39,229 --> 05:44:44,849
+Dan nog, zeg ik maar weer opnieuw,
+hebben we niet van vandaag op
+morgen al die 65 DIPP-plekken...
+
+310
+05:44:45,989 --> 05:44:47,650
+opgelost.
+
+311
+05:44:49,869 --> 05:44:54,550
+Maar dan nog kan deze minister de veiligheid
+van agenten daarmee dus niet garanderen.
+
+312
+05:44:55,330 --> 05:45:00,430
+Als dit nog een jaar of twee jaar
+gaat duren, dan duurt het mij te lang.
+
+313
+05:45:00,489 --> 05:45:04,770
+Dat geldt overigens ook voor de nieuwe
+plannen en de opvolger van C2000.
+
+314
+05:45:05,250 --> 05:45:08,790
+AcICT heeft daarover gezegd dat
+het gedoemd is te mislukken.
+
+315
+05:45:08,849 --> 05:45:13,429
+Mijn laatste vraag is waarom de
+minister de adviezen van de AcICT...
+
+316
+05:45:14,010 --> 05:45:18,909
+alsnog niet opvolgt en dus niet eerst
+gaat investeren in een stevig fundament...
+
+317
+05:45:19,649 --> 05:45:24,909
+voor het toekomstige communicatiesysteem
+en de kwaliteit van het huidige systeem,
+
+318
+05:45:25,070 --> 05:45:26,070
+want dat mis ik echt.
+
+319
+05:45:28,409 --> 05:45:32,490
+De veiligheid van agenten hangt niet alleen
+maar af van een communicatiesysteem als C2000.
+
+320
+05:45:32,490 --> 05:45:37,409
+Dat is waarom we werken met
+alternatieven, zoals een...
+
+321
+05:45:37,470 --> 05:45:38,710
+push-to-talksysteem...
+
+322
+05:45:39,270 --> 05:45:43,770
+waarbij het mobiele netwerk
+kan worden gebruikt.
+
+323
+05:45:43,990 --> 05:45:47,669
+Zoals we weten is dat systeem inmiddels
+in heel Nederland dekkend, met
+een hoge mate van betrouwbaarheid.
+
+324
+05:45:48,030 --> 05:45:53,149
+We zorgen er dus voor dat er een
+alternatief is, ook als C2000 nu nog niet
+werkt of überhaupt niet bruikbaar is.
+
+325
+05:45:53,210 --> 05:45:57,830
+Waar dat gebruiksvriendelijker kan
+door te innoveren, zullen we dat doen.
+
+326
+05:45:58,230 --> 05:46:00,369
+Daar blijven we mee bezig.
+
+327
+05:46:00,949 --> 05:46:02,169
+Waar het gaat om de opvolger:...
+
+328
+05:46:02,490 --> 05:46:03,770
+daar ben ik zelf zeer mee begaan.
+
+329
+05:46:04,270 --> 05:46:05,770
+U weet dat ik,
+
+330
+05:46:06,830 --> 05:46:09,609
+in ieder geval in mijn meest
+recente functie, een geschiedenis
+heb met betrekking tot innovatie,
+
+331
+05:46:09,689 --> 05:46:11,429
+communicatie en ICT.
+
+332
+05:46:12,089 --> 05:46:15,609
+Ik bemoei me daar dus stevig tegenaan om
+ervoor te zorgen dat de opvolger van C2000...
+
+333
+05:46:16,210 --> 05:46:19,790
+echt state-of-the-art is en het beste
+is dat we onze agenten kunnen bieden.
+
+334
+05:46:20,889 --> 05:46:22,750
+Ik...
+
+335
+05:46:23,250 --> 05:46:24,750
+zit met het begrip "dwangsom".
+
+336
+05:46:25,570 --> 05:46:29,609
+Een dwangsom leg je op aan iemand
+die eigenlijk niet wil, om hem te
+bewegen in de gewenste richting.
+
+337
+05:46:30,510 --> 05:46:34,010
+In eerste instantie was ik gerustgesteld door
+het antwoord van de minister, die zei dat er...
+
+338
+05:46:34,230 --> 05:46:36,589
+niemand ongemotiveerd is om dit op te lossen.
+
+339
+05:46:37,290 --> 05:46:39,109
+Even later zei hij erachteraan dat...
+
+340
+05:46:40,409 --> 05:46:43,689
+de dwangsommen van de Arbeidsinspectie
+daar ook bij helpen en...
+
+341
+05:46:43,790 --> 05:46:44,990
+dat die ons allemaal scherp houden.
+
+342
+05:46:45,810 --> 05:46:47,689
+Wat is het nu?
+
+343
+05:46:47,790 --> 05:46:52,629
+Kan de minister bevestigen dat de
+dwangsommen eigenlijk volstrekt
+overbodig en dus ondoelmatig zijn,
+
+344
+05:46:52,669 --> 05:46:54,750
+omdat de motivatie om dit op
+te lossen zo hoog is dat deze,
+
+345
+05:46:55,369 --> 05:46:56,510
+welke boete je ook oplegt,
+
+346
+05:46:57,010 --> 05:46:58,310
+geen enkele versnelling teweegbrengen?
+
+347
+05:46:59,730 --> 05:47:02,869
+Ik zei niet dat de
+dwangsommen an sich helpen; ik...
+
+348
+05:47:02,929 --> 05:47:05,649
+zei dat druk van buitenaf helpt, ook als
+die wordt uitgeoefend door een inspectie.
+
+349
+05:47:06,369 --> 05:47:08,830
+Een onafhankelijke...
+
+350
+05:47:09,589 --> 05:47:11,070
+blik op hoe wij ons werk doen,
+
+351
+05:47:11,189 --> 05:47:12,589
+helpt ons natuurlijk om
+dat werk nog beter te doen.
+
+352
+05:47:12,970 --> 05:47:15,089
+Ik hoop die dwangsommen te kunnen voorkomen.
+
+353
+05:47:16,270 --> 05:47:18,570
+Daarbij ga ik kijken waar
+ik wel kan versnellen.
+
+354
+05:47:18,649 --> 05:47:22,230
+Dat kan ik dus niet noodzakelijkerwijs
+doen in plaats van extra zendmasten,
+
+355
+05:47:22,270 --> 05:47:24,129
+want daar hebben we een procedure
+voor, zoals ik al vertelde.
+
+356
+05:47:24,490 --> 05:47:25,609
+Dat neemt tijd in beslag.
+
+357
+05:47:26,290 --> 05:47:31,189
+Mogelijk kan ik dat wel doen door
+tussentijdse voorlichting te geven in
+aanvulling op de opleidingen die komen.
+
+358
+05:47:31,629 --> 05:47:33,810
+Ik hoop dat dat in ieder
+geval de agenten helpt.
+
+359
+05:47:33,949 --> 05:47:36,369
+Daarmee heeft de inspectie ons inderdaad...
+
+360
+05:47:36,990 --> 05:47:41,389
+wel aangespoord om het uiterste te doen dat we
+nog kunnen verzinnen om toch iets meer te doen.
+
+361
+05:47:42,230 --> 05:47:43,089
+Iedereen...
+
+362
+05:47:44,250 --> 05:47:45,210
+hier...
+
+363
+05:47:45,250 --> 05:47:46,070
+is...
+
+364
+05:47:46,990 --> 05:47:52,369
+het erover eens dat we er
+alles aan moeten doen om C2000...
+
+365
+05:47:52,449 --> 05:47:53,169
+werkend te krijgen,
+
+366
+05:47:53,250 --> 05:47:56,710
+omdat het een cruciale communicatielijn
+is tussen politie en hulpverleners.
+
+367
+05:47:57,250 --> 05:47:59,659
+Gelukkig bevestigt de minister
+dat ook. De minister noemt de
+
+368
+05:47:59,659 --> 05:48:02,070
+zendmasten, het gebruik daarvan en de
+voorlichting over het gebruik daarvan.
+
+369
+05:48:02,510 --> 05:48:07,530
+Maar ik hoor hem niet over een
+andere dreiging, namelijk de dreiging
+die zit in de infrastructuur.
+
+370
+05:48:07,949 --> 05:48:09,710
+Een paar maanden geleden hadden we een...
+
+371
+05:48:10,270 --> 05:48:11,210
+probleem met het...
+
+372
+05:48:11,530 --> 05:48:15,550
+zeer beveiligde netwerk van Defensie
+hier in Den Haag, NAFIN genaamd.
+
+373
+05:48:15,589 --> 05:48:17,449
+Daar had ook C2000 last van.
+
+374
+05:48:17,970 --> 05:48:23,230
+Er komen steeds meer digitale
+dreigingen en aanvallen.
+
+375
+05:48:23,609 --> 05:48:28,050
+Ook dat is een element waarvan
+ik aan de minister zou willen
+vragen hoe we dat ondervangen.
+
+376
+05:48:28,129 --> 05:48:29,830
+Dat is namelijk juist...
+
+377
+05:48:29,970 --> 05:48:31,330
+bijna een...
+
+378
+05:48:31,389 --> 05:48:32,490
+easy,
+
+379
+05:48:32,550 --> 05:48:37,349
+een makkelijk doelwit om ervoor
+te zorgen dat onze politie en
+hulpverleners uitgeschakeld zijn...
+
+380
+05:48:37,409 --> 05:48:39,470
+omdat ze niet meer met
+elkaar kunnen communiceren.
+
+381
+05:48:39,929 --> 05:48:44,030
+Wat is de inzet van het kabinet
+op deze kant van de risico's?
+
+382
+05:48:45,270 --> 05:48:46,490
+Dank voor die vraag.
+
+383
+05:48:46,589 --> 05:48:47,949
+Mevrouw Michon heeft gelijk:...
+
+384
+05:48:48,030 --> 05:48:50,490
+het aantal cyberdreigingen is heel hoog.
+
+385
+05:48:50,730 --> 05:48:55,109
+En als er geen cyberdreigingen zijn,
+kunnen er alsnog netwerken uitvallen...
+
+386
+05:48:56,449 --> 05:49:00,189
+door de verkeerde toepassing
+van protocollen of anderszins.
+
+387
+05:49:00,250 --> 05:49:02,830
+Het NAFIN-netwerk van Defensie
+is een voorbeeld van dat laatste.
+
+388
+05:49:02,869 --> 05:49:05,689
+Er zijn geen aanwijzingen dat
+er sprake was van een aanval.
+
+389
+05:49:06,730 --> 05:49:07,589
+Je moet zorgen voor een zo...
+
+390
+05:49:07,869 --> 05:49:12,550
+hoog mogelijke weerbaarheid tegen aanvallen,
+maar ook voor redundantie in systemen op het...
+
+391
+05:49:12,589 --> 05:49:13,629
+moment dat je aangevallen wordt.
+
+392
+05:49:13,770 --> 05:49:17,570
+Op dat punt is het incident met het
+NAFIN-netwerk wel weer interessant,
+
+393
+05:49:17,689 --> 05:49:19,790
+omdat daarbij de meldkamers
+uitvielen en de C2000-applicatie...
+
+394
+05:49:19,849 --> 05:49:22,869
+dus uitviel.
+
+395
+05:49:23,349 --> 05:49:26,349
+Maar er is wel een back-upsysteem
+waar gebruik van is gemaakt,
+
+396
+05:49:26,389 --> 05:49:27,270
+waardoor iedereen gewoon 112...
+
+397
+05:49:27,349 --> 05:49:32,109
+heeft kunnen bereiken gedurende die
+storing, de politie gewoon op pad
+kon worden gestuurd en er gewoon...
+
+398
+05:49:32,210 --> 05:49:33,730
+contact was met de eenheden.
+
+399
+05:49:34,349 --> 05:49:38,949
+Ik denk dat we als overheid, maar
+ook als bedrijfsleven en als burgers,
+
+400
+05:49:39,550 --> 05:49:43,669
+ter harte moeten nemen dat geen
+enkel netwerk 100% van de tijd...
+
+401
+05:49:44,089 --> 05:49:45,790
+gegarandeerd altijd beschikbaar is.
+
+402
+05:49:45,970 --> 05:49:49,629
+Dat staat los van het gegeven dat
+je je best moet doen om dat zo
+veilig en robuust mogelijk te maken.
+
+403
+05:49:50,050 --> 05:49:54,330
+C2000 is daar een voorbeeld van, want
+dat heeft gewoon zijn eigen netwerk.
+
+404
+05:49:54,869 --> 05:49:57,169
+Dat berust niet op een commercieel systeem.
+
+405
+05:49:57,270 --> 05:50:00,449
+Dat is gewoon ons netwerk
+waarmee we verbinding hebben.
+
+406
+05:50:00,589 --> 05:50:01,869
+Maar ook dat kan uitvallen,
+
+407
+05:50:01,949 --> 05:50:03,070
+en dan moet je een back-upplan hebben.
+
+408
+05:50:04,909 --> 05:50:09,869
+Overigens hoorde ik vanuit de politie dat
+er wel degelijk problemen zijn geweest om...
+
+409
+05:50:10,189 --> 05:50:11,909
+via C2000 met elkaar te communiceren.
+
+410
+05:50:11,949 --> 05:50:13,369
+Ik zou dat een goede aanleiding vinden...
+
+411
+05:50:13,550 --> 05:50:17,369
+om dat nog eens te evalueren
+en te kijken hoe in de toekomst...
+
+412
+05:50:17,889 --> 05:50:19,869
+het handelingsperspectief kan worden verbeterd.
+
+413
+05:50:19,949 --> 05:50:21,869
+Mijn tweede vraag in dit kader gaat...
+
+414
+05:50:23,129 --> 05:50:25,990
+over partners van de politie.
+
+415
+05:50:26,030 --> 05:50:31,149
+We zeggen steeds dat de politiecapaciteit
+onder druk staat. De politie
+werkt samen met handhavers en de...
+
+416
+05:50:31,449 --> 05:50:33,050
+groene boa's,
+
+417
+05:50:33,230 --> 05:50:35,710
+de handhavers in de buitengebieden.
+
+418
+05:50:36,409 --> 05:50:40,929
+Ook daar zie je dat er over en weer
+behoefte is om elkaar beter te vinden en...
+
+419
+05:50:40,949 --> 05:50:41,970
+sneller met elkaar te communiceren,
+
+420
+05:50:41,990 --> 05:50:46,470
+vooral waar zo'n handhaver midden in
+de nacht in een natuurgebied loopt,
+
+421
+05:50:46,550 --> 05:50:50,189
+ook vaak alleen.
+
+422
+05:50:50,250 --> 05:50:54,510
+Is de minister bereid om met de politie
+en handhavers samen te kijken hoe die
+communicatie kan worden verbeterd,
+
+423
+05:50:55,050 --> 05:50:57,149
+al dan niet via C2000?
+
+424
+05:50:57,189 --> 05:50:59,889
+Laten we ervoor zorgen
+dat iedereen die bijdraagt...
+
+425
+05:51:00,310 --> 05:51:03,970
+aan een veilig Nederland dat zelf
+op een veilige manier kan doen.
+
+426
+05:51:04,030 --> 05:51:05,609
+Wat de handhavers betreft,
+
+427
+05:51:06,449 --> 05:51:08,589
+valt er hier en daar nog wat te wensen.
+
+428
+05:51:09,869 --> 05:51:11,089
+Ik ben zeker bereid om daarnaar te kijken.
+
+429
+05:51:12,050 --> 05:51:14,449
+Zoals mevrouw Michon zegt, hoeft
+dat niet met C2000 te zijn.
+
+430
+05:51:14,510 --> 05:51:15,810
+Maar mensen moeten elkaar wel kunnen vinden,
+
+431
+05:51:16,349 --> 05:51:18,369
+zeker als ze in hetzelfde domein actief zijn.
+
+432
+05:51:19,089 --> 05:51:22,609
+De Arbeidsinspectie heeft deze...
+
+433
+05:51:23,189 --> 05:51:28,710
+dwangsom opgelegd in de veronderstelling
+dat er nu te weinig wordt gedaan om echt
+voortgang te maken op het C2000-dossier.
+
+434
+05:51:28,730 --> 05:51:33,270
+De minister heeft het probleem ook
+ontleed in twee factoren, enerzijds de
+dekking en anderzijds de voorlichting.
+
+435
+05:51:33,710 --> 05:51:37,169
+Hij heeft vrij duidelijk aangegeven
+waar hij nog stappen wil zetten
+op het gebied van voorlichting.
+
+436
+05:51:37,869 --> 05:51:41,490
+Hij wil zo dingen versnellen, voordat er
+overgegaan wordt tot dwangsom op dwangsom.
+
+437
+05:51:42,189 --> 05:51:46,369
+Maar ziet hij nog kansen om op het punt
+van dekking verdere voortgang te maken,
+
+438
+05:51:46,429 --> 05:51:48,470
+zodat we in elk geval
+gerustgesteld zijn dat problemen...
+
+439
+05:51:50,030 --> 05:51:52,250
+wel tijdig bijgestuurd worden?
+
+440
+05:51:53,649 --> 05:51:55,189
+Op het gebied van dekking...
+
+441
+05:51:55,609 --> 05:51:59,830
+heb ik een aantal zaken aangestipt.
+Een daarvan is dat we aan de
+slag gaan met de DIPP-gebieden.
+
+442
+05:52:00,689 --> 05:52:05,189
+Daar hebben we er dus dit jaar
+65 aan toegevoegd en die geven
+we prioriteit in de oplossing.
+
+443
+05:52:05,250 --> 05:52:06,050
+We...
+
+444
+05:52:07,189 --> 05:52:08,849
+borduren daarmee voort op de 31 die we hadden,
+
+445
+05:52:08,909 --> 05:52:10,330
+waarvan we er 19 hebben opgelost.
+
+446
+05:52:10,409 --> 05:52:11,609
+Er komen er nu 65 bij.
+
+447
+05:52:12,250 --> 05:52:15,750
+Dus die molen draait, maar
+die heeft zijn eigen snelheid.
+
+448
+05:52:16,570 --> 05:52:18,070
+De tweede is het oplossen van die storingen —...
+
+449
+05:52:18,129 --> 05:52:22,490
+dat zei ik eerder al — of die nou door
+zonnepanelen of door luchtverfrissers komen.
+
+450
+05:52:23,030 --> 05:52:25,270
+Er komen continu nieuwe
+apparaten bij in ons leven.
+
+451
+05:52:25,349 --> 05:52:27,010
+Waar die storen...
+
+452
+05:52:27,050 --> 05:52:28,629
+met het TETRA-netwerk,
+
+453
+05:52:29,349 --> 05:52:31,349
+zullen we dat oppakken en oplossen.
+
+454
+05:52:32,129 --> 05:52:33,589
+Het derde wat ik daaraan kan doen,
+
+455
+05:52:33,770 --> 05:52:35,510
+is het verbeteren van die back-upapplicatie,
+
+456
+05:52:36,149 --> 05:52:37,490
+die mobiele app...
+
+457
+05:52:37,629 --> 05:52:38,949
+op de telefoon.
+
+458
+05:52:39,750 --> 05:52:43,109
+Ik zei al dat op dit moment agenten
+met twee handen daaraan moeten zitten.
+
+459
+05:52:43,949 --> 05:52:47,310
+Dat is op het moment dat je in een
+levensbedreigende situatie zit,
+
+460
+05:52:47,369 --> 05:52:48,470
+natuurlijk niet wat je wil doen.
+
+461
+05:52:48,649 --> 05:52:52,290
+Als we dat makkelijker kunnen maken door
+deze met één toets beschikbaar te maken,
+
+462
+05:52:52,949 --> 05:52:55,129
+dan zullen we dat soort
+innovaties meteen doorvoeren.
+
+463
+05:52:56,889 --> 05:52:58,669
+Helder antwoord,
+
+464
+05:52:58,770 --> 05:53:01,629
+maar de inspectie heeft dit
+natuurlijk vrij recentelijk opgelegd.
+
+465
+05:53:01,710 --> 05:53:05,050
+Veel van de dingen die de minister
+beschrijft, zijn al enige tijd in gang gezet.
+
+466
+05:53:05,669 --> 05:53:08,849
+Wat gaat er nu precies veranderen vanaf
+het moment dat die dwangsom er is?
+
+467
+05:53:09,210 --> 05:53:14,290
+Want dat was blijkbaar niet voldoende
+voor de inspectie om ze gerust te
+stellen. Gaat er nog een intensivering...
+
+468
+05:53:14,389 --> 05:53:17,909
+op het gebied van dekking plaatsvinden in
+de oplossingen die de minister aandraagt?
+
+469
+05:53:18,470 --> 05:53:20,589
+Zoals ik al zei, zit voor de inspectie,
+
+470
+05:53:21,050 --> 05:53:21,929
+zoals wij nu weten,
+
+471
+05:53:22,010 --> 05:53:24,629
+het voornaamste punt waar zij vindt dat meer
+snelheid in moet aan die voorlichtingskant.
+
+472
+05:53:24,790 --> 05:53:27,990
+Daarover heb ik gezegd dat ik
+een versnelling ga doorvoeren.
+
+473
+05:53:28,129 --> 05:53:32,609
+Ik zie niet heel veel mogelijkheden
+aan de dekkingskant, maar we
+blijven in gesprek met de inspectie.
+
+474
+05:53:32,830 --> 05:53:35,909
+Als zij mogelijkheden ziet waar ik die
+niet zie, sta ik daar altijd voor open.
+
+475
+05:53:35,949 --> 05:53:38,270
+Maar technisch gezien is dit wat
+we op dit moment kunnen doen.
+
+476
+05:53:39,070 --> 05:53:40,369
+Prima. Hartelijk dank aan de...
+
+477
+05:53:40,629 --> 05:53:41,550
+minister.
+
+478
+05:53:42,070 --> 05:53:42,970
+Tot...
+
+479
+05:53:44,510 --> 05:53:45,849
+zover...
+
+480
+06:28:14,009 --> 06:28:15,730
+het...
+
+481
+06:28:21,750 --> 06:28:25,250
+vragenuurtje.

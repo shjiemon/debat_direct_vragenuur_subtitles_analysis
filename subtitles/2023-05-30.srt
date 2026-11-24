@@ -1,0 +1,3836 @@
+1
+05:24:24,952 --> 05:24:27,352
+Aan de orde is het mondelinge vragenuur.
+
+2
+05:24:27,452 --> 05:24:32,152
+Ik heet de minister van Justitie
+en Veiligheid, de woordvoerders,
+
+3
+05:24:32,232 --> 05:24:34,902
+de mensen op de publieke tribune en
+de mensen die op een andere manier
+het vragenuur volgen van harte welkom.
+
+4
+05:24:35,002 --> 05:24:40,211
+Ik geef als eerste het woord
+aan de heer Eerdmans van JA21.
+
+5
+05:24:40,211 --> 05:24:42,751
+Hij heeft een mondelinge vraag
+aan de minister over het bericht...
+
+6
+05:24:42,851 --> 05:24:48,132
+dat miljoenen zonnepaneelinstallaties
+in Nederland door slechte cybersecurity...
+
+7
+05:24:48,231 --> 05:24:49,801
+gemakkelijk te hacken zijn.
+
+8
+05:24:49,902 --> 05:24:56,562
+Het woord is aan de heer Eerdmans van
+JA21. Voorzitter, dank u zeer. We hebben...
+
+9
+05:24:56,661 --> 05:24:59,632
+in Nederland een waakhond die onze
+digitale infrastructuur moet bewaken.
+
+10
+05:24:59,692 --> 05:25:05,581
+Die waakhond slaat vandaag in een
+rapport alarm. Dit is niet zomaar iets.
+
+11
+05:25:05,681 --> 05:25:09,211
+Het blijkt dat onder andere
+zonnepaneelinstallaties — we hebben
+daar miljoenen van in Nederland,
+
+12
+05:25:09,291 --> 05:25:13,732
+16 miljoen installaties heb ik gelezen —
+vrij gemakkelijk gehackt kunnen worden.
+
+13
+05:25:13,772 --> 05:25:15,581
+Daar zit weinig bescherming omheen.
+
+14
+05:25:15,681 --> 05:25:20,232
+Niet een van de geteste apparaten voldeed
+aan de veiligheidseisen van de inspectie.
+
+15
+05:25:20,291 --> 05:25:23,842
+Dit kan natuurlijk nare gevolgen hebben
+voor mensen met een zonnepaneel op het dak.
+
+16
+05:25:23,942 --> 05:25:30,072
+Als hackers over al die zonnepanelen
+tegelijk controle zouden krijgen kan dit
+zelfs nog veel naardere gevolgen hebben.
+
+17
+05:25:30,152 --> 05:25:33,941
+Dan kunnen ze samen namelijk
+ingezet worden als een ddos-aanval...
+
+18
+05:25:34,042 --> 05:25:37,971
+op onze totale digitale infrastructuur.
+In dat geval gaat alles plat.
+
+19
+05:25:38,092 --> 05:25:41,202
+We hebben het dan over het luchtverkeer,
+
+20
+05:25:41,301 --> 05:25:46,652
+over het scheepvaartverkeer
+en over C2000-masten.
+
+21
+05:25:46,751 --> 05:25:49,342
+Dit is volgens de inspectie een reëel
+scenario. Wij delen die zorgen.
+
+22
+05:25:49,441 --> 05:25:53,232
+Ik denk dat de minister deze zorgen
+ook deelt; ik zie haar nu al knikken.
+Deelt u ook de analyse van de RDI...
+
+23
+05:25:53,292 --> 05:25:55,652
+die hier onderligt? De enorme kwetsbaarheid...
+
+24
+05:25:55,712 --> 05:26:00,842
+van de slimme apparaten die wij thuis
+hebben. Dit zijn er natuurlijk veel
+meer dan alleen de zonnepanelen.
+
+25
+05:26:00,941 --> 05:26:05,941
+Bent u zich daarvan bewust? Bent
+u er zich ook van bewust dat heel
+veel mensen in ons land daar juist...
+
+26
+05:26:06,042 --> 05:26:09,551
+helemaal niet mee bezig zijn? Dat
+mensen dat ook niet controleren en daar
+zich het gevaar niet van realiseren?
+
+27
+05:26:09,572 --> 05:26:11,732
+Dat kun je ze ook nauwelijks kwalijk nemen.
+
+28
+05:26:13,491 --> 05:26:18,971
+Wat gaat u daaraan doen? Laat ik met
+deze twee vragen openen. Dank u wel.
+
+29
+05:26:19,012 --> 05:26:24,952
+Ik geef het woord aan de
+minister. Dank u wel, voorzitter.
+
+30
+05:26:25,092 --> 05:26:31,682
+Bedankt ook voor deze vragen. Ik ben
+zeker bekend met het Telegraaf-artikel.
+
+31
+05:26:31,781 --> 05:26:35,771
+In dit artikel wordt ook gesproken over
+miljoenen zonnepaneelinstallaties in...
+
+32
+05:26:35,811 --> 05:26:39,591
+Nederland die door slechte cybersecurity
+makkelijk te hacken zijn. Het bericht,
+
+33
+05:26:39,672 --> 05:26:44,361
+dat ook over andere apparatuur
+gaat, nemen wij uiterst serieus.
+
+34
+05:26:44,461 --> 05:26:49,172
+De Nationaal Coordinator Terrorismebestrijding
+en Veiligheid publiceert jaarlijks...
+
+35
+05:26:49,271 --> 05:26:54,931
+een Cybersecuritybeeld Nederland, waarin
+nadrukkelijk aandacht wordt gevraagd
+voor de toenemende digitale dreiging.
+
+36
+05:26:55,032 --> 05:27:01,961
+Vanuit het kabinet zetten wij ons ervoor in...
+
+37
+05:27:02,061 --> 05:27:08,061
+om te voorkomen dat deze risico's een
+bedreiging vormen voor de continuïteit,
+integriteit en vertrouwelijkheid...
+
+38
+05:27:08,162 --> 05:27:11,931
+van alle vitale processen in
+ons land, waaronder energie.
+
+39
+05:27:11,991 --> 05:27:14,422
+Ik doe dat bijvoorbeeld nauw samen met
+mijn collega van EZK. Ik bouw het heel
+
+40
+05:27:14,422 --> 05:27:16,852
+even op vanuit zonnepanelen, want daar
+ging het artikel natuurlijk specifiek over.
+
+41
+05:27:16,891 --> 05:27:21,792
+Ik zal zo ook ingaan op de vraag van de
+heer Eerdmans. Dit betekent dat transport,
+
+42
+05:27:21,831 --> 05:27:27,912
+distributie en productie van
+elektriciteit op land en op zee door
+de minister van EZK zijn aangemerkt...
+
+43
+05:27:27,952 --> 05:27:29,331
+als vitale processen.
+
+44
+05:27:29,472 --> 05:27:35,111
+Dat is belangrijk, omdat dit
+betekent dat er dan periodiek
+analyses plaatsvinden van dreigingen,
+
+45
+05:27:35,192 --> 05:27:40,371
+risico's en het weerbaarheidsniveau. Ook vindt
+toezicht door een toezichthouder plaats.
+
+46
+05:27:40,412 --> 05:27:45,021
+Dat is natuurlijk ook het bericht
+van de Rijksinspectie Digitale
+Infrastructuur. Dat past ook...
+
+47
+05:27:45,121 --> 05:27:50,771
+hierbij: een cyclus van monitoring van dreiging
+en het treffen van passende maatregelen.
+
+48
+05:27:50,852 --> 05:27:56,431
+Voor huishoudelijke apparatuur
+en slimme apparatuur die wij in
+onze huizen kunnen hebben —...
+
+49
+05:27:56,472 --> 05:27:57,942
+de heer Eerdmans stelde daar
+een terechte vraag over —...
+
+50
+05:27:58,042 --> 05:28:02,882
+is er specifieke Europese wetgeving
+in de maak, om ervoor te zorgen...
+
+51
+05:28:02,982 --> 05:28:08,091
+dat we mensen voorlichten en informatie geven
+over hoe met dat soort apparaten om te gaan.
+
+52
+05:28:08,132 --> 05:28:10,852
+Met die wetgeving kunnen we er ook voor...
+
+53
+05:28:10,871 --> 05:28:15,032
+zorgen dat het goed geborgd is dat
+die veiligheidseisen zijn geregeld
+en zo nodig worden afgedwongen.
+
+54
+05:28:15,132 --> 05:28:22,931
+Het is dus en-en op al die terreinen.
+
+55
+05:28:22,991 --> 05:28:28,512
+Ik kom zo even terug op de wetgeving.
+Het punt is dit. Alle apparaten
+die in ons huis aanwezig zijn,
+
+56
+05:28:28,572 --> 05:28:33,391
+zijn in feite al een springplank
+voor criminelen. Weinig mensen zijn
+zich daar echt van bewust, denk ik.
+
+57
+05:28:33,452 --> 05:28:37,991
+Er zijn mensen die al alleen
+met hun iPad of telefoon de...
+
+58
+05:28:38,012 --> 05:28:40,751
+lampen aandoen en de
+thermostaat aan- of uitzetten.
+
+59
+05:28:40,792 --> 05:28:44,212
+Ik noem de slimme meter, de
+televisie, de bewakingscamera.
+
+60
+05:28:44,311 --> 05:28:48,152
+Hele huizen zijn digitaal bemand.
+
+61
+05:28:48,232 --> 05:28:52,412
+De enige deur die dan voor een crimineel
+open moet om daar gigantisch misbruik
+van te maken, is die digitale voordeur.
+
+62
+05:28:52,491 --> 05:28:57,051
+Sterker nog, er wordt grote schade
+berokkend, ook aan de rest van het land.
+
+63
+05:28:57,071 --> 05:28:59,451
+U noemt wetgeving. Ik weet dat we
+feitelijk met een gap van een jaar zitten,
+
+64
+05:28:59,491 --> 05:29:04,412
+totdat Europese regels doordringen
+en onze telecommunicatiewetseisen...
+
+65
+05:29:04,511 --> 05:29:08,551
+daarin worden versterkt. We zitten
+dus eigenlijk met een jaar overgang.
+
+66
+05:29:08,611 --> 05:29:14,212
+Hoe gaat u daarmee om? Wat moeten we doen om in
+dat jaar, eigenlijk een tussenjaar, toch onze...
+
+67
+05:29:14,311 --> 05:29:21,371
+software te beschermen? En wat doen
+we richting de fabrikanten? Dat
+is eigenlijk mijn laatste vraag.
+
+68
+05:29:21,472 --> 05:29:26,672
+Ik begreep uit het onderzoek dat
+vandaag is uitgekomen, dat heel
+veel fabrikanten wel zijn gewezen...
+
+69
+05:29:26,732 --> 05:29:31,511
+op de gevaren, maar dat zij zich
+die niet realiseren en dat er pas
+boetes kunnen worden uitgedeeld nadat...
+
+70
+05:29:31,672 --> 05:29:36,292
+wij volgend jaar die wet hebben
+aangepast. Hoe ziet de minister dat?
+
+71
+05:29:39,571 --> 05:29:43,972
+Laat ik het zo zeggen: ook nu maken we
+inderdaad al afspraken met fabrikanten.
+
+72
+05:29:44,011 --> 05:29:48,561
+We gaan niet wachten op wetgeving. We
+zullen ook zorgen dat onze gesprekken en
+onze afspraken — die zullen ook uitgaan...
+
+73
+05:29:48,662 --> 05:29:55,332
+van bijvoorbeeld EZK en andere
+partners — dringend zijn.
+
+74
+05:29:55,431 --> 05:30:01,462
+Vervolgens is het heel erg belangrijk
+dat de mensen thuis — daarom ben
+ik extra blij met deze vragen —...
+
+75
+05:30:01,561 --> 05:30:06,672
+continu alert zijn op het
+feit dat de passwords moeten...
+
+76
+05:30:06,772 --> 05:30:10,332
+worden ingesteld en elke keer tijdig
+moeten worden aangepast; dat komt in
+verschillende debatten van ons altijd terug.
+
+77
+05:30:10,472 --> 05:30:15,172
+Er is dus én een verantwoordelijk van
+de fabrikant, én er wordt natuurlijk
+opgetreden vanuit de overheid,
+
+78
+05:30:15,172 --> 05:30:16,342
+zoals met nieuwe wetgeving,
+
+79
+05:30:16,441 --> 05:30:19,316
+maar we moeten ook heel erg wijzen
+op de verantwoordelijkheid en
+
+80
+05:30:19,316 --> 05:30:22,191
+het handelingsperspectief van de
+mensen die een apparaat hebben.
+
+81
+05:30:22,292 --> 05:30:25,551
+In afwachting van de verplichtingen
+voert de rijksinspectie dus...
+
+82
+05:30:25,631 --> 05:30:30,951
+ook dringende gesprekken met de producenten en...
+
+83
+05:30:31,051 --> 05:30:32,931
+importeurs van deze apparaten.
+
+84
+05:30:33,032 --> 05:30:38,051
+Het gaat erom dat aan hen duidelijk
+gemaakt wordt dat zij moeten handelen,
+dat we niet gaan wachten op wetgeving.
+
+85
+05:30:38,111 --> 05:30:43,282
+We blijven ook inzetten op
+die bewustwordingscampagnes
+waarover ik het zojuist had.
+
+86
+05:30:43,381 --> 05:30:47,892
+Het is dus en-en. Maar iedereen die
+veel bezig is met het onderwerp cyber,
+
+87
+05:30:47,951 --> 05:30:53,431
+zal weten dat de weerbaarheid
+echt ook bij onszelf begint. Dat
+wilde ik dus nog wel benadrukken.
+
+88
+05:30:53,511 --> 05:31:00,111
+Weet de minister op dit
+moment eigenlijk hoeveel
+zonnepaneelinstallaties er gehackt zijn?
+
+89
+05:31:00,332 --> 05:31:04,292
+Dat zal echt voor EZK zijn, sorry. Die
+cijfers heb ik nu zelf niet paraat.
+
+90
+05:31:04,392 --> 05:31:09,152
+Kunt u me die laten weten via de minister,
+uw collega? Ik kan die vraag doorgeleiden.
+
+91
+05:31:09,232 --> 05:31:11,431
+Datzelfde geldt eigenlijk
+voor andere apparatuur.
+
+92
+05:31:11,532 --> 05:31:15,662
+Daar zoomt dit rapport natuurlijk minder op in,
+want dit gaat met name over de zonnepanelen. Is...
+
+93
+05:31:15,761 --> 05:31:19,801
+er een omvang bekend van de
+schade die wij nu al hebben...
+
+94
+05:31:19,902 --> 05:31:26,191
+als gevolg van de zeer magere
+veiligheidsnormen die worden gehaald?
+
+95
+05:31:26,292 --> 05:31:30,991
+Uit het rapport blijken extreem
+slechte resultaten. Ik vind
+het eigenlijk onaanvaardbaar,
+
+96
+05:31:31,051 --> 05:31:35,501
+zou ik zeggen als ik minister was, dat het op
+die manier eigenlijk zo lek is als een mandje,
+
+97
+05:31:35,602 --> 05:31:39,631
+terwijl de eisen nu al vrij stevig
+zijn. Hoe kijkt de minister daarnaar?
+
+98
+05:31:39,732 --> 05:31:42,751
+Voor een heel end was ik het heel
+erg eens met de heer Eerdmans,
+
+99
+05:31:42,832 --> 05:31:47,571
+maar om daar nou meteen aan toe te voegen
+dat alles zo lek is als een mandje, doet...
+
+100
+05:31:47,672 --> 05:31:52,501
+hoe wij het in ons land hebben opgetuigd wel
+tekort, denk ik. Maar deze vragen zijn echt...
+
+101
+05:31:52,602 --> 05:31:56,392
+specifiek voor de minister van
+Economische Zaken en Klimaat.
+
+102
+05:31:56,472 --> 05:32:02,232
+Als ik mij niet vergis, is er
+vanmiddag ook een debat over de
+Telecomraad, meen ik, om 16.30 uur.
+
+103
+05:32:02,292 --> 05:32:07,472
+Ik zal de vragen dus sowieso
+doorgeleiden. Als het lukt om het
+antwoord met de cijfers daar al te geven,
+
+104
+05:32:07,551 --> 05:32:12,532
+dan zal dat ongetwijfeld gebeuren, en anders
+gebeurt het schriftelijk. Dank daarvoor.
+
+105
+05:32:12,631 --> 05:32:18,352
+Maar als ik constateer dat het rapport schrijft
+dat geen enkele, geen enkele van de onderzochte...
+
+106
+05:32:18,451 --> 05:32:23,892
+apparaten voldeed aan de
+veiligheidseisen, dan noem ik dat...
+
+107
+05:32:23,991 --> 05:32:27,412
+"zo lek als een mandje" met
+gevoel voor understatement. Kan
+de minister dan nogmaals duiden...
+
+108
+05:32:27,451 --> 05:32:31,152
+waarom dat een verkeerde duiding daarvan is?
+
+109
+05:32:32,292 --> 05:32:37,371
+Ik geef daarbij aan dat we alles op alles
+zetten om er in ieder geval voor te...
+
+110
+05:32:37,412 --> 05:32:40,931
+zorgen dat we zo weerbaar mogelijk zijn.
+Dat betekent: aan de kant van de gebruiker.
+
+111
+05:32:40,972 --> 05:32:43,451
+Dat betekent: aan de kant van de fabrikanten.
+
+112
+05:32:43,592 --> 05:32:47,501
+Ik benadruk daarbij dat we zeker niet gaan
+zitten wachten op nieuwe wetgeving, dat er...
+
+113
+05:32:47,602 --> 05:32:50,251
+ook nieuwe wetgeving onderweg is en dat die...
+
+114
+05:32:50,352 --> 05:32:54,672
+weerbaarheid natuurlijk op heel veel
+verschillende manieren zeker wordt geboden.
+
+115
+05:32:54,732 --> 05:32:56,672
+Dat was de nuance die ik daar
+graag in wilde aanbrengen,
+
+116
+05:32:56,711 --> 05:33:00,821
+maar ik zal zowel de zorgen als de
+concrete vragen over de aantallen...
+
+117
+05:33:00,922 --> 05:33:04,172
+zeker doorgeleiden naar Economische Zaken.
+
+118
+05:33:04,672 --> 05:33:11,012
+Ik ben hier overigens niet degene
+die de boel probeert op te pompen,
+
+119
+05:33:11,051 --> 05:33:16,532
+want de inspectie zegt zelf dat het
+eigenlijk niet de vraag is of het gebeurt,
+
+120
+05:33:16,551 --> 05:33:17,372
+maar wanneer het gebeurt.
+
+121
+05:33:17,512 --> 05:33:22,201
+Dan heeft ze het over de digitale
+hack, de superhack, de cyberhack.
+Dat zegt de rijksinspectie zelf.
+
+122
+05:33:22,301 --> 05:33:26,451
+De vraag is dus of u niet iets te argeloos
+bent in dit opzicht, dus met betrekking tot de...
+
+123
+05:33:26,551 --> 05:33:28,652
+gevaren die we misschien
+nog niet zien — we zien de...
+
+124
+05:33:28,691 --> 05:33:32,691
+cijfers graag tegemoet — maar vooral
+die ons mogelijk te wachten staan. Dan
+hebben we het over de kleine schade,
+
+125
+05:33:32,731 --> 05:33:38,731
+maar zeker ook over de totale schade
+die aan heel veel vormen van onze
+digitale infra kan worden aangericht.
+
+126
+05:33:38,831 --> 05:33:44,071
+Integendeel. Ik gaf aan dat het transport, de
+distributie en de productie van elektriciteit...
+
+127
+05:33:44,112 --> 05:33:49,731
+door EZK als vitale processen zijn aangemerkt.
+
+128
+05:33:49,872 --> 05:33:54,412
+Daar hoort bij dat vervolgens de
+rijksinspectie daarop monitort en analyseert.
+De zaken die geconstateerd worden,
+
+129
+05:33:54,492 --> 05:33:56,642
+worden vervolgens gedeeld.
+En daarnaar handelen we.
+
+130
+05:33:56,742 --> 05:34:00,772
+Het is dus juist niet vanuit een
+houding van "het zal wel loslopen".
+
+131
+05:34:00,931 --> 05:34:05,351
+Het tegenovergestelde is het geval.
+We zitten er juist bovenop door
+al deze stappen in te bouwen.
+
+132
+05:34:05,412 --> 05:34:10,372
+Op het moment dat er een advies of een analyse
+ligt, gaan wij er meteen mee aan de slag.
+
+133
+05:34:10,431 --> 05:34:15,512
+Een flink deel van deze
+analyse zal bij EZK uitkomen;
+
+134
+05:34:15,571 --> 05:34:20,231
+vandaar dat ik ook verwijs naar de minister. En
+wat de onderdelen die bij mij liggen betreft...
+
+135
+05:34:20,331 --> 05:34:24,132
+zitten we er bovenop. Dank, meneer Eerdmans.
+
+136
+05:34:24,272 --> 05:34:28,951
+Er is een aantal vervolgvragen. Graag
+kort. Allereerst mevrouw Leijten, SP.
+
+137
+05:34:31,231 --> 05:34:37,402
+Als alle andere onderzochte partijen
+niet voldoen aan de normen die zijn
+gesteld, dan is dat echt zorgwekkend.
+
+138
+05:34:37,502 --> 05:34:42,392
+Maar de houding van de overheid
+is ook zorgwekkend. Iedereen die
+een zonnepaneel neemt omdat hij...
+
+139
+05:34:42,471 --> 05:34:45,922
+het goede wil doen voor het klimaat,
+krijgt automatisch een slimme meter.
+
+140
+05:34:46,022 --> 05:34:49,721
+Pas als je zegt dat je dat niet
+wilt, krijg je een digitale meter.
+
+141
+05:34:49,821 --> 05:34:54,532
+Daar moet je dan dus heel bewust
+van afzien, terwijl op die slimme
+meter kan worden ingebroken.
+
+142
+05:34:54,551 --> 05:34:59,571
+Die meter kan die omvormer, die je nodig hebt
+voor het energiesysteem, laten opblazen en...
+
+143
+05:34:59,672 --> 05:35:00,892
+vormt dus een risico.
+
+144
+05:35:00,951 --> 05:35:06,672
+Zou het nou niet beter zijn, vraag
+ik de minister van Justitie, als
+we zeggen: je doet in principe niet...
+
+145
+05:35:06,772 --> 05:35:10,841
+automatisch, maar alleen als je het
+zelf wil mee met een slimme meter?
+
+146
+05:35:10,941 --> 05:35:17,362
+Dan heb je veel minder toegang tot het net,
+wat daardoor veel minder hackbaar is. Ik...
+
+147
+05:35:17,461 --> 05:35:19,492
+wil niet in herhaling vallen,
+
+148
+05:35:19,532 --> 05:35:23,772
+maar een groot deel van de vragen
+betreft EZK. Overigens begrijp ik wel
+dat deze vraag aan mij gesteld wordt.
+
+149
+05:35:23,811 --> 05:35:28,591
+Het gaat namelijk ook over onze algehele
+weerbaarheid. Dit is één voorbeeld,
+
+150
+05:35:28,691 --> 05:35:32,811
+maar alles wordt gedigitaliseerd en
+alles wordt slimmer en efficiënter.
+
+151
+05:35:32,851 --> 05:35:37,032
+Op zich zijn we er heel blij mee, maar
+vervolgens lopen we op onderdelen gevaar.
+
+152
+05:35:37,132 --> 05:35:41,571
+Ik denk dat we elkaar sowieso
+vinden in de alertheid dat je...
+
+153
+05:35:41,672 --> 05:35:44,042
+aan de voorkant de risico's moet kennen.
+
+154
+05:35:44,142 --> 05:35:48,191
+We komen een heel eind bij elkaar.
+
+155
+05:35:48,392 --> 05:35:53,351
+Een slimme meter heeft heel veel voordelen,
+maar je kunt nog nadrukkelijker aangeven...
+
+156
+05:35:53,451 --> 05:35:57,152
+wat de potentiële nadelen ervan zijn en
+hoe je jezelf daartegen kunt beschermen.
+
+157
+05:35:57,252 --> 05:36:01,681
+De overheid moet dan nog steeds al die
+stappen zetten waar ik het over had —
+wij moeten ook alles op alles zetten —...
+
+158
+05:36:01,782 --> 05:36:05,612
+maar mensen weerbaar maken hoort daar wel bij.
+
+159
+05:36:05,672 --> 05:36:08,382
+Ik zal dit zeker ook meegeven richting EZK.
+
+160
+05:36:08,481 --> 05:36:14,272
+Er is een paradox als je iets als...
+
+161
+05:36:14,372 --> 05:36:19,051
+zeer urgent gaat aanwijzen en daarna zegt dat
+er een toezichthouder komt die controleert
+en daarover communiceert, waarna wij...
+
+162
+05:36:19,091 --> 05:36:24,711
+handelen. Ik ben blij dat nu in ieder
+geval op tafel ligt waar het aan ligt.
+
+163
+05:36:24,851 --> 05:36:29,711
+Dat is ook precies het doel geweest van
+het onderzoek van de rijksinspectie.
+
+164
+05:36:29,811 --> 05:36:36,142
+Zo hebben we het ook met elkaar besproken.
+Nu is het handelen. In de nieuwe
+Nederlandse Cybersecuritystrategie is...
+
+165
+05:36:36,242 --> 05:36:40,951
+dit een cruciale lijn, maar dat
+is ook weer een ander debat.
+
+166
+05:36:41,032 --> 05:36:47,331
+Het gaat erom mensen weerbaar te maken
+en ervoor te zorgen dat de apparatuur
+die we in huis halen, veilig is.
+
+167
+05:36:48,152 --> 05:36:51,532
+Het is mooi dat de minister het heeft
+over het weerbaar maken van mensen,
+
+168
+05:36:51,571 --> 05:36:55,362
+want het gaat natuurlijk ook een beetje
+om de eigen verantwoordelijkheid.
+Ik vraag mij af of wij onszelf niet...
+
+169
+05:36:55,461 --> 05:36:59,441
+veel te bang aan het maken zijn. Wij hebben
+volgens mij 20 miljoen installaties en,
+
+170
+05:36:59,542 --> 05:37:03,502
+ik schat, 60 miljoen omvormers.
+Die staan bijna allemaal op huizen.
+
+171
+05:37:03,601 --> 05:37:08,422
+Als de Chinezen mijn omvormer
+willen uitzetten, be my guest. Als
+ze mijn vaatwasser willen hacken,
+
+172
+05:37:08,522 --> 05:37:11,211
+be my guest.
+
+173
+05:37:11,311 --> 05:37:15,471
+Er zijn 600 professionele grote
+installaties in Nederland.
+
+174
+05:37:15,512 --> 05:37:21,112
+Ik neem aan dat die goed beveiligd
+zijn. Mijn vraag is: zijn we onszelf
+niet veel te bang aan het maken?
+
+175
+05:37:21,172 --> 05:37:25,191
+Is het niet zo dat we die professionele
+organisaties gewoon goed beveiligd hebben?
+
+176
+05:37:25,292 --> 05:37:31,191
+Die zijn professioneel aangelegd. En op
+die huizen, ja, is het allemaal prima.
+
+177
+05:37:31,292 --> 05:37:35,252
+Je moet gewoon je wachtwoord wijzigen
+en dan is het goed. Uw vraag is helder.
+
+178
+05:37:35,292 --> 05:37:40,792
+Ik zie het grote gevaar vanuit China gewoon
+niet om al die 60 miljoen omvormers te hacken.
+
+179
+05:37:46,292 --> 05:37:51,752
+Ons hele leven is al naar digitaal
+verhuisd of beweegt in die richting.
+
+180
+05:37:51,811 --> 05:37:55,981
+Dat geldt in ieder geval voor veel mensen. Dat
+brengt ook heel veel voordelen met zich mee.
+
+181
+05:37:56,081 --> 05:38:01,372
+Het is altijd goed om alert te zijn
+en ook zelf in de gaten te houden hoe
+je jezelf het beste kunt beveiligen.
+
+182
+05:38:01,471 --> 05:38:06,512
+Als het gaat om een slim apparaat
+in je huis, kan ik heel erg...
+
+183
+05:38:06,591 --> 05:38:11,992
+meevoelen met de heer Van Haga
+als hij zegt: waarom zou iemand
+mijn vaatwasser willen hacken?
+
+184
+05:38:12,112 --> 05:38:17,431
+Maar je moet wel weten hoe
+je jezelf kunt beschermen.
+
+185
+05:38:17,532 --> 05:38:21,221
+Als het een password heeft, moet je dat
+goed instellen en regelmatig vervangen.
+
+186
+05:38:21,321 --> 05:38:24,851
+Dat creëert een bewustwording
+voor al die andere onderdelen...
+
+187
+05:38:24,951 --> 05:38:31,331
+waar we in andere debatten ook vaak
+bij stilstaan. We weten dat cybercrime
+— dat is weliswaar iets anders,
+
+188
+05:38:32,672 --> 05:38:37,912
+maar het is ook van invloed — de
+snelst stijgende vorm van criminaliteit
+is. Heel veel Nederlanders worden daar...
+
+189
+05:38:37,951 --> 05:38:40,252
+slachtoffer van. We moeten dus continu...
+
+190
+05:38:40,351 --> 05:38:47,392
+leren om te weten hoe we onszelf zo
+weerbaar mogelijk kunnen maken. Daar
+is, denk ik, niks op tegen, juist niet.
+
+191
+05:38:47,492 --> 05:38:52,782
+Aan de andere kant moeten we er vooral
+voor zorgen dat we onze vitale sectoren
+aan de voorkant goed beveiligen.
+
+192
+05:38:52,882 --> 05:38:56,152
+Verder moeten we mensen
+ook geen angst aanjagen.
+
+193
+05:38:56,211 --> 05:39:02,412
+Maar daartussen valt nog wel
+een wereld te winnen, denk ik.
+
+194
+05:39:03,691 --> 05:39:07,292
+Als het inderdaad misgaat, is het zeker
+een kwestie van nationale veiligheid.
+
+195
+05:39:07,412 --> 05:39:09,331
+Het kan niet alleen een persoonlijk drama zijn,
+
+196
+05:39:09,431 --> 05:39:14,691
+maar apparaten kunnen ook toegang geven
+tot grotere netwerken en kunnen ook
+gebruikt worden door kwaadwillenden.
+
+197
+05:39:14,792 --> 05:39:17,772
+Wat de VVD betreft is het dus zeker
+een kwestie van nationale veiligheid.
+
+198
+05:39:18,051 --> 05:39:22,221
+Het kabinet is op ons verzoek
+al bezig met de vitale...
+
+199
+05:39:22,321 --> 05:39:27,652
+sectoren te scannen en de aanbesteding
+vanuit de rijksoverheid aan te passen,
+maar waar ik naar op zoek ben, is:
+
+200
+05:39:27,752 --> 05:39:31,872
+kunnen wij niet ook de aanbestedingen
+voor de vitale infrastructuur aanscherpen?
+
+201
+05:39:31,912 --> 05:39:36,142
+Dat betekent dat we ook daar
+kijken naar het weren van...
+
+202
+05:39:36,242 --> 05:39:38,971
+producten en diensten uit landen
+met een offensief cyberprogramma,
+
+203
+05:39:39,012 --> 05:39:43,441
+dat installateurs geen onveilige producten
+mogen afleveren en dat landen die onveilige...
+
+204
+05:39:43,542 --> 05:39:48,811
+cybersecurityproducten leveren ook
+aan minimumeisen moeten voldoen.
+
+205
+05:39:48,912 --> 05:39:55,051
+Ik wil aan de leden het volgende vragen.
+Een vraag is echt maximaal 30 seconden.
+
+206
+05:39:55,872 --> 05:40:00,451
+We gaan nu van de vaatwasser
+naar een iets grotere,
+
+207
+05:40:00,492 --> 05:40:02,731
+maar ook belangrijke scope.
+
+208
+05:40:02,811 --> 05:40:07,691
+Ik weet dat de Kamer deze debatten
+en gesprekken al langere tijd voert,
+
+209
+05:40:07,752 --> 05:40:11,181
+met mij maar ook met mijn collega's. Waar
+het op neerkomt, is dat wij nou eenmaal
+afhankelijk zijn van andere landen,
+
+210
+05:40:11,282 --> 05:40:15,321
+ook van landen waar we misschien, als
+we vanaf nul zouden kunnen beginnen,
+
+211
+05:40:15,422 --> 05:40:19,492
+alle resources hadden en net zo groot
+waren als die landen, helemaal niet
+afhankelijk van zouden willen zijn.
+
+212
+05:40:19,551 --> 05:40:24,512
+Maar dat is niet het geval. We
+zijn afhankelijk. Daarbinnen moet
+je vervolgens kijken: wat zijn dan...
+
+213
+05:40:24,612 --> 05:40:30,441
+de vitale sectoren, wat zijn
+zeer gevoelige instrumenten,
+
+214
+05:40:30,542 --> 05:40:33,431
+wat wil je extra beveiligen en
+waar zit dan de controle op?
+
+215
+05:40:33,471 --> 05:40:38,162
+We hebben met elkaar afgesproken
+dat je vervolgens daarop
+focust. In die stappen zijn we.
+
+216
+05:40:38,262 --> 05:40:43,292
+Dat betekent dat er voor vitale aanbieders
+al mogelijkheden zijn om eisen te stellen.
+
+217
+05:40:43,331 --> 05:40:47,841
+Dat wordt al gedaan en we leren ook steeds
+meer, dus dat wordt steeds meer aangescherpt.
+
+218
+05:40:47,941 --> 05:40:51,721
+Voor die onderdelen waar mevrouw Rajkowski
+het terecht over heeft en waarvan zij zegt...
+
+219
+05:40:51,821 --> 05:40:55,872
+"misschien is het niet voor alles en iedereen
+altijd een probleem, maar als je inzoomt op...
+
+220
+05:40:55,931 --> 05:40:58,112
+wat je als land echt wil beschermen,
+dan is het wel een probleem",
+
+221
+05:40:58,211 --> 05:41:03,351
+kunnen die eisen al gesteld worden. Volgens mij
+hebben we nog voor de zomer samen een debat...
+
+222
+05:41:03,392 --> 05:41:10,272
+om daar specifiek op in te gaan, en
+anders kom ik haar sowieso nog tegen.
+
+223
+05:41:11,451 --> 05:41:17,931
+Het stemt mij optimistisch dat
+we het vandaag twee keer over de
+Cyber Resilience Act mogen hebben,
+
+224
+05:41:18,032 --> 05:41:23,431
+waarvoor ik eerder rapporteur
+was. Deze wetgeving stelt hogere
+eisen aan slimme apparaten.
+
+225
+05:41:23,532 --> 05:41:29,701
+Helaas gelden die eisen alleen op het
+moment dat de wet aangenomen is en...
+
+226
+05:41:29,802 --> 05:41:32,812
+deze producten op de markt komen.
+
+227
+05:41:32,912 --> 05:41:37,491
+Wat gaat de minister doen om ervoor te
+zorgen dat ook bestaande slimme apparaten...
+
+228
+05:41:37,592 --> 05:41:42,072
+voldoen aan de veiligheidseisen
+van de Cyber Resilience Act?
+
+229
+05:41:42,112 --> 05:41:46,052
+Ik denk dat die vraag
+vanmiddag echt voor EZK is.
+
+230
+05:41:46,152 --> 05:41:49,931
+Ik ben natuurlijk de coördinerend
+bewindspersoon op dit onderdeel.
+
+231
+05:41:50,072 --> 05:41:54,172
+Zoals we aanvankelijk ook met
+elkaar hebben afgesproken,
+
+232
+05:41:54,211 --> 05:41:59,552
+is elke vakminister vervolgens verantwoordelijk
+voor de eigen coördinerende rol.
+
+233
+05:41:59,592 --> 05:42:04,592
+Je zult dus aan de ene kant zien
+— mijn collega van EZK zal dat ook
+vertellen — dat er bijvoorbeeld een...
+
+234
+05:42:04,612 --> 05:42:08,271
+nieuwe Energiewet komt waar precies
+de afbakening in zit waar de...
+
+235
+05:42:08,352 --> 05:42:13,072
+VVD het over had, en dat we ondertussen
+fabrikanten aanspreken en mensen
+weerbaar maken in afwachting van de wet.
+
+236
+05:42:13,132 --> 05:42:16,441
+Dat is wat zij zal toelichten.
+
+237
+05:42:16,541 --> 05:42:22,672
+Wellicht kan ze ook nog concreet ingaan
+op precies die onderdelen die ze voor
+komend jaar aan het inrichten is.
+
+238
+05:42:22,771 --> 05:42:25,931
+Dan wil ik de minister van Justitie en
+Veiligheid danken voor haar aanwezigheid hier.
+
+239
+05:42:26,112 --> 05:42:31,642
+Vragen Raemakers Ik heet de
+staatssecretaris van Volksgezondheid,
+Welzijn en Sport van harte welkom.
+
+240
+05:42:31,741 --> 05:42:37,802
+Ik nodig de heer Raemakers van D66
+uit om zijn mondelinge vraag te
+stellen aan de staatssecretaris...
+
+241
+05:42:37,902 --> 05:42:40,691
+over het bericht dat ouders een...
+
+242
+05:42:40,771 --> 05:42:46,352
+verbod eisen op een behandeling die
+kinderen autistisch gedrag afleert.
+
+243
+05:42:46,392 --> 05:42:51,531
+Ik wacht heel even totdat de minister de
+gelegenheid heeft gehad om de zaal te verlaten.
+
+244
+05:42:51,892 --> 05:42:57,781
+Het woord is aan de heer Raemakers van
+D66. Ieder kind moet zichzelf kunnen zijn.
+
+245
+05:42:57,882 --> 05:43:02,501
+Dat dacht ik toen ik het bericht las over
+de ABA-therapie voor autistische kinderen.
+
+246
+05:43:02,602 --> 05:43:05,501
+Dit is een hele intensieve gedragstherapie.
+
+247
+05:43:05,602 --> 05:43:12,152
+Kinderen wordt dan op een specifieke
+manier hun autistische gedrag
+afgeleerd of het wordt onderdrukt.
+
+248
+05:43:12,251 --> 05:43:17,802
+Volgens mij is er wat mis als
+zo'n therapie ertoe leidt dat een
+kind zich niet meer vrij voelt om...
+
+249
+05:43:17,902 --> 05:43:20,211
+te zijn wie hij of zij is.
+
+250
+05:43:20,312 --> 05:43:24,632
+Zo zegt Olivia van 8 jaar oud: "Van ABA...
+
+251
+05:43:24,731 --> 05:43:29,642
+moest ik "normaal" worden. Ik mocht niet
+wiebelen en papegaaien, anders geen speeltijd.
+
+252
+05:43:29,741 --> 05:43:34,731
+Leren was ook eisend en als het
+niet lukte, werd ik hard vastgepakt
+en de time-out in gedrukt.
+
+253
+05:43:35,191 --> 05:43:39,991
+Ik huilde dan veel."
+Voorzitter, dat kan toch niet!...
+
+254
+05:43:40,092 --> 05:43:44,011
+En Olivia is niet alleen.
+Uit onderzoek blijkt dat...
+
+255
+05:43:44,112 --> 05:43:46,862
+46% van de cliënten...
+
+256
+05:43:46,961 --> 05:43:51,711
+na een ABA-behandeling
+posttraumatische stressklachten heeft.
+
+257
+05:43:52,451 --> 05:43:58,052
+Aan de andere kant bereiken ons signalen
+dat de therapie voor sommige kinderen...
+
+258
+05:43:58,152 --> 05:44:04,481
+wél kan helpen. Alleen zou een groot deel
+van de instructeurs niet gediplomeerd zijn,
+
+259
+05:44:04,582 --> 05:44:10,672
+volgens een schatting van een betrokkene
+in Trouw de helft tot zelfs driekwart,
+
+260
+05:44:10,771 --> 05:44:16,152
+met mogelijk grote schade
+voor kinderen tot gevolg.
+
+261
+05:44:16,251 --> 05:44:20,312
+Ze kunnen het gevoel krijgen
+dat ze hun autistische kant niet
+mogen laten zien of dat ze niet...
+
+262
+05:44:20,412 --> 05:44:24,652
+goed zijn zoals ze zijn.
+
+263
+05:44:24,691 --> 05:44:29,852
+Dat soort gevoelens mogen wij
+jonge mensen nooit geven. D66...
+
+264
+05:44:29,872 --> 05:44:34,791
+vindt dat er geen onbevoegde therapieën,
+die mogelijk schadelijk zijn,
+
+265
+05:44:34,892 --> 05:44:37,062
+aan jonge kinderen gegeven mogen worden.
+
+266
+05:44:37,162 --> 05:44:42,231
+Met andere woorden, stel kinderen
+niet bloot aan kwakzalvers.
+
+267
+05:44:42,231 --> 05:44:44,822
+Daarom heb ik de volgende
+vragen aan de staatssecretaris.
+
+268
+05:44:44,922 --> 05:44:50,422
+Heeft het kabinet er goed zicht
+op hoe vaak ABA-therapie in
+Nederland wordt gegeven, en hoe vaak...
+
+269
+05:44:50,521 --> 05:44:52,612
+dat ongediplomeerd gebeurt?
+
+270
+05:44:52,711 --> 05:44:58,072
+Wat vindt de staatssecretaris van de signalen
+van jongeren die aangeven geschaad te zijn...
+
+271
+05:44:58,172 --> 05:44:59,531
+door de behandeling?
+
+272
+05:44:59,632 --> 05:45:05,382
+Wat gaat de staatssecretaris doen aan het
+vermeend hoge aantal onbevoegde therapeuten...
+
+273
+05:45:05,481 --> 05:45:11,332
+dat wel ABA geeft? Dank u
+wel. De staatssecretaris.
+
+274
+05:45:21,791 --> 05:45:28,221
+Dank u wel, voorzitter. Dank aan
+de heer Raemakers voor de denk
+ik terechte vraag, gezien alle...
+
+275
+05:45:28,322 --> 05:45:34,082
+zorgen die ook ik heb gezien. Het is
+goed dat we dit hier nu bespreken.
+
+276
+05:45:34,181 --> 05:45:40,491
+ABA is de afgelopen tijd veel in het nieuws
+geweest. In de kinder- en de jeugdpsychiatrie...
+
+277
+05:45:40,592 --> 05:45:45,422
+worden methodieken gebaseerd op de
+ABA-principes gezien als behandeling...
+
+278
+05:45:45,521 --> 05:45:50,642
+waarvan de effectiviteit is
+aangetoond. En tegelijkertijd...
+
+279
+05:45:50,741 --> 05:45:57,672
+zijn er veel klachten binnengekomen bij...
+
+280
+05:45:57,771 --> 05:46:01,981
+diverse instanties over deze methode en
+de toepassing ervan; meneer Raemakers
+hecht er terecht aan dit te noemen.
+
+281
+05:46:02,082 --> 05:46:07,382
+Het Leerling Belang Voortgezet
+Speciaal Onderwijs, het LBVSO,
+
+282
+05:46:07,481 --> 05:46:10,761
+heeft hierover een brief gestuurd aan uw Kamer,
+
+283
+05:46:10,862 --> 05:46:17,011
+waarin zij ingaan op de 450 klachten die zij
+in de afgelopen periode hebben ontvangen.
+
+284
+05:46:17,072 --> 05:46:20,731
+Ook de Nederlandse Vereniging
+voor Autisme, de NVA,
+
+285
+05:46:20,832 --> 05:46:25,221
+geeft aan dat het niet vaststaat
+of deze therapie een goede,
+
+286
+05:46:25,322 --> 05:46:29,991
+veilige en verantwoorde behandeling
+is voor mensen met autisme.
+
+287
+05:46:30,531 --> 05:46:35,681
+Deze klachten, en álle klachten en
+zorgen van kinderen en hun ouders,
+
+288
+05:46:35,781 --> 05:46:38,652
+neem ik heel serieus.
+
+289
+05:46:38,751 --> 05:46:43,562
+Mensen met autisme moeten zichzelf
+kunnen zijn. Ik vind het dan ook goed...
+
+290
+05:46:43,662 --> 05:46:49,001
+dat zij zich gemeld hebben om hun zorgen
+aan te kaarten. Een behandeling mag,
+
+291
+05:46:49,102 --> 05:46:52,511
+ten tweede, nooit schadelijk zijn.
+
+292
+05:46:52,612 --> 05:46:58,672
+Naast het oordeel van ouders en kinderen,
+hecht ik ook sterk aan de deskundigheid en...
+
+293
+05:46:58,771 --> 05:47:03,672
+ervaringen van professionals
+vanuit verschillende disciplines.
+
+294
+05:47:03,771 --> 05:47:10,052
+Zij zijn immers degenen die een
+behandeling geven en die als
+beroepsgroep ook kaders stellen.
+
+295
+05:47:10,152 --> 05:47:15,082
+Daarom wil ik aan de hand van
+gesprekken met betrokkenen beter
+begrijpen wat de klachten en de...
+
+296
+05:47:15,181 --> 05:47:20,362
+zorgen inhouden en hoe daar in de
+professionele praktijk van zorg en...
+
+297
+05:47:20,461 --> 05:47:23,781
+ondersteuning voor kinderen
+met een complexe problematiek...
+
+298
+05:47:23,882 --> 05:47:28,211
+zo goed mogelijk mee omgegaan kan worden.
+
+299
+05:47:28,291 --> 05:47:32,172
+Hierin neem ik ook de vraag mee hoe
+vaak ABA-therapie wordt gegeven en de...
+
+300
+05:47:32,271 --> 05:47:37,271
+vraag over de diplomering van de zorgverleners.
+
+301
+05:47:38,392 --> 05:47:43,281
+Ik wil de staatssecretaris
+bedanken voor zijn antwoord.
+
+302
+05:47:43,382 --> 05:47:45,531
+Ik wil er één zin uitlichten.
+
+303
+05:47:45,632 --> 05:47:49,842
+De staatssecretaris zei: mensen met
+autisme moeten zichzelf kunnen zijn.
+
+304
+05:47:49,941 --> 05:47:55,251
+Ik denk dat het voor alle kijkers,
+waaronder kinderen, jongeren en ouders,
+heel belangrijk is dat dit vandaag van de...
+
+305
+05:47:55,352 --> 05:47:57,781
+kant van de regering wordt onderstreept.
+
+306
+05:47:57,882 --> 05:48:01,681
+Ik denk dat het goed is dat de
+gesprekken met betrokkenen zullen volgen.
+
+307
+05:48:01,781 --> 05:48:07,951
+Ik denk ook dat het goed is dat wordt
+uitgezocht hoe vaak deze behandeling
+ongediplomeerd wordt gegeven.
+
+308
+05:48:08,052 --> 05:48:13,981
+Ik denk dat dit allemaal goede
+dingen zijn. Ik zou wel duidelijkheid
+willen hebben over de effectiviteit.
+
+309
+05:48:14,082 --> 05:48:17,842
+De staatssecretaris gaf aan
+dat het behandelingen zijn...
+
+310
+05:48:17,941 --> 05:48:23,971
+waarvan de effectiviteit is aangetoond. Mijn
+vraag zou dan zijn of dat evidencebased is...
+
+311
+05:48:24,092 --> 05:48:27,691
+volgens het Zorginstituut
+Nederland of dat dit evidencebased...
+
+312
+05:48:27,791 --> 05:48:32,072
+is volgens Amerikaanse
+standaarden of andere standaarden.
+
+313
+05:48:32,172 --> 05:48:36,862
+Kortom, hebben wij in Nederland
+toezicht en controle op die kwaliteit?
+
+314
+05:48:36,961 --> 05:48:40,211
+Allereerst...
+
+315
+05:48:40,412 --> 05:48:45,701
+wil ik zeggen dat de zin die u eruit
+haalt volgens mij de kern van de zaak is.
+
+316
+05:48:45,802 --> 05:48:48,662
+Het kan niet zo zijn dat deze methode...
+
+317
+05:48:48,761 --> 05:48:52,761
+ertoe zou leiden dat mensen met
+autisme niet zichzelf kunnen zijn.
+
+318
+05:48:52,862 --> 05:48:58,372
+Dat is dus de kern van de zaak.
+Daar sta ik dan ook vol voor.
+
+319
+05:48:58,471 --> 05:49:01,291
+Uw vraag over effectiviteit...
+
+320
+05:49:01,392 --> 05:49:08,451
+wil ik graag meenemen in het
+proces dat we nu gaan lopen.
+
+321
+05:49:08,592 --> 05:49:14,691
+We gaan over de klachten in gesprek
+met de verschillende betrokkenen, ook
+over deskundigheid en diplomering.
+
+322
+05:49:14,791 --> 05:49:19,711
+Het is ook een gesprek met de
+beroepsgroep zelf. Want inderdaad, hoe
+ziet die effectiviteit er precies uit?
+
+323
+05:49:19,731 --> 05:49:24,552
+Waar is die op gebaseerd? Is die
+gebaseerd op bepaalde methoden,
+
+324
+05:49:24,652 --> 05:49:26,791
+of een methodische aanpak, of is
+die op andere zaken gebaseerd?
+
+325
+05:49:26,892 --> 05:49:31,691
+Dat kan ik nu onvoldoende aan u meegeven.
+
+326
+05:49:31,791 --> 05:49:36,422
+Ik vind wel dat we dat scherp moeten
+krijgen nu we dit proces ingaan.
+
+327
+05:49:36,521 --> 05:49:40,172
+Daarin neem ik uw vraag dus mee.
+
+328
+05:49:41,191 --> 05:49:45,612
+Het volgende valt mij op. Als we
+spreken over evidencebased, dan
+betekent dat zoveel als: werkt...
+
+329
+05:49:45,652 --> 05:49:50,491
+de behandeling nu wel of niet? Het
+is dan wel heel wrang dat zo veel...
+
+330
+05:49:50,592 --> 05:49:54,872
+kinderen en jongeren zeggen dat ze een trauma
+hebben opgelopen door deze behandeling.
+
+331
+05:49:54,912 --> 05:49:58,711
+Je zou je dan toch met recht mogen afvragen...
+
+332
+05:49:58,812 --> 05:50:04,172
+hoe we tot de conclusie kunnen komen
+dat de behandeling werkt, aangezien
+die tot zo veel trauma's leidt.
+
+333
+05:50:04,231 --> 05:50:07,662
+Ik denk dat dat zeker nog
+kan worden meegenomen.
+
+334
+05:50:07,761 --> 05:50:12,082
+Voorzitter, tot slot. Ik zou nog iets willen
+vragen over de rol van gemeenten hierin.
+
+335
+05:50:12,181 --> 05:50:17,642
+Als je gemeenteraadslid of wethouder
+bent, kan ik me goed voorstellen
+dat je deze discussie volgt en...
+
+336
+05:50:17,741 --> 05:50:22,832
+constateert: in mijn gemeente wordt deze
+ABA-behandeling misschien wel gegeven; dat...
+
+337
+05:50:22,931 --> 05:50:26,991
+kost heel veel budget en
+levert heel veel schade op.
+
+338
+05:50:27,092 --> 05:50:32,481
+We weten dat de staatssecretaris
+een discussie gaat voeren over
+de reikwijdte van de jeugdhulp,
+
+339
+05:50:32,582 --> 05:50:37,291
+maar vordert dat proces wel? Mijn
+vraag is, met andere woorden,
+
+340
+05:50:37,392 --> 05:50:43,092
+wat gemeenten kunnen doen als zij
+hier al stappen in willen zetten.
+
+341
+05:50:44,491 --> 05:50:50,112
+De rol van gemeenten zit eigenlijk
+wat verderop in het proces dat we
+nu lopen, zou ik willen zeggen.
+
+342
+05:50:50,211 --> 05:50:53,691
+Allereerst gaan we heel serieus
+kijken naar de klachten,
+
+343
+05:50:53,791 --> 05:50:56,271
+ook naar het onderzoek waar die 46% uit komt.
+
+344
+05:50:56,312 --> 05:51:01,552
+Ook ik vind het aantal jongeren
+dat met PTSS achterblijft na deze
+methode een zeer zorgwekkend signaal.
+
+345
+05:51:01,652 --> 05:51:06,082
+Dat is de eerste stap.
+
+346
+05:51:06,181 --> 05:51:11,872
+Vervolgens gaan we — dat doen we
+natuurlijk niet helemaal los van elkaar
+— in gesprek met de beroepsgroep.
+
+347
+05:51:11,971 --> 05:51:17,612
+Als wij kritische signalen ophalen
+en er misschien interventies nodig
+zijn, zal de beroepsgroep daar ook...
+
+348
+05:51:17,711 --> 05:51:22,251
+rekenschap van willen afleggen.
+
+349
+05:51:22,352 --> 05:51:27,112
+Misschien willen of kunnen zij in hun
+eigen richtlijn bijvoorbeeld al keuzes...
+
+350
+05:51:27,132 --> 05:51:28,711
+maken,
+
+351
+05:51:28,812 --> 05:51:33,362
+vooruitlopend op het onderzoek, of
+gebaseerd op het onderzoek, het proces
+dat we nu ingaan, de zoektocht naar de...
+
+352
+05:51:33,461 --> 05:51:38,251
+signalen. Als we die twee stappen
+gehad hebben, dan komt, ten slotte,
+
+353
+05:51:38,312 --> 05:51:42,251
+de vraag aan de orde over de
+inkooprol van de gemeenten.
+
+354
+05:51:42,312 --> 05:51:48,112
+Zouden die hierin kunnen meelopen?
+Kunnen die hun beleid daarop aanpassen?
+
+355
+05:51:48,211 --> 05:51:52,541
+Die zitten alleen wel wat later
+in het proces, ook in de tijd,
+
+356
+05:51:52,642 --> 05:51:56,991
+maar uiteindelijk zijn die inderdaad wel
+aan de orde. Ik wil de heer Raemakers
+danken voor de mondelinge vraag.
+
+357
+05:51:57,031 --> 05:52:03,332
+Ik geef het woord aan de heer
+Verkuijlen, VVD, voor zijn vervolgvraag.
+
+358
+05:52:04,112 --> 05:52:09,211
+Mijn collega Tielen heeft het bij meerdere
+gelegenheden erover gehad dat praktijk en...
+
+359
+05:52:09,231 --> 05:52:12,761
+wetenschap onvoldoende op elkaar
+aansluiten bij behandelingen.
+
+360
+05:52:12,862 --> 05:52:17,721
+Het is goed dat de heer Raemakers
+deze vraag stelt, maar mijn vraag...
+
+361
+05:52:17,822 --> 05:52:20,201
+richt zich echt even op de jeugdzorg.
+
+362
+05:52:20,302 --> 05:52:24,771
+Sinds 2015 hebben we 1.500
+nieuwe jeugdzorgaanbieders.
+
+363
+05:52:24,872 --> 05:52:28,612
+Ik wil graag van de staatssecretaris
+het volgende weten: hoe weten we of...
+
+364
+05:52:28,691 --> 05:52:33,191
+onder die 1.500 aanbieders ook
+niet aanbieders zitten waarbij...
+
+365
+05:52:33,271 --> 05:52:35,842
+diplomering aan de orde is...
+
+366
+05:52:35,941 --> 05:52:40,291
+en ook waarbij praktijk en
+wetenschap uit elkaar staan?
+
+367
+05:52:43,392 --> 05:52:47,701
+Het goede nieuws is dat er een
+hervormingsagenda is afgesproken; ik...
+
+368
+05:52:47,802 --> 05:52:52,352
+kan het hier nu, denk ik, ook
+zeggen. De notie over kwaliteit —...
+
+369
+05:52:52,451 --> 05:52:54,322
+ik zeg dit niet...
+
+370
+05:52:54,422 --> 05:52:58,731
+om het gewoon eens een keer te
+vermelden — is daarvan een...
+
+371
+05:52:58,791 --> 05:53:02,211
+heel belangrijk onderdeel.
+
+372
+05:53:02,211 --> 05:53:08,112
+Bij diverse behandelingen en ook bij...
+
+373
+05:53:08,191 --> 05:53:13,211
+praktijkondersteuning — het is niet
+altijd een behandeling; het is soms ook
+begeleiding of ondersteuning — moet...
+
+374
+05:53:13,312 --> 05:53:16,062
+je terechte vragen kunnen
+stellen over de kwaliteit,
+
+375
+05:53:16,162 --> 05:53:20,852
+namelijk: wordt hier de kwaliteit gegeven
+die voldoet aan een bepaald niveau?
+
+376
+05:53:21,132 --> 05:53:27,191
+We hebben dus ook geld uitgetrokken voor
+specifieke middelen om de kwaliteit van
+de jeugdzorg in algemene zin omhoog te...
+
+377
+05:53:27,271 --> 05:53:30,491
+trekken. Daarnaast hebben we...
+
+378
+05:53:30,552 --> 05:53:36,592
+gezegd dat er richtlijnen zouden
+moeten komen waarin vastgesteld wordt
+wat die kwaliteit dan wel en niet is.
+
+379
+05:53:36,691 --> 05:53:41,872
+Het zou heel goed kunnen dat we in het
+proces dat we nu hebben afgesproken en
+de keuzes die we daarbij hebben gemaakt,
+
+380
+05:53:41,971 --> 05:53:46,122
+ook ABA tegen gaan komen.
+
+381
+05:53:46,221 --> 05:53:51,352
+Alleen, dat is niet een gegeven.
+In de hervormingsagenda gaat het
+om een algemeen proces waarin...
+
+382
+05:53:51,431 --> 05:53:56,632
+we de 1.500 aanbieders — volgens mij
+zijn het er zelfs nog meer — meenemen.
+
+383
+05:53:56,832 --> 05:54:01,271
+Het zou kunnen zijn dat we ABA daarin
+tegenkomen. Alleen, we gaan nu...
+
+384
+05:54:01,332 --> 05:54:06,352
+ook specifiek kijken wat er bij ABA
+speelt. Uiteindelijk zullen we die
+twee zaken bij elkaar moeten brengen.
+
+385
+05:54:06,451 --> 05:54:12,471
+Ik kijk even naar de leden. Wie is er aan
+de beurt? De heer Drost, ChristenUnie.
+
+386
+05:54:13,511 --> 05:54:15,892
+U mocht kiezen, voorzitter.
+
+387
+05:54:18,231 --> 05:54:21,971
+Ik vind dit onderwerp heel
+lastig te beoordelen vanuit de...
+
+388
+05:54:22,031 --> 05:54:27,812
+Kamer. Meneer Raemakers schetste namelijk ook
+al dat er van twee kanten signalen komen.
+
+389
+05:54:27,832 --> 05:54:29,271
+Er zijn kinderen die er baat bij hebben,
+maar er zijn ook kinderen — dat lazen...
+
+390
+05:54:29,352 --> 05:54:34,812
+we in het artikel waarover we het hebben
+— die er PTSS aan lijken over te houden.
+
+391
+05:54:34,912 --> 05:54:40,622
+Er zijn ook onderwerpen in deze Kamer
+waarbij we ingrijpen als er ook maar het
+minste mis dreigt te gaan bij een kind.
+
+392
+05:54:40,721 --> 05:54:45,531
+Mijn vraag aan de staatssecretaris
+is dus eigenlijk heel simpel:
+waar ligt voor u de grens?
+
+393
+05:54:45,632 --> 05:54:49,511
+Wat gaat u doen? Wat is voor u het
+moment, de drempel, waarop u zegt: nu...
+
+394
+05:54:49,612 --> 05:54:53,072
+moeten we ingrijpen?
+
+395
+05:54:55,231 --> 05:55:01,072
+Cruciaal is dat mensen met
+autisme zichzelf kunnen zijn.
+
+396
+05:55:01,291 --> 05:55:06,191
+Als dat hier niet aan de orde zou zijn,
+dan hebben we een serieus vraagstuk.
+
+397
+05:55:06,552 --> 05:55:13,271
+Dat is één. Twee. We moeten de
+signalen echt gaan wegen. We moeten
+gaan kijken wat er precies speelt.
+
+398
+05:55:13,372 --> 05:55:15,172
+We moeten van alle kanten
+kijken naar de signalen,
+
+399
+05:55:15,332 --> 05:55:18,652
+maar zeker ook naar de 450 signalen
+die bij LBVSO zijn binnengekomen.
+
+400
+05:55:18,751 --> 05:55:23,291
+Die moeten we echt gaan wegen. Daar
+moeten we onderzoek naar gaan doen. We
+moeten kijken wat er precies speelt.
+
+401
+05:55:23,392 --> 05:55:26,882
+Op basis daarvan moeten we het gesprek
+met de beroepsgroepen echt gaan vervolgen.
+
+402
+05:55:26,981 --> 05:55:30,922
+Er zijn namelijk ook verschillende
+visies op vanuit de beroepsgroepen.
+
+403
+05:55:31,021 --> 05:55:35,112
+Meneer Raemakers benoemde de effectiviteit al.
+
+404
+05:55:35,172 --> 05:55:39,531
+De bal ligt ook bij de beroepsgroep.
+
+405
+05:55:39,711 --> 05:55:42,941
+Ik schat in dat zij zelf ook een opvatting
+zullen hebben over wat hier gebeurt,
+
+406
+05:55:43,041 --> 05:55:46,652
+in welke mate dat gebeurt en hoe
+dat vervolgd zou moeten worden.
+
+407
+05:55:46,751 --> 05:55:50,912
+Ik vind eigenlijk dat dat ook de plek is waar
+het zou moeten. Het moet gebeuren bij de mensen...
+
+408
+05:55:51,011 --> 05:55:55,632
+die er verstand van hebben, die
+ervoor hebben doorgeleerd. Het
+moet niet te snel politiek worden.
+
+409
+05:55:55,672 --> 05:55:59,392
+Dan gaan wij namelijk bepalen
+wat werkt en wat niet werkt.
+
+410
+05:55:59,491 --> 05:56:04,281
+Wat wél politiek is, is het
+uitgangspunt. Iedereen in Nederland
+moet namelijk zichzelf kunnen zijn.
+
+411
+05:56:04,382 --> 05:56:10,771
+Dat geldt ook voor mensen met autisme. Daar kan
+deze therapie geen onderscheid in aanbrengen.
+
+412
+05:56:10,832 --> 05:56:15,991
+Ik moet er niet aan denken
+dat wij bij handopsteken gaan
+bepalen wat wel of niet werkt.
+
+413
+05:56:16,031 --> 05:56:18,816
+Ik moet er helemaal niet aan denken
+dat gemeenten straks individueel
+
+414
+05:56:18,816 --> 05:56:21,602
+moeten gaan bepalen welke therapie
+in hun gemeente wel of niet werkt.
+
+415
+05:56:21,701 --> 05:56:27,191
+Er ligt nu echter wel een acute vraag,
+namelijk wat de staatssecretaris nu,
+
+416
+05:56:27,291 --> 05:56:28,691
+gedurende het onderzoek,
+
+417
+05:56:28,791 --> 05:56:32,822
+kan doen als er twijfels zijn, om
+ervoor te zorgen dat de veiligheid
+van kinderen gewaarborgd is.
+
+418
+05:56:32,922 --> 05:56:36,852
+Allereerst wil ik onderschrijven
+wat meneer Kwint zegt.
+
+419
+05:56:37,031 --> 05:56:40,231
+Ik deel dat zeer met hem. Hij zegt
+dat eigenlijk nog scherper dan ik.
+
+420
+05:56:40,291 --> 05:56:46,951
+Ik zou daar ook niet aan moeten denken. Dat
+zou ons namelijk allemaal in een rol, in een
+positie, plaatsen waarin we niet willen zitten.
+
+421
+05:56:47,052 --> 05:56:53,052
+Tegelijkertijd liggen die signalen
+er. Die wil ik niet negeren, ook niet
+vanuit deze politieke invalshoek.
+
+422
+05:56:53,152 --> 05:56:56,142
+We gaan nu goed kijken wat
+er met de signalen gebeurt.
+
+423
+05:56:56,241 --> 05:56:59,771
+Het gesprek met de beroepsgroepen is al
+gestart, ook naar aanleiding van de ophef,
+
+424
+05:56:59,872 --> 05:57:05,672
+de discussie en de vele
+klachten. Ook naar aanleiding van...
+
+425
+05:57:05,771 --> 05:57:07,802
+deze vraag hebben we contact met hen gehad.
+
+426
+05:57:07,902 --> 05:57:12,052
+Dat gesprek vervolgen we dus ook.
+Daar zal een conclusie aan verbonden
+worden, ook binnen de beroepsgroep.
+
+427
+05:57:12,112 --> 05:57:13,521
+Ik denk eigenlijk...
+
+428
+05:57:13,622 --> 05:57:19,612
+dat het opzetten van de goede
+bril om te kijken naar wat hier
+gebeurt, in feite al gedaan wordt.
+
+429
+05:57:19,711 --> 05:57:21,251
+Kijk bijvoorbeeld naar de stappen...
+
+430
+05:57:21,312 --> 05:57:25,852
+die zich de afgelopen dagen hebben voltrokken.
+Hetzelfde geldt voor de stappen van vandaag.
+
+431
+05:57:25,872 --> 05:57:27,402
+De heer Peters, CDA. Ja, meneer Kwint?
+
+432
+05:57:27,501 --> 05:57:32,531
+Ik vroeg wat er in de tussentijd gebeurt. Ik
+snap dat dit traject in gang wordt gezet,
+
+433
+05:57:32,711 --> 05:57:36,412
+maar … U heeft inderdaad gevraagd wat de
+staatssecretaris in de tussentijd gaat doen.
+
+434
+05:57:36,971 --> 05:57:39,951
+Het onderzoek is er nog niet, hè?
+Nee, het onderzoek is er nog niet.
+
+435
+05:57:39,991 --> 05:57:43,562
+Laat ik het als volgt zeggen. Ik
+weet niet of er "een tussentijd" is.
+
+436
+05:57:43,662 --> 05:57:47,092
+Er is niet een moment waarop we kunnen
+zeggen of we er nu wel of niet mee doorgaan.
+
+437
+05:57:47,191 --> 05:57:52,291
+Daarom is het moeilijk om uw vraag te
+beantwoorden. Wat ik nu meteen ga doen, is
+de signalen oppakken. Ik ga met de mensen...
+
+438
+05:57:52,372 --> 05:57:55,971
+in gesprek. Als dat meteen
+leidt tot aanpassingen,
+
+439
+05:57:56,072 --> 05:58:02,191
+dan ga ik niet zeggen: wacht nog
+maar even. Er is dus niet echt een
+tussentijd. We gaan meteen aan de slag.
+
+440
+05:58:02,852 --> 05:58:07,572
+Als we de signalen meer op een abstractieniveau
+hebben verzameld, dan zal er een weging
+komen van wat dit precies betekent.
+
+441
+05:58:07,612 --> 05:58:12,882
+Alleen, de bal ligt in eerste instantie
+echt bij de beroepsgroepen. Die moeten
+dit wegen en daar keuzes in maken.
+
+442
+05:58:12,981 --> 05:58:15,672
+Het is...
+
+443
+05:58:15,731 --> 05:58:20,491
+inderdaad niet de bedoeling dat wij ieder
+bericht over een therapie waar iets mee gebeurt...
+
+444
+05:58:20,552 --> 05:58:23,072
+als individuele casus gaan bespreken,
+
+445
+05:58:23,172 --> 05:58:28,031
+nog afgezien van het feit dat autistisch
+gedrag volgens mij helemaal niet bestaat.
+
+446
+05:58:28,172 --> 05:58:33,012
+Dat bestaat in ieder geval niet als losse
+diagnose. Maar er is wel een onderzoek van dr.
+
+447
+05:58:33,052 --> 05:58:36,572
+Danielle Jansen van de Universiteit van
+Groningen, waarin zij aangeeft dat de...
+
+448
+05:58:36,672 --> 05:58:40,222
+hoeveelheid jeugdzorg die
+wordt ingekocht in Groningen in...
+
+449
+05:58:40,322 --> 05:58:45,961
+theorie slechts voor een klein deel
+werkzaam kan zijn. Er staat "in
+theorie", omdat er nog niet eens...
+
+450
+05:58:46,061 --> 05:58:49,711
+gezegd is dat die zorg allemaal
+precies volgens de gedragslijnen wordt
+uitgevoerd door gediplomeerd personeel.
+
+451
+05:58:49,751 --> 05:58:53,882
+Uw vraag? Mijn vraag is dus...
+
+452
+05:58:53,981 --> 05:58:59,911
+of wij dit soort onderzoeken kunnen betrekken
+bij deze discussie. Moeten wij niet eigenlijk
+de discussie over wel of geen kwakzalverij en...
+
+453
+05:59:00,012 --> 05:59:05,552
+bewezen ineffectieve methodes veel
+breder binnen het veld gaan voeren?
+
+454
+05:59:06,411 --> 05:59:13,161
+Is de staatssecretaris daartoe bereid?
+Dit is een beetje vergelijkbaar met
+wat de VVD al eerder aangaf over de...
+
+455
+05:59:13,262 --> 05:59:15,771
+kwaliteit.
+
+456
+05:59:15,891 --> 05:59:18,411
+Ik deel dat ook met de heer Peters.
+Dit is ook waarom we kwaliteit in
+
+457
+05:59:18,411 --> 05:59:20,932
+de Hervormingsagenda Jeugd als zo'n
+belangrijk uitgangspunt hebben genoemd.
+
+458
+05:59:21,032 --> 05:59:24,661
+De kwaliteit moet namelijk in de
+volle breedte worden versterkt.
+
+459
+05:59:24,762 --> 05:59:27,672
+Daar zit ook een impliciete boodschap in,
+
+460
+05:59:27,771 --> 05:59:33,072
+namelijk dat wij op een aantal punten
+onvoldoende overtuigd zijn van de
+kwaliteit en ons zelfs afvragen of...
+
+461
+05:59:33,172 --> 05:59:37,092
+die jeugdzorg wel ingekocht moet
+worden door gemeenten. Daarmee komen
+die twee dingen dus bij mekaar.
+
+462
+05:59:37,152 --> 05:59:39,717
+Als je stelt dit is de kwaliteit en
+dit is de ondergrens die we hierbij
+
+463
+05:59:39,717 --> 05:59:42,282
+hanteren, dan zeg je indirect ook
+dat je zal weten wat voor vlees je in...
+
+464
+05:59:42,382 --> 05:59:45,257
+de kuip hebt als er niet aan die
+kwaliteitseisen wordt voldaan,
+
+465
+05:59:45,257 --> 05:59:48,132
+die de inkopers bij gemeenten
+uiteindelijk moeten gaan meenemen.
+
+466
+05:59:50,132 --> 05:59:55,302
+Volgens mij brengen we die twee dus
+al bij mekaar. We doen nu wel iets
+separaats met betrekking tot ABA,
+
+467
+05:59:55,402 --> 06:00:02,052
+vanwege de vele signalen die we hebben
+gekregen. Ik kijk even naar de heer
+Peters of hij nog een tweede vraag heeft.
+
+468
+06:00:03,691 --> 06:00:07,052
+Dat is het geval, hoor ik buiten de microfoon.
+
+469
+06:00:07,112 --> 06:00:12,972
+Ik vertaal de vraag maar even vrij als
+volgt: kan dat onderzoek ook meegenomen
+worden in het onderzoek dat plaatsvindt?
+
+470
+06:00:13,052 --> 06:00:15,371
+Ik heb het net gezegd: het
+zijn twee parallelle sporen.
+
+471
+06:00:15,432 --> 06:00:19,141
+Er is een spoor over kwaliteit in de
+hervormingsagenda; dat hebben we afgesproken.
+
+472
+06:00:19,242 --> 06:00:23,081
+Vervolgens gaan we bepalen of er
+richtlijnen nodig zijn en bekijken we wat
+dit uiteindelijk betekent voor de inkoop.
+
+473
+06:00:23,182 --> 06:00:26,572
+Maar het was een gerichte vraag
+over het specifieke onderzoek.
+
+474
+06:00:26,731 --> 06:00:27,891
+Het specifieke onderzoek dat we doen
+naar ABA … Nee, het gaat om het
+onderzoek dat de heer Peters aangaf.
+
+475
+06:00:27,932 --> 06:00:31,472
+Het onderzoek van de
+Universiteit van Groningen?
+
+476
+06:00:31,572 --> 06:00:36,851
+Dat wordt uiteraard betrokken bij
+de gesprekken. Uiteraard. Daar is
+geen enkele twijfel over. Excuses.
+
+477
+06:00:36,891 --> 06:00:40,751
+Als dat de specifieke vraag
+was, zeg ik: natuurlijk.
+
+478
+06:00:43,291 --> 06:00:47,161
+Als we even uitzoomen is het
+eigenlijk een hele rare situatie.
+
+479
+06:00:47,262 --> 06:00:52,472
+Duizenden kinderen, die echt hulp
+nodig hebben, staan op wachtlijsten
+en kunnen die hulp dus nog...
+
+480
+06:00:52,572 --> 06:00:58,711
+niet krijgen, maar tegelijkertijd gaat er geld
+dat bedoeld is voor jeugdhulp naar dit soort,
+
+481
+06:00:58,731 --> 06:01:03,672
+wellicht goed bedoelde, therapieën
+die slecht worden uitgevoerd.
+
+482
+06:01:03,711 --> 06:01:07,842
+En vervolgens komt dit via een
+belangenvereniging van leerlingen naar ons
+toe in plaats van op een andere manier.
+
+483
+06:01:07,941 --> 06:01:12,592
+Mijn vraag aan de staatssecretaris
+is dan ook hoe het kan dat dit soort
+signalen niet eerder via de inspectie...
+
+484
+06:01:12,691 --> 06:01:16,402
+bij de staatssecretaris terecht zijn gekomen.
+
+485
+06:01:16,501 --> 06:01:21,952
+De inspectie geeft in...
+
+486
+06:01:22,032 --> 06:01:23,932
+algemene zin...
+
+487
+06:01:25,331 --> 06:01:28,521
+signalen af dat zij zich zorgen maakt
+over de kwaliteit die in de jeugdzorg
+
+488
+06:01:28,521 --> 06:01:31,711
+wordt geboden; ik ben een tijdje
+geleden ook bij ze op bezoek geweest.
+
+489
+06:01:31,731 --> 06:01:35,871
+In die zin sluit dit daar
+dus eigenlijk ook bij aan.
+
+490
+06:01:35,972 --> 06:01:39,742
+Ik zou niet helemaal willen aangeven dat
+de inspectie de problemen onvoldoende in...
+
+491
+06:01:39,842 --> 06:01:44,492
+het vizier heeft, maar de
+overweldigende signalen...
+
+492
+06:01:44,552 --> 06:01:47,081
+die bij LBVSO binnenkomen...
+
+493
+06:01:47,182 --> 06:01:52,791
+contrasteren inderdaad wel wat met wat
+er bijvoorbeeld bij het ministerie in
+algemene zin voor signalen binnenkomen.
+
+494
+06:01:52,851 --> 06:01:58,532
+Daarom zeggen wij dat we dit nu
+hartstikke serieus nemen en daarom
+vraagt dit nu wel om een vervolggesprek.
+
+495
+06:01:59,492 --> 06:02:03,672
+Dit zijn geen signalen van jongeren
+die aangeven: ik heb therapie gehad...
+
+496
+06:02:03,711 --> 06:02:09,871
+en die sloeg niet helemaal goed aan.
+Dit zijn signalen van kinderen die
+getraumatiseerd zijn door hun therapie.
+
+497
+06:02:09,972 --> 06:02:14,871
+Die zijn door hun therapie
+totaal verkeerd behandeld. Zij...
+
+498
+06:02:14,952 --> 06:02:18,492
+moesten hun "autistische gedrag" afleren,
+
+499
+06:02:18,592 --> 06:02:22,831
+waarover we nu allemaal verontwaardigd
+zijn. Die verontwaardiging
+daarover is ook terecht heel groot.
+
+500
+06:02:22,932 --> 06:02:28,342
+Ik vind het dus heel erg bijzonder dat
+dit soort signalen dan kennelijk niet op
+een andere manier terechtkomen bij het...
+
+501
+06:02:28,441 --> 06:02:33,831
+ministerie of bij de inspectie maar via LBVSO.
+
+502
+06:02:33,932 --> 06:02:37,222
+Alle lof voor deze belangengroep,
+die dit goed op het netvlies heeft,
+
+503
+06:02:37,322 --> 06:02:42,152
+maar als dit soort...
+
+504
+06:02:42,172 --> 06:02:46,172
+zeer ernstige signalen over
+kwaliteit die niet goed is,
+
+505
+06:02:46,271 --> 06:02:48,277
+getraumatiseerde kinderen en therapieën
+die niet door gediplomeerde mensen
+
+506
+06:02:48,277 --> 06:02:50,282
+worden uitgevoerd niet doorkomen,
+dan is er toch wel iets goed mis...
+
+507
+06:02:50,382 --> 06:02:54,672
+met ons systeem. Ik vraag de staatssecretaris
+wat dit zegt over het systeem.
+
+508
+06:02:54,771 --> 06:03:01,211
+Het zegt in die zin wel — dat ben
+ik eens met de heer Peters en de
+VVD eens, die dat al noemden — dat...
+
+509
+06:03:03,271 --> 06:03:06,552
+door de vele aanbieders die
+er in algemene zin zijn,
+
+510
+06:03:06,652 --> 06:03:10,691
+soms het zicht ontbreekt op wat
+er allemaal aangeboden wordt.
+
+511
+06:03:10,791 --> 06:03:15,972
+We hebben daar echt met elkaar
+een grote slag te slaan, ook om
+het aantal aanbieders te beperken,
+
+512
+06:03:16,072 --> 06:03:22,132
+om beter zicht te krijgen op de
+kwaliteit en daar grenzen in te
+stellen. Dat zegt het inderdaad, zeker.
+
+513
+06:03:22,231 --> 06:03:25,782
+Ik zou alleen niet zo ver willen
+gaan dat ik denk dat de IGJ hier...
+
+514
+06:03:25,882 --> 06:03:30,472
+enige blaam treft omdat zij dit
+niet op het vizier heeft gehad,
+
+515
+06:03:30,572 --> 06:03:32,691
+want ik denk dat dat niet
+zozeer aan de orde is.
+
+516
+06:03:32,751 --> 06:03:37,572
+Maar het is terecht om te zeggen dat we
+hier met een stelsel te maken hebben dat...
+
+517
+06:03:37,672 --> 06:03:45,411
+vereenvoudigd moet worden, ook omdat we
+dan beter zicht krijgen op de kwaliteit,
+maar ook op onvoldoende kwaliteit en op...
+
+518
+06:03:45,811 --> 06:03:51,222
+aanbiedingen die we niet moeten inkopen.
+Dan wil ik de staatssecretaris bedanken...
+
+519
+06:03:51,322 --> 06:03:56,572
+voor zijn beantwoording. Vragen Ellian Ik heet
+de minister voor Rechtsbescherming welkom.
+
+520
+06:03:59,152 --> 06:04:03,851
+Ik nodig de heer Ellian van de
+VVD uit om zijn vraag te stellen.
+
+521
+06:04:03,952 --> 06:04:09,191
+Die gaat over het bericht "Defensie wil af
+van beveiligingstaak bij Marengoproces".
+
+522
+06:04:09,371 --> 06:04:15,032
+Het woord is aan de heer Ellian
+van de VVD. Gaat uw gang.
+
+523
+06:04:15,672 --> 06:04:22,052
+Dank, voorzitter. Bij een
+sterke en weerbare rechtsstaat...
+
+524
+06:04:22,072 --> 06:04:25,592
+hoort ook dat je de gevaarlijkste verdachten...
+
+525
+06:04:25,992 --> 06:04:30,251
+ordentelijk en voortvarend
+voor de rechter kan brengen en...
+
+526
+06:04:30,351 --> 06:04:34,952
+dat je dat strafproces ook op een
+ordentelijke manier organiseert.
+
+527
+06:04:35,012 --> 06:04:40,411
+Als we kijken naar het Marengoproces,
+vraagt dat ontzettend veel...
+
+528
+06:04:40,432 --> 06:04:47,172
+van allerlei betrokkenen. Je zou kunnen zeggen
+dat de organisatie ervan kraakt en piept.
+
+529
+06:04:47,251 --> 06:04:52,512
+Dat het zover heeft moeten komen dat
+het leger bijstand moet bieden ter...
+
+530
+06:04:52,612 --> 06:04:57,441
+beveiliging van die rechtsgang, is op
+zichzelf natuurlijk een dieptepunt,
+
+531
+06:04:57,541 --> 06:05:03,072
+maar we mogen datzelfde leger en Defensie ook
+dankbaar zijn dat zij hiertoe bereid waren.
+
+532
+06:05:03,172 --> 06:05:07,331
+Voorzitter. Het is niet gek
+dat het leger nu aangeeft: ja,
+
+533
+06:05:07,391 --> 06:05:10,532
+maar moeten wij dit nu blijven doen?
+
+534
+06:05:10,632 --> 06:05:16,771
+Aan de andere kant is het ook niet gek dat de
+burgemeester van Amsterdam zegt: ik heb te
+maken met zó veel veiligheidsrisico's dat ik...
+
+535
+06:05:16,871 --> 06:05:21,172
+dit niet meer in m'n eentje
+kan bolwerken. Voorzitter.
+
+536
+06:05:21,271 --> 06:05:24,842
+Dat roept de vraag op hoe wij nu verdergaan.
+
+537
+06:05:24,941 --> 06:05:29,472
+Het proces duurt nog enige tijd,
+maar het hoger beroep moet nog komen.
+
+538
+06:05:29,572 --> 06:05:35,961
+Het Passageproces, dat in omvang
+kleiner is dan het Marengoproces,
+
+539
+06:05:36,061 --> 06:05:39,021
+heeft meer dan vierenhalf
+jaar geduurd in hoger beroep.
+
+540
+06:05:39,121 --> 06:05:42,351
+Dit is dus een vraagstuk waar we de
+komende tijd nog mee te maken hebben.
+
+541
+06:05:42,391 --> 06:05:48,291
+Hoe gaat deze minister, die gaat
+over het rechtsbestel en over de
+rechtspraak, ervoor zorgen dat...
+
+542
+06:05:48,351 --> 06:05:52,351
+grote strafprocessen de komende jaren op een
+veilige manier georganiseerd kunnen worden?
+
+543
+06:05:52,452 --> 06:05:55,621
+En hoe kijkt hij naar de allergevaarlijksten,
+
+544
+06:05:55,722 --> 06:05:59,621
+waarvan sommigen binnenkort
+ook voor de rechter komen?
+
+545
+06:05:59,722 --> 06:06:05,041
+Wat is nu het plan van deze minister
+om ervoor te zorgen dat ook zij
+veilig naar de rechter kunnen?
+
+546
+06:06:05,141 --> 06:06:07,672
+Dank. Het woord is aan de minister.
+
+547
+06:06:16,791 --> 06:06:22,152
+Voorzitter, dank u wel. De inleidende woorden...
+
+548
+06:06:22,231 --> 06:06:26,182
+van de heer Ellian onderstreep ik
+van harte en accentueer ik ook.
+
+549
+06:06:26,282 --> 06:06:31,632
+De democratische rechtsstaat en de veiligheid
+daarvan gaan u en ook dit kabinet ter harte.
+
+550
+06:06:31,652 --> 06:06:36,492
+Het is van het allergrootste belang om
+daar inhoud aan en antwoord op te geven.
+
+551
+06:06:36,592 --> 06:06:41,512
+U spreekt over de rechtsgang en over een
+ordentelijk proces en u stelt de vraag...
+
+552
+06:06:41,612 --> 06:06:44,932
+hoe het nu loopt met de inzet vanuit Defensie,
+
+553
+06:06:45,032 --> 06:06:48,791
+nadat vanuit het ministerie van Justitie
+en Veiligheid een verzoek aan het
+ministerie van Defensie is gedaan,
+
+554
+06:06:48,972 --> 06:06:53,222
+waarop ook een antwoord is gegeven.
+
+555
+06:06:53,322 --> 06:06:55,791
+U betrekt daarbij ook de
+stad en het lokaal gezag...
+
+556
+06:06:55,891 --> 06:06:59,972
+en u heeft aangegeven dat de veiligheid van
+de Nederlandse samenleving centraal staat.
+
+557
+06:07:00,072 --> 06:07:04,512
+Ik heb in mijn schrijven van 26 mei
+aan deze Kamer aangegeven wat de...
+
+558
+06:07:04,572 --> 06:07:09,371
+stand van zaken is en hoe
+belangrijk ik het vind om een...
+
+559
+06:07:09,452 --> 06:07:13,552
+extra beveiligde zittingszaal te
+realiseren, te beginnen in Vught, in de ebi.
+
+560
+06:07:13,691 --> 06:07:19,391
+Ik vind het van het allergrootste belang dat
+we die zittingszaal met de mogelijkheid van...
+
+561
+06:07:19,492 --> 06:07:23,512
+een videoconferentie — ik praat eerst over
+de mogelijkheid van een videoconferentie —...
+
+562
+06:07:23,612 --> 06:07:25,911
+eind dit jaar kunnen realiseren.
+
+563
+06:07:26,012 --> 06:07:31,391
+Natuurlijk had ik het liefst dat dat gisteren
+was gerealiseerd. Hetzelfde geldt voor Lelystad...
+
+564
+06:07:31,552 --> 06:07:38,172
+en voor Vlissingen, maar ik
+heb u ook geïnformeerd over
+waarom de doorlooptijd lang is.
+
+565
+06:07:38,691 --> 06:07:44,112
+De parlementariër Ellian vraagt
+terecht wat deze minister gaat doen.
+
+566
+06:07:44,211 --> 06:07:49,452
+Deze minister heeft in november
+2022 wettelijk mogelijk gemaakt...
+
+567
+06:07:49,552 --> 06:07:54,972
+dat verdachten via een videoconferentie
+gehoord kunnen worden door de rechter.
+
+568
+06:07:55,072 --> 06:08:00,492
+De rechter kan daartoe beslissen,
+zelfs als de verdachte daar niet aan
+wil meewerken; ik zeg met klem dat de...
+
+569
+06:08:00,652 --> 06:08:04,561
+rechter daarover beslist. Die voorzieningen...
+
+570
+06:08:04,661 --> 06:08:10,052
+tracht ik op verschillende locaties
+mogelijk te maken, in de tijd
+geplaatst. Ik vind het van belang dat...
+
+571
+06:08:10,152 --> 06:08:13,132
+we dat gaan realiseren en dat we dat ook doen.
+
+572
+06:08:16,092 --> 06:08:20,521
+Dat geeft natuurlijk nog geen antwoord op
+de vraag waar volgens mij velen mee zitten:
+
+573
+06:08:20,621 --> 06:08:24,691
+hoe gaat het straks bijvoorbeeld
+met het hoger beroep?
+
+574
+06:08:24,791 --> 06:08:28,472
+Vindt dat hoger beroep plaats
+in dezelfde rechtbank of gaat
+dat naar een andere rechtbank?
+
+575
+06:08:28,532 --> 06:08:32,952
+Dat is natuurlijk iets wat velen
+bezighoudt. Daar zou ik graag
+een antwoord op willen krijgen,
+
+576
+06:08:33,012 --> 06:08:39,811
+maar meer fundamenteel schetst de
+minister terecht een aantal stappen
+die deze regering heeft genomen:
+
+577
+06:08:39,911 --> 06:08:46,061
+enige inzet op de videoverbinding
+en de realisatie van een — ik zeg
+het maar — kleine zittingszaal.
+
+578
+06:08:46,161 --> 06:08:52,311
+Gaat dit het probleem dan oplossen? Want
+zolang de gevaarlijke buitencategorie,
+
+579
+06:08:52,351 --> 06:08:57,351
+zoals de minister ze weleens
+noemt, nog steeds verplaatst moet
+worden naar die zittingslocatie,
+
+580
+06:08:57,452 --> 06:08:59,391
+blijf je dit probleem altijd houden.
+
+581
+06:08:59,472 --> 06:09:03,652
+Dit probleem lost zich op deze manier niet op.
+
+582
+06:09:03,751 --> 06:09:06,932
+Men moet naar Lelystad of straks naar Zeeland.
+De door de VVD aangedragen oplossing,
+
+583
+06:09:06,972 --> 06:09:12,851
+waar ik nogmaals een reactie van
+de minister op vraag, is: waarom
+niet gewoon de videoverbinding?
+
+584
+06:09:13,012 --> 06:09:16,492
+Ik ben in Italië in een
+van de zwaarst bewaakte...
+
+585
+06:09:16,592 --> 06:09:22,052
+beveiligde rechtszalen van dat
+land geweest, waar meer dan 100
+maffiosi tegelijk terechtstonden.
+
+586
+06:09:22,152 --> 06:09:27,492
+Dan was alleen de verdachte,
+één persoon, aanwezig.
+
+587
+06:09:27,552 --> 06:09:32,211
+Waarom gaan we niet die kant op? Want als die
+verdachten niet meer naar de rechtszaal hoeven,
+
+588
+06:09:32,351 --> 06:09:38,251
+los je deze capaciteitsvragen, die terecht
+zijn, voor een groot deel op. Of we...
+
+589
+06:09:38,351 --> 06:09:41,922
+bouwen gewoon een grote rechtbank bij
+Vught. Dan los je het probleem ook op,
+
+590
+06:09:42,021 --> 06:09:45,411
+want dan blijven die gevaarlijke lui
+daar en dan beveilig je die omgeving.
+
+591
+06:09:45,452 --> 06:09:47,862
+Maar het is wat ons betreft één van de twee.
+
+592
+06:09:47,961 --> 06:09:52,041
+Ik zou graag horen of de
+minister dit ook zo ziet.
+
+593
+06:09:52,141 --> 06:09:57,271
+In mijn antwoord van zojuist — ik zal nu
+iets duidelijker zijn naar deze Kamer, want
+ik heb verwezen naar de brief waarin ik dit...
+
+594
+06:09:57,311 --> 06:10:01,992
+ook geschetst heb — zei ik
+ook dat ik juist de risicovolle...
+
+595
+06:10:02,092 --> 06:10:06,581
+en ook de zeer vluchtgevaarlijke gedetineerden...
+
+596
+06:10:06,682 --> 06:10:11,552
+het liefst binnen de muren wil
+houden en ook binnen de muren, dus
+de gevangenismuren, wil berechten.
+
+597
+06:10:11,652 --> 06:10:15,711
+Dat is de reden waarom wij er
+als kabinet in investeren om...
+
+598
+06:10:15,811 --> 06:10:20,791
+een beveiligde zittingszaal en zittingslocatie
+te hebben. Daar zetten we vaart achter.
+
+599
+06:10:20,891 --> 06:10:26,532
+Dat proberen we te realiseren. U
+spreekt ook over de videoconference.
+Ik heb dat mogelijk gemaakt.
+
+600
+06:10:26,592 --> 06:10:31,661
+In november 2022 is dat ook via een algemene
+maatregel van bestuur mogelijk gemaakt.
+
+601
+06:10:31,762 --> 06:10:37,572
+Het is aan de rechtbank, aan de
+rechter, om, als de verdachte daar
+bezwaar tegen maakt, te beslissen...
+
+602
+06:10:37,672 --> 06:10:41,532
+of hij wordt gehoord via de videoconferentie of
+dat hij fysiek in de rechtszaal wordt gehoord.
+
+603
+06:10:41,632 --> 06:10:43,702
+Even voor de goede orde: ik ga daar niet over.
+
+604
+06:10:43,802 --> 06:10:49,492
+Tegelijkertijd vind ik het van
+het allergrootste belang dat we
+geen transportbewegingen hebben.
+
+605
+06:10:49,592 --> 06:10:53,012
+Dat is de reden waarom ik investeer
+in Vlissingen en Lelystad, waarom...
+
+606
+06:10:53,112 --> 06:10:58,782
+we Schiphol hebben en waarom we
+Amsterdam hebben. Ik wil ook ingaan
+op de eerste vraag die u mij stelt.
+
+607
+06:10:58,882 --> 06:11:02,682
+Stel dat er een hoger beroep komt. Wij weten
+dat niet, maar waar zal dat plaatvinden?
+
+608
+06:11:02,782 --> 06:11:06,472
+Ik kan u dat antwoord niet geven.
+Ik kan in dezen niet treden...
+
+609
+06:11:06,572 --> 06:11:12,472
+in de rechtspraak. U kunt wél weten
+dat ik dat proces ook nauwgezet volg,
+
+610
+06:11:12,572 --> 06:11:17,822
+omdat een van mijn taken — en
+u verwees daar meteen naar — de
+veiligheid van de rechtsgang ook...
+
+611
+06:11:17,922 --> 06:11:21,922
+realiseren en goed houden is. Er
+komen technische voorzieningen.
+
+612
+06:11:22,021 --> 06:11:26,402
+Net als u ben ik naar Italië geweest, samen
+met de minister van Justitie en Veiligheid,
+
+613
+06:11:26,501 --> 06:11:28,532
+juist omdat ik het van
+belang vind om ook te leren...
+
+614
+06:11:28,652 --> 06:11:32,711
+hoe de Italianen daar met 30 jaar
+ervaring aan maffiageweld — laat...
+
+615
+06:11:32,851 --> 06:11:34,402
+ik het maar gewoon duidelijk benoemen
+— antwoord op hebben gegeven.
+
+616
+06:11:34,501 --> 06:11:38,532
+En waarom het wiel uitvinden
+als het elders is uitgevonden?
+
+617
+06:11:38,632 --> 06:11:42,081
+U bent er ook niet voor niks naartoe
+geweest. Dus ik leer ervan door daar
+
+618
+06:11:42,081 --> 06:11:45,532
+goed naar te kijken en door ook te
+kijken: hoe kan je iets toepassen?
+
+619
+06:11:45,572 --> 06:11:50,052
+Ik kijk even naar de voorzitter, want
+voor mij gebeuren er allerlei dingen
+met het klokje. Het staat nu weer goed.
+
+620
+06:11:50,152 --> 06:11:53,992
+Oké, het staat goed.
+Voorzitter, dank. En ik waardeer...
+
+621
+06:11:54,092 --> 06:11:57,851
+het dat de minister zich zo inspant.
+
+622
+06:11:57,952 --> 06:12:03,891
+Het gaat niet om ons; het gaat om
+de veiligheid van de samenleving
+en om de kracht van de rechtstaat.
+
+623
+06:12:03,992 --> 06:12:09,191
+Dan hoop ik dat ik de minister goed
+heb begrepen, want hij zei zojuist dat
+wat hem betreft het uitgangspunt is,
+
+624
+06:12:09,231 --> 06:12:14,441
+en dat zou wat mij betreft nieuws
+zijn, dat de allergevaarlijksten...
+
+625
+06:12:14,541 --> 06:12:19,271
+niet meer op transport gaan. Als we dát
+uitgangspunt nu met elkaar hebben vastgesteld,
+
+626
+06:12:19,311 --> 06:12:24,532
+dan wordt Nederland een stukje veiliger,
+want dan hoeft iemand als Taghi — of
+straks hopelijk iemand als Bolle Jos,
+
+627
+06:12:24,572 --> 06:12:29,672
+want we willen allemaal dat zo
+iemand naar Nederland komt —
+dus niet meer naar de rechtbank.
+
+628
+06:12:29,711 --> 06:12:32,501
+Dan vraag ik me dus wel af
+of ik dit goed heb begrepen.
+
+629
+06:12:32,601 --> 06:12:36,791
+En dan blijft de vraag of de maatregelen die
+de minister op korte termijn aankondigt dan...
+
+630
+06:12:36,891 --> 06:12:42,561
+genoeg zijn om ál de vraagstukken
+die nu voorliggen op te lossen.
+
+631
+06:12:42,661 --> 06:12:47,021
+Over de eerste opmerking van de heer Ellian:
+nee, hij heeft mij niet goed begrepen.
+
+632
+06:12:47,121 --> 06:12:51,932
+De beslissing over transport ligt namelijk niet
+bij mij. Die beslissing ligt bij de rechter.
+
+633
+06:12:52,032 --> 06:12:56,211
+Dat heb ik zojuist ook gezegd,
+naar mijn idee. Dus jammer,
+
+634
+06:12:56,331 --> 06:13:00,492
+maar ik ga niet treden in de rechtspraak.
+Dat is één. Lang leve de trias politica,
+
+635
+06:13:00,552 --> 06:13:05,191
+zeg ik met een knipoog naar deze
+Kamer. Dan het tweede aspect.
+
+636
+06:13:05,291 --> 06:13:09,411
+Zijn de voorzieningen die wij nu
+treffen in dit land voldoende?
+
+637
+06:13:14,572 --> 06:13:17,322
+Ik kan die vraag natuurlijk niet beantwoorden.
+
+638
+06:13:17,422 --> 06:13:22,932
+Wij zetten nu optimaal in op het
+zo veel mogelijk realiseren van
+capaciteit. Ik noemde de locaties.
+
+639
+06:13:23,012 --> 06:13:25,652
+Ik heb u de locaties ook geschreven
+in verschillende brieven.
+
+640
+06:13:25,751 --> 06:13:30,632
+Daar verwachten we echt goede
+faciliteiten te realiseren.
+
+641
+06:13:33,632 --> 06:13:38,952
+Afrondend. De minister en ik
+verschillen hierover van mening.
+
+642
+06:13:38,992 --> 06:13:43,512
+Dat maakt niet uit, maar het Europese Hof
+heeft geoordeeld dat je tot uitgangspunt...
+
+643
+06:13:43,552 --> 06:13:48,851
+mag nemen dat gedetineerden niet vervoerd
+worden indien er sprake is van een gevaar voor
+de nationale veiligheid en openbare orde.
+
+644
+06:13:49,652 --> 06:13:56,632
+Wat de VVD betreft gaan we
+dat zo snel mogelijk doen.
+
+645
+06:13:56,731 --> 06:14:03,032
+Dank u wel, meneer Ellian. Er is een
+aantal vervolgvragen, allereerst van
+de heer Bisschop, SGP. Graag kort.
+
+646
+06:14:03,132 --> 06:14:08,862
+De minister spreekt over de tekortschietende
+voorzieningen en over allerlei technische...
+
+647
+06:14:08,961 --> 06:14:12,661
+ingrepen die gedaan worden. Sinds
+eind vorig jaar is het bijvoorbeeld
+mogelijk om videoconferenties te houden.
+
+648
+06:14:12,762 --> 06:14:15,282
+Dat is allemaal mooi en aardig,
+
+649
+06:14:15,382 --> 06:14:19,351
+maar is de minister het
+met mij eens dat hier het...
+
+650
+06:14:19,452 --> 06:14:23,891
+fundamentele tekort van de
+veiligheidsketen in het geding is?
+
+651
+06:14:24,052 --> 06:14:27,231
+Als hij dit artikel leest over de keuze van...
+
+652
+06:14:27,331 --> 06:14:31,521
+Defensie — alle begrip daarvoor
+overigens, en alle waardering voor hun
+inzet — is hij het er dan mee eens...
+
+653
+06:14:31,621 --> 06:14:35,132
+dat het probleem dus veel...
+
+654
+06:14:35,231 --> 06:14:39,632
+te groot is om op te lossen
+met technische middelen?
+
+655
+06:14:39,691 --> 06:14:45,822
+Nee. Ik lees het artikel anders.
+
+656
+06:14:45,922 --> 06:14:53,092
+Ik lees dat de KMar, de Koninklijke
+Marechaussee, hierin wel degelijk een
+politietaak heeft en die ook vervult.
+
+657
+06:14:53,191 --> 06:14:57,322
+Maar stel dat de politie en de
+Koninklijke Marechaussee aan het
+eind van hun Latijn zijn en het...
+
+658
+06:14:57,422 --> 06:15:01,391
+via de lokale driehoek, eventueel via
+de NCTV en via de minister van Justitie
+en Veiligheid bij de minister van...
+
+659
+06:15:01,432 --> 06:15:04,132
+Defensie komt,
+
+660
+06:15:04,231 --> 06:15:09,891
+en die vervolgens groen inzet,
+dus andere onderdelen van onze
+krijgsmacht. Dat is gebeurd.
+
+661
+06:15:09,992 --> 06:15:12,911
+Als dat verzoek is gedaan,
+wordt dat ook ingezet.
+
+662
+06:15:12,992 --> 06:15:16,992
+Dat is een weging die dan ook
+gemaakt wordt. Ik weet dat...
+
+663
+06:15:17,092 --> 06:15:21,331
+de veiligheid van de Nederlandse samenleving
+in die weging nadrukkelijk centraal staat.
+
+664
+06:15:26,751 --> 06:15:31,911
+Het verbaast mij dat de minister
+voor Rechtsbescherming op de vraag,
+naar aanleiding van van dit artikel,
+
+665
+06:15:31,932 --> 06:15:34,021
+of hij...
+
+666
+06:15:34,121 --> 06:15:39,172
+onderkent dat de veiligheidsketen onvoldoende...
+
+667
+06:15:39,271 --> 06:15:44,632
+krachtig is om de veiligheid
+voldoende te borgen, zijn...
+
+668
+06:15:44,731 --> 06:15:48,751
+antwoord begint met "nee". Ik verwijs even naar...
+
+669
+06:15:48,851 --> 06:15:53,941
+de coalitieafspraken waarin, onder andere, wél
+over dit punt gesproken wordt en waarin dit...
+
+670
+06:15:54,041 --> 06:15:57,722
+wél onderkend wordt.
+
+671
+06:15:57,822 --> 06:16:03,871
+Waar grondt de minister dit op?
+Als we zien dat er hulpmiddelen...
+
+672
+06:16:03,972 --> 06:16:07,961
+aangewend moeten worden om de rechtsgang
+voortgang te laten vinden en de...
+
+673
+06:16:08,061 --> 06:16:12,501
+veiligheid te borgen, waar grondt
+de minister voor Rechtsbescherming...
+
+674
+06:16:12,601 --> 06:16:17,911
+zijn conclusie dan op dat de rechtsketen, de
+veiligheidsketen, niet tekortschiet en dat we...
+
+675
+06:16:18,012 --> 06:16:21,882
+daar niet in moeten investeren?
+
+676
+06:16:21,981 --> 06:16:26,242
+Mijn "neen" is gericht op de situatie
+waar we nu mee geconfronteerd worden.
+
+677
+06:16:26,342 --> 06:16:30,061
+Daarbij zie ik dat andere onderdelen
+van Defensie, van onze krijgsmacht,
+
+678
+06:16:30,161 --> 06:16:34,121
+de stap naar voren maken,
+bijstand verlenen en er staan.
+
+679
+06:16:34,222 --> 06:16:38,422
+Mijn "neen" berust ook op het feit
+dat we knalhard aan het werk zijn om
+antwoord te geven op vragen omtrent...
+
+680
+06:16:38,521 --> 06:16:42,621
+allerlei voorzieningen; denk aan de
+extra beveiligde zittingslocaties en de...
+
+681
+06:16:42,722 --> 06:16:48,061
+algemene maatregel van bestuur om die dan ook
+fysiek te kunnen realiseren. Ik verwacht die...
+
+682
+06:16:48,161 --> 06:16:52,561
+eind 2023 gerealiseerd te hebben in Vught,
+
+683
+06:16:52,661 --> 06:16:57,612
+waardoor die transportbewegingen
+van verdachten niet meer nodig zijn.
+Maar daarover beslist de rechter.
+
+684
+06:16:57,711 --> 06:17:02,972
+Ik heb er vertrouwen in voor de toekomst,
+maar ik besef tegelijkertijd dat dit...
+
+685
+06:17:02,992 --> 06:17:07,311
+een inspanningsverplichting
+blijft vergen van ons allen.
+
+686
+06:17:08,231 --> 06:17:13,501
+Dit is noch de eerste, noch de laatste
+keer dat we dit soort hele zware...
+
+687
+06:17:13,601 --> 06:17:17,342
+rechtszaken hebben als het Marengoproces,
+
+688
+06:17:17,441 --> 06:17:21,972
+zeker als we de strijd tegen
+ondermijnende criminaliteit voortzetten.
+
+689
+06:17:22,132 --> 06:17:27,601
+Het feit is dat we een enorm tekort hebben
+bij de politie. Ook dat is niet van vandaag...
+
+690
+06:17:27,702 --> 06:17:33,432
+op morgen opgelost. We zien
+dat Defensie wordt ingezet;
+
+691
+06:17:33,512 --> 06:17:38,152
+ik begrijp dat wel, maar ik zie
+ook dat dit niet structureel kan.
+
+692
+06:17:38,251 --> 06:17:43,722
+We zijn allemaal op zoek naar een
+structurele oplossing waarbij er zo
+min mogelijk verplaatsing plaatsvindt.
+
+693
+06:17:43,822 --> 06:17:49,141
+Is de minister bereid ook het gesprek
+aan te gaan met de rechtspraak om...
+
+694
+06:17:49,242 --> 06:17:54,152
+wat meer, en minder vrijblijvende,
+afspraken te maken hierover, uiteraard met...
+
+695
+06:17:54,231 --> 06:17:57,172
+oog voor de trias politica?
+
+696
+06:17:57,211 --> 06:18:02,791
+Want dit kan zo niet; het gaat hier om de inzet
+van minimaal 300 agenten bij zo'n zitting. Dat
+is in de toekomst niet houdbaar. Voldoende.
+
+697
+06:18:03,072 --> 06:18:08,572
+We kijken naar de tijd. De minister.
+Die gesprekken voer ik continu
+met álle betrokken actoren,
+
+698
+06:18:08,672 --> 06:18:13,532
+omdat ik zie hoeveel er
+gevraagd en gevergd wordt.
+
+699
+06:18:14,492 --> 06:18:17,711
+Dat is fijn,
+
+700
+06:18:17,811 --> 06:18:22,351
+maar dat is nog steeds geen
+antwoord op de vraag die ik stel.
+
+701
+06:18:22,411 --> 06:18:26,411
+Misschien kunt u een heel concrete vraag
+stellen. Ik ben op zoek naar iets concreets.
+
+702
+06:18:26,512 --> 06:18:32,652
+Ik ben op zoek naar een gesprek
+tussen de minister en de rechtspraak...
+
+703
+06:18:32,751 --> 06:18:38,402
+waarin een aantal afspraken op papier wordt
+vastgelegd. Dat moet natuurlijk gebeuren met
+oog voor de trias politica; dat snap ik.
+
+704
+06:18:38,501 --> 06:18:43,751
+Maar de situatie is zo dringend en
+het is noch de eerste, noch de laatste...
+
+705
+06:18:43,811 --> 06:18:49,351
+keer dat we een dergelijk zwaar
+proces aangaan met elkaar in de strijd
+tegen ondermijnende criminaliteit.
+
+706
+06:18:49,452 --> 06:18:54,561
+Dat vraagt meer van een minister dan alleen
+maar zeggen: ik ga er niet over; dat is...
+
+707
+06:18:54,661 --> 06:18:59,711
+aan de rechtspraak. Wat kan de minister
+extra doen om dit voor elkaar te krijgen?
+
+708
+06:18:59,771 --> 06:19:03,331
+In januari 2023 heb ik u een brief gestuurd,
+
+709
+06:19:03,432 --> 06:19:06,992
+waarin ik u heb gemeld en verteld wat ik
+met de Raad voor de rechtspraak bespreek
+in dezen en hoe belangrijk ik dat vind.
+
+710
+06:19:07,052 --> 06:19:11,112
+Ik heb daarin verteld hoe we de
+presidenten ontvangen hebben in...
+
+711
+06:19:11,211 --> 06:19:15,472
+Vught om te laten zien hoe zo'n zittingslocatie
+eruitziet. U zegt "met het oog op de...
+
+712
+06:19:15,572 --> 06:19:19,432
+trias politica", dus de scheiding van
+machten; dat ben ik volstrekt met u eens.
+
+713
+06:19:19,532 --> 06:19:24,472
+Zoals ik u net heb geantwoord is dit
+continu onderwerp van gesprek, maar
+zonder dat ik iets kan opleggen;
+
+714
+06:19:24,572 --> 06:19:29,972
+daarom kan ik het ook niet opschrijven.
+Ik vind het ook van belang en ik
+maak mij daar ook zorgen over,
+
+715
+06:19:29,992 --> 06:19:35,072
+net als u. Ik zie namelijk ook grotere
+zaken onze kant op komen in de toekomst.
+
+716
+06:19:36,032 --> 06:19:39,291
+We zien inderdaad dat het
+verplaatsen van zware criminelen...
+
+717
+06:19:39,391 --> 06:19:45,422
+een heleboel druk legt op de veiligheidssector:
+op de politie, maar nu ook op Defensie.
+
+718
+06:19:45,521 --> 06:19:48,891
+Het punt dat de minister schetst, is dat de
+videoconferentie maar ook de zittingszalen...
+
+719
+06:19:48,952 --> 06:19:53,092
+op de lange termijn moeten
+zorgen voor minder druk.
+
+720
+06:19:53,092 --> 06:19:57,911
+Hoe kijkt hij naar de korte termijn, ook
+gezien de reactie van Defensie en de politie?
+
+721
+06:19:58,012 --> 06:20:00,291
+Hoe wordt er omgegaan met die capaciteitsklem?
+
+722
+06:20:00,391 --> 06:20:05,751
+Want we willen ook zorgen dat er genoeg
+politie in de regio's aanwezig is.
+
+723
+06:20:05,851 --> 06:20:12,101
+Je ziet gewoon een gigantische druk
+op dit proces. Hoe kijkt hij naar...
+
+724
+06:20:12,202 --> 06:20:18,012
+de korte termijn in het gesprek
+met Defensie en de politie?
+
+725
+06:20:18,032 --> 06:20:22,621
+Ik kan niet op de stoel gaan zitten van
+een verzoek dat nog niet is gekomen.
+
+726
+06:20:22,722 --> 06:20:28,751
+Er moet weer een verzoek komen na een
+periode. Die is tot 1 november 2023.
+
+727
+06:20:28,851 --> 06:20:33,311
+Wellicht heb je die capaciteit ook
+nodig als het proces langer duurt.
+Dan zal er weer een verzoek komen,
+
+728
+06:20:33,432 --> 06:20:35,251
+dat ook in procedure wordt genomen.
+
+729
+06:20:35,351 --> 06:20:39,552
+Je hoopt dat je eerder dat verzoek
+hebt, maar er kan soms heel
+snel een klap op gegeven worden.
+
+730
+06:20:39,652 --> 06:20:45,691
+Dan is het aan de minister van
+Defensie en de minister van Justitie en
+Veiligheid om af te wegen of groen —...
+
+731
+06:20:45,851 --> 06:20:49,271
+ik zeg bewust: groen — op de
+korte termijn ingezet blijft worden.
+
+732
+06:20:49,351 --> 06:20:54,961
+Tegelijkertijd hoort u mij ook zeggen
+dat ik verwacht dat ik eind 2023 de
+fysieke videoconferentiemogelijkheid heb,
+
+733
+06:20:55,061 --> 06:20:58,802
+zodat de rechtspraak daar
+gebruik van kan maken.
+
+734
+06:20:58,902 --> 06:21:05,251
+Dat zijn de twee hete hangijzers die
+ik in het vuur heb, en die we kunnen
+realiseren. Dat is mijn kortetermijnplan.
+
+735
+06:21:05,271 --> 06:21:11,041
+Wij willen ons land niet uitleveren aan...
+
+736
+06:21:11,141 --> 06:21:13,101
+criminelen en terroristen.
+
+737
+06:21:13,202 --> 06:21:18,632
+Daar zal iedereen binnen de politie en
+ook binnen Defensie het mee eens zijn.
+
+738
+06:21:18,632 --> 06:21:21,211
+Mijn vraag aan de minister is als volgt:
+
+739
+06:21:21,311 --> 06:21:26,052
+vindt hij dat de huidige politiemacht
+voldoende is uitgerust met mensen en middelen...
+
+740
+06:21:26,092 --> 06:21:30,021
+om dit soort grote zaken in de
+toekomst goed te kunnen beveiligen,
+
+741
+06:21:30,121 --> 06:21:35,911
+onafhankelijk van en zelfs met respect
+voor het besluit van de rechter
+over waar zo'n zaak plaatsvindt?
+
+742
+06:21:35,972 --> 06:21:40,512
+Want dat is denk ik de essentie. Je ziet
+in het artikel dat nu naar boven komt,
+
+743
+06:21:40,572 --> 06:21:43,351
+over het Marengoproces in Amsterdam, dat
+het knelt bij Defensie en bij de politie,
+
+744
+06:21:43,391 --> 06:21:47,371
+dus dat er iets misgaat. Is de
+politiemacht voldoende uitgerust?
+
+745
+06:21:47,472 --> 06:21:52,751
+Dit is een vraag die eigenlijk
+gericht zou moeten worden aan de
+minister van Justitie en Veiligheid.
+
+746
+06:21:52,851 --> 06:21:55,891
+Daar ressorteert de politie onder.
+
+747
+06:21:55,911 --> 06:21:59,041
+Het is geheel ongepast als ik daar
+een kwantitatieve of kwalitatieve
+opmerking over ga plaatsen.
+
+748
+06:21:59,141 --> 06:22:01,621
+Dat past niet bij mij. Wat ik wel zie,
+
+749
+06:22:01,722 --> 06:22:06,222
+is dat de KMar haar werk heeft opgepakt
+als er behoefte is aan ondersteuning.
+
+750
+06:22:06,322 --> 06:22:10,541
+Die heeft ook een politietaak. Er is
+zelfs een beroep gedaan op het leger.
+
+751
+06:22:10,641 --> 06:22:14,952
+Dat is de werkelijkheid. Ik kan
+hier geen oordelen vellen over
+de kwaliteit en de kwantiteit.
+
+752
+06:22:15,012 --> 06:22:19,532
+Dank. Dan dank ik de minister voor
+Rechtsbescherming voor zijn beantwoording.
+
+753
+06:22:19,632 --> 06:22:21,771
+Hiermee zijn we aan het einde
+gekomen van het mondelinge vragenuur.
+
+754
+06:22:21,811 --> 06:22:25,652
+Ik schors de vergadering voor een
+enkel moment en dan gaan we over tot de...
+
+755
+06:22:26,012 --> 06:22:28,072
+stemmingen.

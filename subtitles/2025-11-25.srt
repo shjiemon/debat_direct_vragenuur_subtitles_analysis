@@ -1,0 +1,4389 @@
+1
+05:24:47,740 --> 05:24:49,570
+Ik heet de staatssecretaris van Justitie
+en Veiligheid van harte welkom en
+
+2
+05:24:49,570 --> 05:24:51,400
+nodig de heer Sneller uit voor zijn
+mondelinge vraag namens de fractie van D66...
+
+3
+05:24:51,460 --> 05:24:53,179
+aan de staatssecretaris.
+
+4
+05:25:01,540 --> 05:25:06,480
+U heeft het woord. Dank u wel, voorzitter. Die
+mondelinge vraag gaat over het bericht dat...
+
+5
+05:25:07,399 --> 05:25:13,320
+medewerkers van het Openbaar
+Ministerie waarschuwen voor fouten
+in strafzaken door ICT-problemen.
+
+6
+05:25:14,200 --> 05:25:18,160
+Het Openbaar Ministerie vervult een cruciale
+rol in het veilig houden van Nederland en...
+
+7
+05:25:18,259 --> 05:25:22,619
+dus hebben wij hier ook de belangrijke taak
+om te zorgen dat het Openbaar Ministerie...
+
+8
+05:25:22,960 --> 05:25:24,399
+zijn werk goed kan doen.
+
+9
+05:25:25,019 --> 05:25:28,519
+Eerder dit jaar werd de OM-infrastructuur...
+
+10
+05:25:28,860 --> 05:25:32,100
+op het ICT-gebied volledig
+offline gehaald na een hack.
+
+11
+05:25:32,920 --> 05:25:36,740
+De gevolgen daarvan waren
+zeer groot: advocaten kregen...
+
+12
+05:25:36,759 --> 05:25:38,579
+cruciale informatie te laat...
+
+13
+05:25:39,079 --> 05:25:40,519
+of soms zelfs helemaal niet,
+
+14
+05:25:40,740 --> 05:25:44,979
+er ontbrak belangrijke informatie in
+dossiers en gedetineerden zaten soms...
+
+15
+05:25:45,399 --> 05:25:49,040
+zelfs langer vast omdat stukken
+niet tijdig beschikbaar waren.
+
+16
+05:25:49,839 --> 05:25:54,360
+Er waren ook grote gevolgen voor de
+medewerkers van het Openbaar Ministerie.
+
+17
+05:25:55,099 --> 05:25:57,280
+Zij klagen over die haperende systemen,
+
+18
+05:25:57,379 --> 05:26:00,900
+maar ook over de daardoor oplopende
+achterstanden en de ongekende werkdruk.
+
+19
+05:26:01,000 --> 05:26:04,599
+De eerste vraag die ik heb
+aan de staatssecretaris is of...
+
+20
+05:26:04,860 --> 05:26:08,900
+hij deze signalen herkent en wat zijn
+inschatting is van de omvang daarvan.
+
+21
+05:26:10,620 --> 05:26:11,519
+De staatssecretaris.
+
+22
+05:26:19,079 --> 05:26:23,980
+Voorzitter. In de eerste plaats vind
+ik het bijzonder om een keer aan deze
+kant van de microfoon te staan voor...
+
+23
+05:26:24,000 --> 05:26:24,920
+mondelinge vragen.
+
+24
+05:26:24,959 --> 05:26:29,179
+Ik heb in het verleden regelmatig
+aan de andere kant of daar in de zaal
+mogen staan om ze zelf te stellen.
+
+25
+05:26:29,519 --> 05:26:31,280
+Nu ben ik in de positie om ze te beantwoorden.
+
+26
+05:26:32,679 --> 05:26:35,659
+Dat is wel meteen ook ter
+vervanging van de minister,
+
+27
+05:26:35,720 --> 05:26:39,739
+dus ik zit hier in een mild aangepaste positie.
+
+28
+05:26:40,720 --> 05:26:45,220
+Maar ik geef met liefde antwoord
+op de vragen van de heer Sneller,
+want die zijn belangrijk genoeg.
+
+29
+05:26:45,900 --> 05:26:50,739
+Laat ik vooropstellen dat ik het
+ontzettend vervelend vind dat medewerkers
+van het OM, die belangrijk werk doen,
+
+30
+05:26:50,819 --> 05:26:54,439
+in hun werk worden gehinderd
+door verouderde ICT.
+
+31
+05:26:55,579 --> 05:27:01,419
+Bij het OM is al wat langer sprake
+van verouderde ICT-systemen; volgens
+mij weet de heer Sneller dat.
+
+32
+05:27:01,539 --> 05:27:02,500
+Het OM is ook al...
+
+33
+05:27:02,560 --> 05:27:07,300
+langer bezig om die systemen, met name GPS
+— dat is het systeem voor strafzaken — te...
+
+34
+05:27:07,580 --> 05:27:12,139
+vervangen door een nieuw systeem met de
+naam EMMA. Even voor de beeldvorming: GPS...
+
+35
+05:27:12,199 --> 05:27:14,819
+is niet zomaar een ondersteunend systeem.
+
+36
+05:27:14,859 --> 05:27:18,220
+Het is het hart van al het werk
+dat het Openbaar Ministerie doet.
+
+37
+05:27:18,280 --> 05:27:19,680
+De hele zaakstroom gaat erdoorheen
+en alle documenten gaan erdoorheen.
+
+38
+05:27:19,720 --> 05:27:21,740
+De hele workflow gaat erdoorheen,
+
+39
+05:27:22,919 --> 05:27:26,500
+dus dat is echt wel het hart van het
+werk binnen het Openbaar Ministerie.
+
+40
+05:27:26,840 --> 05:27:32,479
+Het OM doet er daarom ook alles aan om
+de continuïteit in de ICT-systemen te
+waarborgen tot het nieuwe systeem gereed is.
+
+41
+05:27:33,120 --> 05:27:36,759
+Het Adviescollege ICT-toetsing heeft
+hierover eerder ook een advies uitgebracht.
+
+42
+05:27:37,900 --> 05:27:39,300
+Zoals de heer Sneller al aangaf,
+
+43
+05:27:39,560 --> 05:27:43,680
+kwam er afgelopen juli boven op
+die uitdaging van die verouderde
+ICT-systemen ook de ICT-inbreuk.
+
+44
+05:27:43,699 --> 05:27:49,180
+Die had grote impact op het werk
+bij het OM en heeft veel gevraagd
+van de medewerkers van het OM en...
+
+45
+05:27:49,819 --> 05:27:53,180
+alle partners en betrokkenen
+in en rondom de strafketen.
+
+46
+05:27:53,220 --> 05:27:53,740
+Ik moet...
+
+47
+05:27:54,580 --> 05:27:57,939
+ook hierbij zeggen dat ik enorm veel
+waardering heb voor al die medewerkers...
+
+48
+05:27:58,199 --> 05:28:01,759
+binnen het OM en alle partners in
+de strafketen vanwege de manier
+waarop ze hiermee om zijn gegaan.
+
+49
+05:28:02,500 --> 05:28:07,199
+Dat is geen kleine uitdaging. Die extra inzet
+heeft veel impact gehad op de medewerkers.
+
+50
+05:28:07,599 --> 05:28:09,199
+Dat vind ik ontzettend vervelend.
+
+51
+05:28:10,120 --> 05:28:13,979
+Zij doen belangrijk werk. Dan is het
+ontzettend frustrerend als het wordt
+vertraagd door slecht werkende ICT.
+
+52
+05:28:14,379 --> 05:28:18,379
+De heer Sneller gaf al aan dat
+dat leidt tot stress, werkdruk en...
+
+53
+05:28:18,620 --> 05:28:19,560
+alles wat daarbij hoort.
+
+54
+05:28:21,259 --> 05:28:24,879
+Er is ook goed nieuws: sinds de ICT-inbreuk
+zijn inmiddels alle systemen weer online.
+
+55
+05:28:25,300 --> 05:28:28,039
+Dat betekent helaas niet dat
+alle ICT-problemen zijn opgelost.
+
+56
+05:28:28,159 --> 05:28:30,400
+De eerdere problematiek blijft nog bestaan.
+
+57
+05:28:31,080 --> 05:28:35,979
+Op zeer korte termijn start een onafhankelijke
+commissie met een onderzoek naar de
+ICT-inbreuk en hoe dergelijke incidenten in de...
+
+58
+05:28:36,020 --> 05:28:40,340
+informatiebeveiliging in de toekomst zo
+veel mogelijk kunnen worden voorkomen.
+
+59
+05:28:40,979 --> 05:28:42,500
+We weten de omvang niet precies,
+
+60
+05:28:42,560 --> 05:28:47,879
+maar we laten dat wel onderzoeken. Ook wordt
+onderzocht hoe de impact van misbruik van
+kwetsbaarheden van ICT kan worden beperkt.
+
+61
+05:28:49,199 --> 05:28:52,039
+We kunnen het niet met een
+druk op de knop oplossen,
+
+62
+05:28:52,300 --> 05:28:54,099
+maar zijn wel hard bezig
+om het in kaart te brengen.
+
+63
+05:28:54,500 --> 05:28:59,359
+Ik zeg "we", maar dan heb ik het met name
+over het College van procureurs-generaal
+dat er alles aan doet, want daar ligt...
+
+64
+05:28:59,400 --> 05:29:04,599
+de primaire verantwoordelijkheid
+en daarover is de minister ook
+regelmatig met het college in gesprek.
+
+65
+05:29:06,200 --> 05:29:10,179
+Ik interpreteer de woorden van de
+staatssecretaris zo dat ook hij wil dat...
+
+66
+05:29:10,260 --> 05:29:13,659
+die problemen voor de medewerkers van
+het OM zo snel mogelijk worden opgelost.
+
+67
+05:29:14,119 --> 05:29:19,200
+Dan is het volgens mij belangrijk dat
+we eerst zorgen dat we de financiële
+problemen precies op tafel krijgen.
+
+68
+05:29:19,280 --> 05:29:21,720
+Ik kreeg in antwoord op
+mijn schriftelijke vragen...
+
+69
+05:29:21,799 --> 05:29:27,359
+eerder van de minister van Justitie
+te horen dat er geen sprake is van
+bezuiniging die het OM wordt opgelegd,
+
+70
+05:29:27,960 --> 05:29:32,900
+terwijl er ook vanuit de reactie van het
+college op de brief van de Nederlandse
+Vereniging voor Rechtspraak duidelijk blijkt...
+
+71
+05:29:33,359 --> 05:29:35,359
+dat er wel degelijk financiële problemen zijn.
+
+72
+05:29:35,400 --> 05:29:39,780
+Ik hoor dus graag van de staatssecretaris wat
+zijn inschatting is van de omvang van dat...
+
+73
+05:29:39,999 --> 05:29:45,499
+financiële probleem en op welk
+moment het college dat bij het
+ministerie bekend heeft gemaakt.
+
+74
+05:29:46,539 --> 05:29:51,119
+Er is geen sprake van een bezuiniging
+op het OM vanuit het Rijk.
+
+75
+05:29:51,440 --> 05:29:55,419
+Dat is niet het geval. Sterker nog,
+we intensiveren zelfs de middelen.
+
+76
+05:29:55,960 --> 05:30:00,313
+Er zijn bijvoorbeeld ondermijningsmiddelen
+van 172 miljoen, verdeeld over de jaren 2022
+tot en met 2027, ter beschikking gesteld.
+
+77
+05:30:00,313 --> 05:30:02,799
+Er...
+
+78
+05:30:04,080 --> 05:30:07,359
+zijn ook structurele middelen ter waarde van...
+
+79
+05:30:07,359 --> 05:30:10,820
+35 miljoen euro sinds 2025.
+
+80
+05:30:10,880 --> 05:30:13,039
+Dat is het deel dat wij doen.
+
+81
+05:30:13,440 --> 05:30:18,499
+Dat neemt niet weg dat de uitdagingen
+bij het OM heel groot zijn en dat
+het College van procureurs-generaal...
+
+82
+05:30:18,900 --> 05:30:22,200
+zelf tot de conclusie komt meer middelen
+nodig te hebben om dat op te kunnen lossen.
+
+83
+05:30:22,739 --> 05:30:27,559
+Vanuit de eigenstandige verantwoordelijkheid
+— die hoort het OM, het college
+van pg's, ook zelf te hebben —...
+
+84
+05:30:27,640 --> 05:30:32,200
+heeft men zelf besloten om een taakstelling aan
+de organisatie op te leggen en op die manier...
+
+85
+05:30:32,299 --> 05:30:35,700
+middelen vrij te maken om aanvullende
+ICT-problemen op te lossen.
+
+86
+05:30:37,099 --> 05:30:40,260
+Ik citeer uit de brief van het college zelf,
+
+87
+05:30:40,280 --> 05:30:41,559
+die ook op de website te vinden is.
+
+88
+05:30:41,780 --> 05:30:45,320
+"Gezien het percentage (voor de
+meeste onderdelen 4,5% tot 5,5%)
+dat bezuinigd moet worden, gaat het...
+
+89
+05:30:45,700 --> 05:30:49,979
+college ervan uit dat er komend jaar geen
+directe personele consequenties zijn."...
+
+90
+05:30:50,039 --> 05:30:54,799
+Ik hoor daar graag een bevestiging van van de
+staatssecretaris. Maar ze schrijven ook dat...
+
+91
+05:30:54,840 --> 05:31:00,640
+rekening gehouden moet worden met een
+voorzienbare korting op het OM-budget door
+rijksbrede bezuinigingen uit het regeerakkoord,
+
+92
+05:31:01,159 --> 05:31:02,099
+dus van het kabinet dat...
+
+93
+05:31:02,140 --> 05:31:05,700
+er nu nog zit, en andere rijksbrede
+financiële problematiek.
+
+94
+05:31:05,960 --> 05:31:08,799
+Dat is wel degelijk een andere
+inschatting vanuit het college.
+
+95
+05:31:08,859 --> 05:31:13,960
+Mijn vraag was dan ook of dat komt door een
+bezuiniging vanuit het ministerie of door...
+
+96
+05:31:14,460 --> 05:31:18,039
+de benodigde investering om
+de ICT op orde te krijgen,
+
+97
+05:31:18,080 --> 05:31:23,940
+want dat heb ik de staatssecretaris ook
+horen zeggen, en of er een claim is ingediend
+door het college bij het ministerie.
+
+98
+05:31:24,739 --> 05:31:29,880
+Zoals gezegd: vanuit het Rijk is niet bezuinigd
+op het OM. Er zijn middelen geïntensiveerd.
+
+99
+05:31:30,299 --> 05:31:34,999
+Het is wel zo dat het college zelf
+tot de conclusie komt meer middelen
+nodig te hebben om dit op te lossen.
+
+100
+05:31:35,940 --> 05:31:39,179
+Dat is hoever mijn informatie reikt.
+
+101
+05:31:39,859 --> 05:31:44,220
+Ik had gevraagd of er geen personele
+consequenties zullen zijn als
+gevolg van die bezuinigingen en of...
+
+102
+05:31:44,260 --> 05:31:46,380
+de staatssecretaris dat ook
+voor zijn rekening neemt.
+
+103
+05:31:46,919 --> 05:31:49,739
+De inschatting van wat het doet
+met de personele consequenties...
+
+104
+05:31:49,780 --> 05:31:54,220
+is een uitspraak van het College van pg's
+zelf. Het College van pg's is zelfstandig...
+
+105
+05:31:54,299 --> 05:31:56,020
+verantwoordelijk voor de
+organisatie van het OM.
+
+106
+05:31:56,299 --> 05:31:58,440
+Dus als zij zeggen "het heeft
+geen personele consequenties",
+
+107
+05:31:58,900 --> 05:32:00,640
+dan is dat ook zo.
+
+108
+05:32:00,760 --> 05:32:02,460
+Dat is mooi; dat staat genoteerd.
+
+109
+05:32:02,760 --> 05:32:08,380
+Dan de intensivering. Die is steeds
+geoormerkt. Maar nu zien we dat
+er een probleem met de ICT is.
+
+110
+05:32:08,440 --> 05:32:10,099
+Het gaat niet per se om ondermijning of...
+
+111
+05:32:10,140 --> 05:32:12,179
+een bepaald type strafproces,
+
+112
+05:32:12,239 --> 05:32:14,380
+maar er is toch een investering nodig.
+
+113
+05:32:15,260 --> 05:32:17,499
+Ik leid uit de woorden van
+de staatssecretaris af dat...
+
+114
+05:32:17,659 --> 05:32:19,900
+er geen financiële claim is ingediend.
+
+115
+05:32:20,140 --> 05:32:24,359
+Klopt dat? Niet voor zover ik weet.
+
+116
+05:32:24,700 --> 05:32:27,630
+Los daarvan is het OM zelfstandig
+verantwoordelijk voor hoe men de
+
+117
+05:32:27,630 --> 05:32:30,559
+bedrijfsvoering organiseert. De ICT
+maakt daar integraal onderdeel van uit.
+
+118
+05:32:30,979 --> 05:32:34,700
+Ook de heer Sneller vindt het
+heel belangrijk dat het OM als...
+
+119
+05:32:34,700 --> 05:32:39,299
+zelfstandige staatsmacht zelf gaat over
+hoe het dingen organiseert en dat daar
+niet te veel overheidsbemoeienis bij is.
+
+120
+05:32:39,539 --> 05:32:44,799
+Maar die overheidsbemoeienis moet ook niet zo
+ver weg zijn dat we onze handen er helemaal van
+aftrekken en zeggen: dat is niet ons probleem.
+
+121
+05:32:45,320 --> 05:32:50,919
+Op die lijn ligt de
+verantwoordelijkheid primair bij
+het College van pg's en het OM zelf.
+
+122
+05:32:51,559 --> 05:32:54,700
+Daar wil ik het voor nu bij laten. Zeker.
+
+123
+05:32:54,739 --> 05:32:55,580
+Ik verwachtte...
+
+124
+05:32:55,640 --> 05:32:57,760
+al een beetje dat deze vingerwijzing zou komen,
+
+125
+05:32:57,799 --> 05:33:02,099
+maar ik ben er ook verantwoordelijk voor
+om ervoor te zorgen dat ze voldoende budget
+hebben om hun taken te kunnen uitvoeren en...
+
+126
+05:33:02,140 --> 05:33:04,080
+we zien dat dat niet het
+geval is op dit moment.
+
+127
+05:33:04,119 --> 05:33:07,760
+Ik wil graag vóór de begrotingsbehandeling
+Justitie en Veiligheid een brief...
+
+128
+05:33:08,220 --> 05:33:12,539
+met inzicht in wat het college naar zijn
+eigen inschatting nog nodig heeft van de...
+
+129
+05:33:13,220 --> 05:33:17,419
+Kamer en het kabinet om te zorgen
+dat het die taken ook kan uitvoeren.
+
+130
+05:33:17,900 --> 05:33:20,320
+Ik krijg graag de bevestiging dat
+we die brief kunnen ontvangen.
+
+131
+05:33:20,820 --> 05:33:24,320
+We kunnen uiteraard om die
+informatie vragen bij het college.
+
+132
+05:33:24,379 --> 05:33:27,160
+Het is überhaupt goed om dit soort
+vraagstukken te betrekken bij de begroting.
+
+133
+05:33:27,379 --> 05:33:31,720
+Die behandelen wij in januari. Overigens
+is het voor heel veel meer dossiers...
+
+134
+05:33:31,899 --> 05:33:33,660
+goed om inzichtelijk te hebben welke...
+
+135
+05:33:34,479 --> 05:33:36,960
+investeringen daarvoor gevraagd
+worden door uitvoeringsorganisaties.
+
+136
+05:33:37,479 --> 05:33:41,660
+Het college zelf schrijft ook dat het de
+financiële keuzes eind dit jaar al moet maken.
+
+137
+05:33:41,720 --> 05:33:45,999
+En inderdaad, we moeten niet aan
+micromanagement doen en niet over de
+schouders van het college meekijken.
+
+138
+05:33:46,259 --> 05:33:49,619
+Tegelijkertijd worden er een nieuwe
+i-Visie, een nieuwe i-Strategie
+en een nieuw i-Plan gemaakt.
+
+139
+05:33:49,940 --> 05:33:52,180
+Ik zou die inderdaad zo veel
+mogelijk daar willen laten.
+
+140
+05:33:52,259 --> 05:33:53,639
+Ik zou wél graag willen horen of...
+
+141
+05:33:54,019 --> 05:33:55,279
+zij ons nodig hebben.
+
+142
+05:33:55,800 --> 05:34:00,700
+Denk daarbij aan regelgeving om te
+zorgen dat er niet te veel koppelingen
+met andere organisaties zijn.
+
+143
+05:34:00,759 --> 05:34:05,099
+Of denk er daarbij aan dat als wij rijksbreed
+iets moeten doen aan de ICT, het hier dan
+ook helder op tafel komt via het kabinet.
+
+144
+05:34:05,160 --> 05:34:08,080
+Ook die toezegging krijg ik graag.
+
+145
+05:34:08,599 --> 05:34:12,320
+Er is, terecht, zeer regelmatig contact
+tussen de minister en het College van pg's...
+
+146
+05:34:12,759 --> 05:34:16,420
+om te kijken hoe dingen lopen, wat
+er nodig is en wat we over en weer...
+
+147
+05:34:16,619 --> 05:34:18,759
+voor elkaar kunnen en moeten betekenen.
+
+148
+05:34:18,879 --> 05:34:20,979
+Dit soort vraagstukken
+komen daar dus ter tafel.
+
+149
+05:34:21,019 --> 05:34:22,359
+Als er indringende vragen zijn,
+
+150
+05:34:22,479 --> 05:34:26,040
+dan weet de heer Sneller ook
+de weg te vinden richting het
+ministerie om die vraag te stellen.
+
+151
+05:34:26,340 --> 05:34:27,499
+Dank u wel, meneer Sneller. Nee,
+u mag geen vraag meer stellen.
+
+152
+05:34:27,700 --> 05:34:28,560
+U bent door uw tijd heen.
+
+153
+05:34:28,920 --> 05:34:29,859
+Mevrouw...
+
+154
+05:34:29,940 --> 05:34:31,279
+Coenradie heeft een vervolgvraag.
+
+155
+05:34:32,019 --> 05:34:32,940
+Allereerst complimenten...
+
+156
+05:34:33,019 --> 05:34:38,119
+aan deze staatssecretaris voor het
+logo dat hij draagt in het kader
+van Orange the World. Dank u wel.
+
+157
+05:34:38,639 --> 05:34:43,920
+Ik wil even inhaken op de brandbrief, met
+een klein beetje een andere invalshoek.
+
+158
+05:34:44,399 --> 05:34:45,800
+Ik ben namelijk benieuwd...
+
+159
+05:34:45,820 --> 05:34:46,979
+hoe de staatssecretaris...
+
+160
+05:34:47,080 --> 05:34:50,119
+aankijkt tegen het verwijt van
+de indieners van deze brandbrief...
+
+161
+05:34:50,599 --> 05:34:55,979
+dat er — ik citeer — "een
+krachtig geluid" en "zichtbaar
+leiderschap" van de top van het OM...
+
+162
+05:34:57,279 --> 05:34:58,239
+ontbreken.
+
+163
+05:34:58,820 --> 05:35:01,800
+Ik denk dat mevrouw Coenradie
+kan begrijpen dat ik geen...
+
+164
+05:35:02,359 --> 05:35:05,739
+uitspraak kan doen over hoe medewerkers van
+het OM aankijken tegen de top van het OM.
+
+165
+05:35:05,800 --> 05:35:07,160
+Dat vind ik kwetsbaar.
+
+166
+05:35:07,560 --> 05:35:11,019
+Ik neem dat dus voor kennisgeving aan. Ik
+kan me voorstellen dat de top van het OM...
+
+167
+05:35:11,399 --> 05:35:14,940
+die oproep zichzelf aantrekt en op basis
+daarvan in gesprek treedt met de medewerkers.
+
+168
+05:35:18,220 --> 05:35:20,259
+Ik hoor hier een paar aannames,
+
+169
+05:35:21,239 --> 05:35:24,320
+maar hier worden wel stevige uitspraken gedaan.
+
+170
+05:35:25,379 --> 05:35:28,599
+Als er dan toch een brief komt, dan ben ik
+ook wel heel erg benieuwd of daarin over...
+
+171
+05:35:29,239 --> 05:35:32,759
+de voortgang of de uitkomsten
+van deze gesprekken...
+
+172
+05:35:32,840 --> 05:35:35,200
+in ieder geval iets opgenomen kan worden.
+
+173
+05:35:36,139 --> 05:35:40,420
+De brandbrief is...
+
+174
+05:35:40,460 --> 05:35:44,259
+gericht aan het College van
+pg's, de top van het OM.
+
+175
+05:35:44,300 --> 05:35:48,060
+Die is niet gericht aan de
+bewindspersonen van het ministerie.
+
+176
+05:35:48,359 --> 05:35:51,340
+Ik weet dus niet zeker in
+hoeverre ik daarin kan treden.
+
+177
+05:35:51,420 --> 05:35:52,139
+Ik kan...
+
+178
+05:35:52,619 --> 05:35:53,660
+de minister wel verzoeken dit mee te...
+
+179
+05:35:53,700 --> 05:35:56,580
+nemen in het eerstvolgende overleg,
+dat halverwege december plaatsvindt.
+
+180
+05:35:56,979 --> 05:35:58,119
+Mochten daar inzichten in zijn,
+
+181
+05:35:58,220 --> 05:36:00,080
+dan is het uiteraard goed om
+die met de Kamer te delen.
+
+182
+05:36:00,379 --> 05:36:02,849
+Maar een deel gaat natuurlijk ook
+over de organisatie van het OM zelf
+
+183
+05:36:02,849 --> 05:36:05,320
+en de arbeidsrechtelijke verhoudingen
+tussen medewerkers en de top.
+
+184
+05:36:05,680 --> 05:36:06,519
+Daar...
+
+185
+05:36:06,540 --> 05:36:07,840
+kunnen we niet honderd procent in treden,
+
+186
+05:36:07,879 --> 05:36:09,379
+maar wat daarover gedeeld
+kan worden, zullen we delen.
+
+187
+05:36:09,460 --> 05:36:11,759
+Dat zeg ik graag toe.
+
+188
+05:36:13,399 --> 05:36:17,119
+De medewerkers van het OM geven aan dat...
+
+189
+05:36:18,019 --> 05:36:20,599
+deze ICT al meer dan zeven jaar gebrekkig is.
+
+190
+05:36:21,399 --> 05:36:26,099
+Ze geven daarbij aan dat er, buiten
+dat er leiderschap ontbreekt,
+heel veel geld is vermorst.
+
+191
+05:36:26,540 --> 05:36:27,619
+Het vermorsen van dat geld...
+
+192
+05:36:28,060 --> 05:36:31,720
+gebeurt ook in de koppeling
+naar de rechterlijke macht en
+in de koppeling naar de politie.
+
+193
+05:36:32,320 --> 05:36:35,999
+Ik wil de staatssecretaris vragen
+of hij inzichtelijk kan maken...
+
+194
+05:36:36,060 --> 05:36:39,460
+wat de inhuur van derden in het brede domein...
+
+195
+05:36:39,960 --> 05:36:44,359
+van de ICT en die koppelingen de
+laatste vijf jaar heeft gekost.
+
+196
+05:36:44,499 --> 05:36:48,859
+Volgens de medewerkers zijn die kosten namelijk
+echt heel groot en zijn ze de pan uit gerezen...
+
+197
+05:36:49,160 --> 05:36:51,660
+door dat gebrek aan onder andere leiderschap.
+
+198
+05:36:51,720 --> 05:36:54,479
+Mijn concrete vraag is dus: staatssecretaris,
+
+199
+05:36:54,519 --> 05:36:55,680
+wilt u de kosten inzichtelijk maken...
+
+200
+05:36:56,800 --> 05:36:58,999
+die aan derden zijn verspild...
+
+201
+05:36:59,660 --> 05:37:03,080
+bij het in de lucht houden
+van deze verouderde ICT?
+
+202
+05:37:03,820 --> 05:37:07,720
+De heer Struijs wijst terecht
+op de zorgen die er zijn,
+
+203
+05:37:08,139 --> 05:37:09,160
+niet alleen binnen het OM,
+
+204
+05:37:09,180 --> 05:37:11,879
+maar ook op de koppelvlakken met
+de politie en de rechtspraak.
+
+205
+05:37:12,200 --> 05:37:13,599
+Het systeem GPS wordt ook...
+
+206
+05:37:13,599 --> 05:37:14,519
+intensief gebruikt...
+
+207
+05:37:14,639 --> 05:37:18,040
+door de rechtspraak; het is een
+gemeenschappelijk systeem in de
+strafketen, in de eerste aanleg.
+
+208
+05:37:18,139 --> 05:37:22,599
+Het is dus logisch dat die koppelvlakken
+er zijn, ook met de politie,
+
+209
+05:37:22,619 --> 05:37:23,619
+voor het binnenhalen van
+processen-verbaal et cetera.
+
+210
+05:37:24,040 --> 05:37:28,180
+Koppelingen in ICT-systemen zijn
+altijd complex, zijn altijd lastig.
+
+211
+05:37:28,440 --> 05:37:29,859
+Wat de een als verspilling ziet, ziet de...
+
+212
+05:37:29,920 --> 05:37:34,920
+ander als een noodzakelijke investering
+om te zorgen dat die koppeling en die
+samenwerking überhaupt tot stand komen.
+
+213
+05:37:34,960 --> 05:37:37,180
+Het gaat mij nu dus te ver om te
+zeggen dat het allemaal verspilling is.
+
+214
+05:37:37,660 --> 05:37:38,820
+Het kost wel veel geld om het te doen.
+
+215
+05:37:40,320 --> 05:37:42,899
+Ik wil wel laten navragen of we
+dat inzichtelijk kunnen krijgen.
+
+216
+05:37:43,019 --> 05:37:43,899
+Ik weet het niet zeker,
+
+217
+05:37:43,960 --> 05:37:48,700
+want we praten hier wel over een
+uitvoeringsorganisatie, waar we niet
+direct zeggenschap over hebben; ze...
+
+218
+05:37:48,739 --> 05:37:50,200
+staat op enige afstand.
+
+219
+05:37:50,859 --> 05:37:51,899
+Maar ik wil het wel na laten vragen,
+
+220
+05:37:51,999 --> 05:37:56,019
+want ik kan me voorstellen dat het
+vraagstukken zijn waar je bijvoorbeeld ook
+voor de begroting meer van zou willen weten.
+
+221
+05:37:56,499 --> 05:37:57,960
+Ja, zeker.
+
+222
+05:37:58,479 --> 05:38:02,700
+Ik zou het liefst toch een eerste
+indicatie willen hebben binnen
+drie weken, indien mogelijk.
+
+223
+05:38:03,300 --> 05:38:08,680
+Ja, indien mogelijk. Met die slag
+om de arm kan ik dat toezeggen,
+
+224
+05:38:09,080 --> 05:38:13,340
+ook in de wetenschap dat ik hier de
+minister vervang, dus als ik echt iets
+heb gezegd wat onmogelijk op te vragen is,
+
+225
+05:38:13,399 --> 05:38:16,160
+komt er een hele nette brief waarin
+staat: sorry, dat weten we niet.
+
+226
+05:38:16,239 --> 05:38:17,220
+Maar dan...
+
+227
+05:38:17,460 --> 05:38:18,779
+komt u er later ongetwijfeld op terug.
+
+228
+05:38:19,259 --> 05:38:20,320
+Ik...
+
+229
+05:38:20,979 --> 05:38:24,499
+mis eigenlijk de sense of
+urgency bij de staatssecretaris.
+
+230
+05:38:24,540 --> 05:38:27,580
+De hack van twee maanden geleden
+heeft duidelijk aangetoond...
+
+231
+05:38:28,399 --> 05:38:31,739
+dat onze justitiële keten enorm kwetsbaar is.
+
+232
+05:38:32,239 --> 05:38:36,960
+Twee maanden later werkt de ICT nog steeds
+niet in voldoende mate bij het OM en...
+
+233
+05:38:37,019 --> 05:38:41,460
+dat gaat ten koste van de slachtoffers.
+De criminelen zijn de lachende derde.
+
+234
+05:38:41,840 --> 05:38:47,580
+Ik hoor de staatssecretaris de
+bal terugleggen bij het OM en...
+
+235
+05:38:48,359 --> 05:38:52,080
+dat vind ik gewoon onverteerbaar.
+Is de staatssecretaris,
+
+236
+05:38:52,700 --> 05:38:54,040
+juist vanwege het belang hiervan,
+
+237
+05:38:54,379 --> 05:38:59,840
+juist vanwege het feit dat wij al zo lang horen
+dat de problemen zullen worden opgelost en dat...
+
+238
+05:38:59,879 --> 05:39:00,340
+er weer...
+
+239
+05:39:00,399 --> 05:39:01,279
+onderzoek wordt gedaan,
+
+240
+05:39:01,519 --> 05:39:02,940
+bereid ervoor te zorgen dat de
+regie wordt opgepakt en dat de...
+
+241
+05:39:03,279 --> 05:39:04,259
+financiering...
+
+242
+05:39:04,300 --> 05:39:05,239
+wordt geregeld?
+
+243
+05:39:05,279 --> 05:39:06,979
+Want het OM heeft als taakstelling om de...
+
+244
+05:39:07,800 --> 05:39:10,700
+ICT-problemen op te lossen.
+
+245
+05:39:10,720 --> 05:39:15,619
+Graag een antwoord daarop. Denk om
+de 30 secondenregel, geachte leden.
+
+246
+05:39:15,700 --> 05:39:17,180
+De emotie van mevrouw Mutluer...
+
+247
+05:39:17,200 --> 05:39:21,279
+kan ik goed begrijpen, want daar
+gaan grote zorgen achter schuil.
+Medewerkers doen niet voor niets...
+
+248
+05:39:21,560 --> 05:39:24,560
+zo'n oproep richting de top van het OM: "Hé,
+
+249
+05:39:24,840 --> 05:39:27,259
+dit gaat niet goed. Doe er wat aan.
+Wij maken ons hier zorgen over,
+
+250
+05:39:27,359 --> 05:39:29,139
+want wij worden beperkt in ons werk."...
+
+251
+05:39:30,999 --> 05:39:35,359
+Tegelijkertijd is het echt heel
+goed om het volgende te beseffen.
+
+252
+05:39:35,599 --> 05:39:38,940
+Deze systemen zitten, zoals ik
+al zei, echt in het hart van de
+werkwijze van het Openbaar Ministerie.
+
+253
+05:39:39,279 --> 05:39:44,220
+Je kunt niet in splendid isolation
+zeggen: "Ik bouw een nieuw systeem.
+
+254
+05:39:44,739 --> 05:39:46,560
+We zetten het oude systeem even uit en...
+
+255
+05:39:47,060 --> 05:39:49,649
+hobbelen een tijdje door; dan hebben
+we een nieuw systeem. Je moet
+
+256
+05:39:49,649 --> 05:39:52,239
+het je voorstellen alsof je in een
+ziekenhuis dat altijd door moet gaan,
+
+257
+05:39:53,440 --> 05:39:55,920
+compleet nieuwe systemen moet invoeren,
+
+258
+05:39:56,279 --> 05:39:58,619
+waarbij je hoopt dat de boel nog door kan gaan.
+
+259
+05:39:58,660 --> 05:40:04,019
+Het is buitengewoon complex om
+dat goed en zorgvuldig te doen.
+Daar gaat gewoon tijd in zitten.
+
+260
+05:40:04,200 --> 05:40:06,639
+Dat is frustrerend en lastig,
+
+261
+05:40:06,800 --> 05:40:08,359
+maar we kunnen het maar één keer goed doen.
+
+262
+05:40:08,639 --> 05:40:10,580
+Het is niet zo dat we de
+urgentie daarvan niet voelen.
+
+263
+05:40:10,619 --> 05:40:12,739
+De primaire urgentie ligt bij het OM,
+
+264
+05:40:13,080 --> 05:40:16,560
+bij de organisatie zelf, maar we houden wel
+degelijk de vinger aan de pols bij dit thema.
+
+265
+05:40:16,599 --> 05:40:17,379
+Het is belangrijk genoeg.
+
+266
+05:40:17,759 --> 05:40:20,399
+Het...
+
+267
+05:40:20,440 --> 05:40:25,320
+is duidelijk dat er nogal wat ICT-uitdagingen
+bij het Openbaar Ministerie zijn.
+
+268
+05:40:25,879 --> 05:40:27,320
+Ik wil graag even naar de
+toekomst kijken, naar de...
+
+269
+05:40:27,499 --> 05:40:32,979
+invoering van het nieuwe Wetboek
+van Strafvordering. De beoogde
+inwerkingtredingsdatum is 1 april 2029.
+
+270
+05:40:33,859 --> 05:40:35,259
+Dat lijkt mij volstrekt onhaalbaar.
+
+271
+05:40:35,300 --> 05:40:38,519
+Als de staatssecretaris
+dat nu niet kan bevestigen,
+
+272
+05:40:38,580 --> 05:40:41,560
+dan zou ik graag binnen een weekje — ik
+vond drie weken nogal ruim — een brief
+willen hebben met een antwoord op de vraag of...
+
+273
+05:40:42,259 --> 05:40:43,440
+de...
+
+274
+05:40:43,920 --> 05:40:45,639
+ingangsdatum nog reëel is.
+
+275
+05:40:48,040 --> 05:40:49,119
+Over de invoering...
+
+276
+05:40:49,160 --> 05:40:50,359
+van het nieuwe Wetboek van
+Strafvordering kan ik zeggen dat de...
+
+277
+05:40:50,499 --> 05:40:54,499
+wettelijke behandeling nog loopt. De
+behandeling in de Eerste Kamer loopt nog.
+
+278
+05:40:54,859 --> 05:40:58,540
+Die vindt in januari
+plaats. Daar gaat een enorme...
+
+279
+05:40:58,560 --> 05:41:01,119
+keten aan implementatieactiviteiten
+achter schuil,
+
+280
+05:41:01,460 --> 05:41:03,499
+waaronder implementatie bij het OM.
+
+281
+05:41:03,580 --> 05:41:08,580
+Op dit moment heb ik geen reden om aan
+te nemen dat die datum van 1 april 2029...
+
+282
+05:41:08,619 --> 05:41:09,139
+niet haalbaar is,
+
+283
+05:41:09,979 --> 05:41:12,399
+maar ik ben bereid om na te laten
+vragen hoe het OM daar zelf naar...
+
+284
+05:41:12,420 --> 05:41:13,519
+kijkt.
+
+285
+05:41:16,879 --> 05:41:17,759
+Er...
+
+286
+05:41:18,060 --> 05:41:22,859
+zijn denk ik door mijn collega's al heel
+veel terechte vragen gesteld over de
+financiering richting het Openbaar Ministerie.
+
+287
+05:41:22,899 --> 05:41:27,660
+Ik zou graag een ander aspect van
+de brandbrief uitlichten. Personeel
+van het Openbaar Ministerie...
+
+288
+05:41:27,700 --> 05:41:32,340
+zegt ook: door de ICT-gebreken is
+er een reëel risico dat fouten
+worden gemaakt in strafdossiers.
+
+289
+05:41:32,359 --> 05:41:34,300
+Het gaat dus niet alleen om vertraging,
+
+290
+05:41:34,340 --> 05:41:38,879
+maar ook om inhoudelijke fouten.
+Zou de staatssecretaris nader
+kunnen toelichten of er al signalen...
+
+291
+05:41:38,960 --> 05:41:43,739
+zijn dat er op dit moment fouten in
+strafzaken komen vanwege ICT-problemen?
+
+292
+05:41:43,999 --> 05:41:45,239
+Naar...
+
+293
+05:41:45,279 --> 05:41:46,999
+mijn weten zijn die signalen er niet,
+
+294
+05:41:47,139 --> 05:41:51,080
+maar ik denk wel dat je het serieus moet nemen
+als medewerkers zich daar zorgen over maken.
+
+295
+05:41:51,139 --> 05:41:54,579
+Dus het is wel iets om ook in gesprekken
+mee te nemen richting het College van pg's.
+
+296
+05:41:55,440 --> 05:41:59,339
+Zou het mogelijk zijn voor de
+staatssecretaris om in de brief...
+
+297
+05:42:00,220 --> 05:42:05,100
+deze informatie mee te nemen op het
+moment dat er wel signalen zijn, zodat
+we concrete informatiepunten hebben om te...
+
+298
+05:42:05,120 --> 05:42:10,100
+toetsen of er al inhoudelijke fouten gemaakt
+zijn? En ten tweede: wat kunnen we doen...
+
+299
+05:42:10,460 --> 05:42:13,680
+voor het OM-personeel om hun weer
+perspectief te geven en om hun weer...
+
+300
+05:42:13,739 --> 05:42:18,299
+vertrouwen te geven in die ICT-systemen
+op het moment dat zij op zitting zijn,
+
+301
+05:42:18,660 --> 05:42:23,180
+zodat ze weten dat de signatuur en
+de apparatuur het gewoon doen en
+dat ze daarop kunnen vertrouwen?
+
+302
+05:42:24,579 --> 05:42:29,660
+Ik weet niet of ik in kan gaan
+op het eerste deel van de vraag,
+
+303
+05:42:29,720 --> 05:42:33,279
+of er al inzicht is in concrete
+fouten die zijn gemaakt.
+
+304
+05:42:33,319 --> 05:42:34,160
+Ik mag hopen van niet.
+
+305
+05:42:35,180 --> 05:42:36,160
+Maar uiteraard,
+
+306
+05:42:36,220 --> 05:42:40,940
+als daar echt aanwijzingen voor zijn, dan
+is dat ook niet iets om niet te delen.
+Dus als daar echt aanwijzingen voor zijn,
+
+307
+05:42:40,960 --> 05:42:45,999
+dan zullen we dat moeten delen. Als ik die
+niet heb, dan kan ik daar ook niets van delen.
+
+308
+05:42:46,079 --> 05:42:46,839
+Zo simpel is het.
+
+309
+05:42:47,499 --> 05:42:49,239
+Als het gaat om het vertrouwen van...
+
+310
+05:42:49,319 --> 05:42:51,180
+medewerkers van het OM in hun
+systemen zeg ik het volgende.
+
+311
+05:42:51,600 --> 05:42:53,539
+Zij maken zich daar zorgen over.
+
+312
+05:42:53,620 --> 05:42:58,019
+Daar kan ik dus niet zomaar van
+zeggen: dat vertrouwen is er. Dat
+is er ook niet zomaar morgen weer.
+
+313
+05:42:58,239 --> 05:43:03,559
+Maar ik vind dat daar wel een hele grote
+opdracht ligt voor het College van pg's als
+werkgever, als verantwoordelijke voor het OM,
+
+314
+05:43:03,920 --> 05:43:08,660
+om dit stevig op te pakken en ook
+zo snel mogelijk ervoor te zorgen
+dat het vertrouwen er weer kan zijn.
+
+315
+05:43:09,460 --> 05:43:14,360
+Mijn laatste vraag net ging over
+de aanpak van de ICT-problematiek
+door het college zelf en of wij daar...
+
+316
+05:43:14,400 --> 05:43:19,979
+als Kamer over geïnformeerd kunnen
+worden als er dingen zijn die wij
+moeten doen als wetgever of als...
+
+317
+05:43:20,640 --> 05:43:22,539
+degene die de budgetten vaststelt.
+
+318
+05:43:23,079 --> 05:43:28,100
+De staatssecretaris zegt: u weet ons
+t.z.t te vinden. Maar ik vraag dat nu:...
+
+319
+05:43:28,180 --> 05:43:30,380
+kunnen wij daarover dan
+proactief worden geïnformeerd?
+
+320
+05:43:30,839 --> 05:43:34,019
+Als die signalen er komen in de
+regelmatige contacten die er zijn,
+
+321
+05:43:34,200 --> 05:43:35,839
+dan zullen we die ook met u delen.
+
+322
+05:43:36,739 --> 05:43:41,620
+Ik dank de staatssecretaris van
+Justitie en Veiligheid voor zijn
+beantwoording. Ik hecht eraan de leden...
+
+323
+05:43:42,319 --> 05:43:46,839
+erop te wijzen dat bij het mondelinge vragenuur
+iedere fractie twee vervolgvragen krijgt,
+
+324
+05:43:46,900 --> 05:43:51,160
+maar aangezien dit het eerste
+vragenuur is van het nieuwe mandaat,
+
+325
+05:43:51,319 --> 05:43:53,440
+sta ik voor één keer drie vervolgvragen toe.
+
+326
+05:43:53,620 --> 05:43:57,660
+Ja, we zijn gul; we zijn gul vanmiddag.
+
+327
+05:43:57,920 --> 05:43:59,860
+Dus het is nu mogelijk om een derde
+vraag te stellen aan de staatssecretaris.
+
+328
+05:43:59,920 --> 05:44:01,900
+Dat is door niemand gewenst, zie ik.
+
+329
+05:44:01,940 --> 05:44:03,239
+Vragen Van Baarle Ik nodig
+de heer Van Baarle uit...
+
+330
+05:44:03,880 --> 05:44:08,140
+voor het stellen van zijn vraag aan
+de minister van Buitenlandse Zaken
+over het bericht "Human Rights Watch...
+
+331
+05:44:08,539 --> 05:44:13,539
+ziet oorlogsmisdaden van Israël
+bij verdrijvingen Westoever".
+
+332
+05:44:14,559 --> 05:44:17,259
+Natuurlijk heet ik ook de
+minister van harte welkom.
+
+333
+05:44:19,460 --> 05:44:20,660
+Meneer Van Baarle, u heeft het woord.
+
+334
+05:44:26,600 --> 05:44:27,539
+Dank, voorzitter.
+
+335
+05:44:28,600 --> 05:44:29,479
+Niet alleen pleegt...
+
+336
+05:44:29,519 --> 05:44:32,700
+het Israëlische terreurleger
+een genocide in Gaza,
+
+337
+05:44:33,559 --> 05:44:37,160
+hongert het misdadige Israëlische regime...
+
+338
+05:44:37,739 --> 05:44:41,220
+de bevolking in Gaza uit en
+heeft het Gaza vernietigd,
+
+339
+05:44:42,279 --> 05:44:46,360
+niet alleen zaait Israël geweld door
+illegale aanvallen op andere landen,
+
+340
+05:44:47,019 --> 05:44:52,339
+ook op de Westelijke Jordaanoever pleegt de
+terreurstaat Israël verschrikkelijke misdaden.
+
+341
+05:44:53,200 --> 05:44:59,519
+Tienduizenden Palestijnen zijn daar
+door Israëlische troepen verjaagd uit
+vluchtelingenkampen en verjaagd uit...
+
+342
+05:45:00,019 --> 05:45:01,299
+hun huizen.
+
+343
+05:45:02,100 --> 05:45:04,239
+Honderden Palestijnse huizen zijn gesloopt.
+
+344
+05:45:05,019 --> 05:45:08,380
+Er is geschoten op Palestijnen
+die terug wilden keren.
+
+345
+05:45:09,059 --> 05:45:12,779
+Talloze Palestijnen zijn op
+de Westelijke Jordaanoever...
+
+346
+05:45:13,279 --> 05:45:14,860
+door Israëlische troepen vermoord.
+
+347
+05:45:15,880 --> 05:45:18,339
+Palestijnen worden zonder proces...
+
+348
+05:45:18,839 --> 05:45:20,779
+in administratieve detentie gezet.
+
+349
+05:45:20,960 --> 05:45:22,880
+Ze worden gewoon gegijzeld.
+
+350
+05:45:23,799 --> 05:45:26,660
+Human Rights Watch oordeelt dat het gaat...
+
+351
+05:45:27,200 --> 05:45:28,120
+om oorlogsmisdaden, om misdaden...
+
+352
+05:45:28,720 --> 05:45:30,299
+tegen de menselijkheid.
+
+353
+05:45:31,019 --> 05:45:34,380
+Zelfs de term "etnische
+zuivering" wordt genoemd.
+
+354
+05:45:35,279 --> 05:45:37,829
+Dan hebben we ook nog het geweld en
+de vernielingen die gepleegd worden
+
+355
+05:45:37,829 --> 05:45:40,380
+door de terroristische kolonisten
+op de Westelijke Jordaanoever,
+
+356
+05:45:40,920 --> 05:45:42,339
+die de Palestijnen aanvallen en...
+
+357
+05:45:43,079 --> 05:45:44,059
+hun huizen vernielen.
+
+358
+05:45:44,819 --> 05:45:46,479
+De aanval door kolonisten...
+
+359
+05:45:47,220 --> 05:45:50,539
+op de Hamida-moskee staat
+ons nog op het netvlies.
+
+360
+05:45:51,279 --> 05:45:53,779
+Dat gebeurt allemaal terwijl de
+internationale gemeenschap toekijkt.
+
+361
+05:45:54,279 --> 05:45:58,059
+Er is sprake van straffeloosheid.
+
+362
+05:45:58,479 --> 05:46:02,640
+Het Israëlische leger bezet
+illegaal Palestijns land.
+
+363
+05:46:03,239 --> 05:46:06,799
+Westerse bedrijven...
+
+364
+05:46:07,200 --> 05:46:10,600
+verdienen zelfs gewoon illegaal
+geld aan die bezetting.
+
+365
+05:46:10,999 --> 05:46:15,339
+Mijn vraag aan de minister is:
+erkent Nederland dat Israël op de...
+
+366
+05:46:15,400 --> 05:46:18,380
+Westelijke Jordaanoever
+oorlogsmisdaden en misdaden...
+
+367
+05:46:18,880 --> 05:46:20,759
+tegen de menselijkheid pleegt, en...
+
+368
+05:46:21,059 --> 05:46:22,039
+zich schuldig maakt aan etnische zuivering?
+
+369
+05:46:22,259 --> 05:46:24,819
+Wat gaat Nederland nu...
+
+370
+05:46:24,839 --> 05:46:28,200
+eindelijk doen om de levens van de
+Palestijnen te beschermen en om de...
+
+371
+05:46:28,499 --> 05:46:31,739
+illegale bezetting te stoppen?
+
+372
+05:46:32,600 --> 05:46:34,460
+De minister van Buitenlandse Zaken.
+
+373
+05:46:37,059 --> 05:46:41,999
+Dank, voorzitter. Dank voor de eer om
+hier tijdens uw eerste vragenuurtje...
+
+374
+05:46:42,059 --> 05:46:43,299
+aanwezig te mogen zijn.
+
+375
+05:46:43,400 --> 05:46:47,759
+Dank ook aan de heer Van Baarle
+voor zijn vragen naar aanleiding van
+het rapport van Human Rights Watch.
+
+376
+05:46:49,059 --> 05:46:53,339
+Laten we eerlijk zijn: met het
+bereiken van een vredesplan voor Gaza,
+
+377
+05:46:53,839 --> 05:46:55,720
+waar wij allemaal blij mee zijn...
+
+378
+05:46:55,779 --> 05:46:58,339
+en waarvan we allemaal hopen...
+
+379
+05:46:58,420 --> 05:46:59,799
+dat dit ook tot succes,
+
+380
+05:47:00,479 --> 05:47:02,499
+rust en uiteindelijk vrede in
+Gaza leidt — daar spannen we
+ons allemaal maximaal voor in —...
+
+381
+05:47:03,120 --> 05:47:08,019
+mogen we natuurlijk niet vergeten
+hoe de situatie op de Westbank is.
+In de afgelopen twee jaar hebben we...
+
+382
+05:47:08,079 --> 05:47:12,640
+daar een verslechtering gezien door het
+optreden van extreme kolonisten en in sommige
+gevallen door het optreden van de IDF.
+
+383
+05:47:13,259 --> 05:47:17,960
+Dit rapport van Human Rights Watch gaat...
+
+384
+05:47:17,999 --> 05:47:21,839
+specifiek over de operaties
+die de IDF heeft uitgevoerd...
+
+385
+05:47:22,140 --> 05:47:24,720
+in een drietal vluchtelingenkampen
+op de Westbank.
+
+386
+05:47:25,180 --> 05:47:30,620
+Zij stellen dat de verdrijving van de bevolking
+daar niet voldoet aan de verdragen van Genève,
+
+387
+05:47:31,299 --> 05:47:34,479
+omdat er geen deugdelijke
+evacuatie heeft plaatsgevonden,
+
+388
+05:47:34,860 --> 05:47:38,700
+maar bovenal omdat de mensen nog niet
+hebben kunnen terugkeren naar die kampen.
+
+389
+05:47:40,140 --> 05:47:43,660
+Wij besteden als Nederlandse regering
+ontzettend veel aandacht aan de Westbank.
+
+390
+05:47:44,120 --> 05:47:48,900
+Ik was drie weken geleden zelf in
+Israël en in de Palestijnse gebieden,
+
+391
+05:47:49,380 --> 05:47:50,460
+juist om...
+
+392
+05:47:51,220 --> 05:47:53,460
+aandacht te vestigen op de situatie daar,
+
+393
+05:47:53,700 --> 05:47:59,799
+om te kijken naar de illegale
+nederzettingen en de uitbreidingen die daar
+plaatsvinden, en om me te laten vertellen...
+
+394
+05:48:00,680 --> 05:48:03,100
+over het geweld dat door extreme...
+
+395
+05:48:03,839 --> 05:48:05,839
+Joodse kolonisten wordt uitgevoerd.
+
+396
+05:48:06,400 --> 05:48:07,479
+We ondernemen daar ook actie op.
+
+397
+05:48:08,039 --> 05:48:11,960
+Wat betreft de maatregelen en sancties die
+boven de markt hingen in verband met de...
+
+398
+05:48:12,200 --> 05:48:13,739
+situatie in Gaza...
+
+399
+05:48:14,200 --> 05:48:16,479
+en die nu op EU-gebied op tafel liggen — die...
+
+400
+05:48:16,819 --> 05:48:21,960
+gaan overigens niet van tafel —
+blijven wij onverminderd inzetten
+op het instellen van extra sancties...
+
+401
+05:48:22,539 --> 05:48:27,640
+tegen extremistische kolonisten en op
+het bereiken van een handelsboycot van
+producten uit illegale nederzettingen.
+
+402
+05:48:28,200 --> 05:48:30,999
+Bij gebrek aan overstemming daarover zijn wij,
+
+403
+05:48:31,039 --> 05:48:32,079
+zoals u weet, zelf bezig...
+
+404
+05:48:32,620 --> 05:48:35,180
+met het opstellen van een
+nationaal handelsverbod...
+
+405
+05:48:36,019 --> 05:48:40,900
+voor producten uit de illegale nederzettingen.
+Wat betreft deze specifieke zaak:...
+
+406
+05:48:41,640 --> 05:48:43,759
+ik neem Human Rights Watch
+zeer serieus en ik neem...
+
+407
+05:48:43,860 --> 05:48:47,079
+het rapport ook zeer serieus,
+maar het is niet aan mij...
+
+408
+05:48:47,140 --> 05:48:48,460
+om daar juridische...
+
+409
+05:48:48,499 --> 05:48:49,579
+consequenties aan te binden.
+
+410
+05:48:50,200 --> 05:48:54,779
+Dat is aan een rechter. Dat kan
+een Israëlische rechter of een
+internationale rechter zijn.
+
+411
+05:48:55,100 --> 05:48:59,319
+Ondertussen dragen wij
+bij aan waarheidsvinding,
+
+412
+05:48:59,360 --> 05:49:04,400
+aan de VN-bureaus die onderzoek doen
+naar dit soort misdrijven en natuurlijk
+aan het Internationaal Gerechtshof.
+
+413
+05:49:07,239 --> 05:49:10,519
+De minister noemt het "een verslechtering".
+
+414
+05:49:11,079 --> 05:49:12,960
+Een verslechtering!...
+
+415
+05:49:12,999 --> 05:49:15,839
+We hebben het over tienduizenden
+Palestijnen die zijn verdreven,
+
+416
+05:49:16,420 --> 05:49:19,440
+zonder condities om fatsoenlijk
+te kunnen overleven!...
+
+417
+05:49:20,019 --> 05:49:23,460
+Er zijn illegale annexatieplannen.
+Palestijnen worden vermoord of...
+
+418
+05:49:23,960 --> 05:49:26,440
+zonder proces in detentie gesmeten.
+
+419
+05:49:26,880 --> 05:49:28,720
+Er zijn aanvallen door militairen.
+
+420
+05:49:29,559 --> 05:49:31,059
+Er zijn 1.000 Palestijnen vermoord.
+
+421
+05:49:31,299 --> 05:49:33,160
+Er zijn aanvallen door
+terroristische kolonisten.
+
+422
+05:49:33,600 --> 05:49:35,239
+Dat is toch geen "verslechtering"?
+
+423
+05:49:35,920 --> 05:49:37,180
+Dat is een regelrechte,
+
+424
+05:49:37,600 --> 05:49:41,160
+grove schending van alle
+internationale rechten die we hebben!...
+
+425
+05:49:41,539 --> 05:49:44,460
+Waarom kan de minister niet
+gewoon benoemen dat Israël...
+
+426
+05:49:45,079 --> 05:49:46,140
+het internationaal recht...
+
+427
+05:49:46,460 --> 05:49:50,779
+schendt en dat er oorlogsmisdaden
+gepleegd worden? Waarom kan hij
+dat niet keihard veroordelen?
+
+428
+05:49:52,259 --> 05:49:54,019
+Er...
+
+429
+05:49:54,059 --> 05:49:58,079
+worden nu een aantal dingen bij
+elkaar geveegd die weliswaar allemaal
+betrekking hebben op de Westbank,
+
+430
+05:49:58,120 --> 05:50:02,039
+maar niet allemaal op het
+rapport dat voorlag in...
+
+431
+05:50:02,079 --> 05:50:02,999
+de mondelinge vraag die de...
+
+432
+05:50:03,039 --> 05:50:04,400
+heer Van Baarle stelde.
+
+433
+05:50:05,039 --> 05:50:08,999
+Dit rapport van Human Rights Watch
+ziet op mogelijke oorlogsmisdrijven...
+
+434
+05:50:09,299 --> 05:50:13,900
+naar aanleiding van operaties
+in drie vluchtelingenkampen,
+waarbij niet is voldaan aan...
+
+435
+05:50:13,900 --> 05:50:16,799
+de vereisten voor een evacuatie,
+
+436
+05:50:17,299 --> 05:50:20,660
+en waarbij mensen, voeg ik daaraan
+toe, nog niet hebben kunnen terugkeren.
+
+437
+05:50:21,299 --> 05:50:24,160
+Daar blijven we aandacht voor vragen.
+
+438
+05:50:25,019 --> 05:50:27,360
+Of daar sprake is van oorlogsmisdrijven,
+
+439
+05:50:27,460 --> 05:50:28,620
+is uiteindelijk aan de rechter.
+
+440
+05:50:29,140 --> 05:50:34,180
+Maar wij zullen ons er wel degelijk voor
+inspannen dat deze mensen zo spoedig
+mogelijk kunnen terugkeren naar hun woning.
+
+441
+05:50:34,420 --> 05:50:36,279
+Het...
+
+442
+05:50:36,739 --> 05:50:39,220
+is echt ongelofelijk dat deze minister,
+
+443
+05:50:39,940 --> 05:50:41,900
+ook in tweede instantie, weigert...
+
+444
+05:50:42,720 --> 05:50:45,180
+een oorlogsmisdaad van Israël
+een oorlogsmisdaad te noemen.
+
+445
+05:50:45,700 --> 05:50:49,979
+Deze minister weigert alles wat er op
+de Westelijke Jordaanoever gebeurt,
+
+446
+05:50:50,339 --> 05:50:54,620
+met toestemming en medewerking van het
+Israëlische leger, misdaden te noemen.
+
+447
+05:50:55,259 --> 05:50:58,059
+Het is weer die slappe hap.
+
+448
+05:50:58,460 --> 05:51:03,660
+Als ik van de minister hoor wat
+er dan wordt ondernomen, zegt hij
+dat hij de aandacht erop vestigt,
+
+449
+05:51:04,180 --> 05:51:09,059
+dat hij zich laat informeren over wat er
+gebeurt en dat er weleens even gekeken wordt...
+
+450
+05:51:09,479 --> 05:51:10,660
+naar een mogelijk...
+
+451
+05:51:11,539 --> 05:51:12,960
+in te voeren verbod.
+
+452
+05:51:13,220 --> 05:51:14,479
+Maar nog steeds gebeurt er niks,
+
+453
+05:51:15,039 --> 05:51:20,259
+terwijl er een recordaantal aanvallen
+gepleegd wordt op de Westelijke Jordaanoever,
+
+454
+05:51:21,160 --> 05:51:25,339
+al sinds de verschrikkingen
+in Gaza begonnen zijn.
+
+455
+05:51:25,680 --> 05:51:28,100
+Waarom laten de maatregelen
+zo lang op zich wachten?
+
+456
+05:51:28,460 --> 05:51:29,400
+Waarom laat de actie...
+
+457
+05:51:29,440 --> 05:51:30,299
+zo lang op zich wachten?
+
+458
+05:51:32,200 --> 05:51:33,420
+Ik heb net een...
+
+459
+05:51:33,440 --> 05:51:34,620
+hele waaier...
+
+460
+05:51:34,680 --> 05:51:39,339
+van maatregelen genoemd waarmee
+wij ons inspannen tegen de
+verschillende vormen van geweld...
+
+461
+05:51:39,380 --> 05:51:40,039
+die we zien,
+
+462
+05:51:40,140 --> 05:51:43,779
+of dat nu gaat om annexatieplannen of om...
+
+463
+05:51:44,180 --> 05:51:48,640
+uitbreidingen van nederzettingen, zoals het
+E1-plan waar wij ons tegen verzet hebben.
+
+464
+05:51:48,779 --> 05:51:52,660
+Ik noemde een handelsboycot van
+producten uit illegale nederzettingen,
+
+465
+05:51:52,739 --> 05:51:55,360
+sancties tegen extremistische kolonisten of...
+
+466
+05:51:55,720 --> 05:51:57,079
+het veroordelen van geweld,
+
+467
+05:51:57,880 --> 05:51:58,839
+ook door de IDF...
+
+468
+05:51:59,460 --> 05:52:01,019
+tegen Palestijnen in de Westbank.
+
+469
+05:52:01,400 --> 05:52:03,140
+Wij hebben het vandaag specifiek...
+
+470
+05:52:03,200 --> 05:52:04,279
+over...
+
+471
+05:52:04,999 --> 05:52:08,799
+het veroordelen van het niet
+kunnen terugkeren van deze mensen...
+
+472
+05:52:09,339 --> 05:52:10,600
+naar hun woningen; dat komt er nog bovenop.
+
+473
+05:52:11,059 --> 05:52:12,339
+Ik tel er zo al zes,
+
+474
+05:52:12,460 --> 05:52:14,420
+maar ik denk dat ik er nog
+veel meer zou kunnen verzinnen.
+
+475
+05:52:15,220 --> 05:52:17,420
+Het idee dat wij hier niks aan doen,
+
+476
+05:52:17,519 --> 05:52:18,880
+dat wij dit maar laten gebeuren en dat wij...
+
+477
+05:52:18,920 --> 05:52:20,499
+Israël daar niet op aanspreken,
+
+478
+05:52:20,960 --> 05:52:22,360
+is gewoon geen correct beeld.
+Dat is wél een correct beeld.
+
+479
+05:52:23,019 --> 05:52:26,680
+Als het gaat om veroordelen,
+
+480
+05:52:26,759 --> 05:52:30,140
+weigert deze minister om de
+oorlogsmisdaden oorlogsmisdaden te noemen.
+
+481
+05:52:30,539 --> 05:52:34,839
+Als het gaat om sancties tegen kolonisten,
+dan komen die er al die tijd niet.
+
+482
+05:52:34,940 --> 05:52:37,920
+Een handjevol van die terroristen
+staat op dit moment op de sanctielijst.
+
+483
+05:52:38,299 --> 05:52:39,299
+Dat is niks.
+
+484
+05:52:39,660 --> 05:52:43,759
+En als het gaat om dat handelsverbod,
+dan is dat er nog niet eens.
+Dus Nederland doet niks; het...
+
+485
+05:52:44,200 --> 05:52:46,160
+grossiert weer in wegkijken en nietsdoen.
+
+486
+05:52:46,460 --> 05:52:47,979
+U moet nu nationale...
+
+487
+05:52:48,339 --> 05:52:52,200
+maatregelen toepassen om het internationaal
+recht te handhaven. Ik vraag aan de minister:...
+
+488
+05:52:52,499 --> 05:52:54,180
+doe dat en bescherm de Palestijnen.
+
+489
+05:52:55,779 --> 05:52:57,900
+Ik heb zonet verteld wat wij doen.
+
+490
+05:52:58,440 --> 05:53:00,319
+Daarmee vind ik dat wij invulling geven...
+
+491
+05:53:00,759 --> 05:53:06,019
+aan ons beleid om te zorgen dat de
+situatie op de Westbank stabiel blijft,
+
+492
+05:53:06,120 --> 05:53:10,940
+conform het internationaal recht, en
+er geen schade wordt gedaan aan de
+uiteindelijke tweestatenoplossing,
+
+493
+05:53:11,339 --> 05:53:14,380
+de enige oplossing die gaat
+leiden tot vrede in de regio.
+
+494
+05:53:14,720 --> 05:53:15,620
+Daar spannen wij ons voor in.
+
+495
+05:53:15,960 --> 05:53:17,299
+Dank u wel, minister.
+
+496
+05:53:17,400 --> 05:53:19,759
+Dank u wel, meneer Van Baarle. Ik
+geef ruimte voor vervolgvragen.
+
+497
+05:53:19,799 --> 05:53:21,920
+Meneer Sneller, van de fractie van D66.
+
+498
+05:53:21,979 --> 05:53:24,360
+De minister zegt terecht: dit
+bericht staat niet op zichzelf.
+
+499
+05:53:24,420 --> 05:53:28,759
+We weten ook dat het voor internationale
+waarnemers moeilijk is om daar ter...
+
+500
+05:53:28,759 --> 05:53:30,200
+plekke hun werk te doen.
+
+501
+05:53:30,700 --> 05:53:32,799
+De minister zegt: wij zetten
+ons in voor waarheidsvinding.
+
+502
+05:53:32,839 --> 05:53:35,759
+Wat is nu de stand van zaken met betrekking tot
+het toelaten van die internationale waarnemers?
+
+503
+05:53:35,819 --> 05:53:38,499
+En wat kan Nederland nou nog
+extra doen voor die bewijsgaring?
+
+504
+05:53:40,259 --> 05:53:44,039
+Met deze vraag van de heer Sneller
+gaan we even terug naar Gaza,
+
+505
+05:53:44,100 --> 05:53:47,860
+want daar duidt hij op als hij het
+heeft over een gebrek aan toegang
+voor internationale waarnemers.
+
+506
+05:53:47,900 --> 05:53:49,499
+Die toegang is er op de Westbank namelijk wel;...
+
+507
+05:53:49,860 --> 05:53:52,600
+ik ben daar zelf een aantal
+weken geleden ook geweest.
+
+508
+05:53:53,200 --> 05:53:54,720
+Daar wordt gedocumenteerd.
+
+509
+05:53:55,380 --> 05:53:58,380
+Het rapport van Human Rights
+Watch is ook gebaseerd op...
+
+510
+05:53:58,979 --> 05:54:00,839
+getuigenissen en waarnemingen op de grond.
+
+511
+05:54:01,499 --> 05:54:02,860
+Gaza is op dit moment...
+
+512
+05:54:03,880 --> 05:54:06,160
+nog niet volledig toegankelijk voor...
+
+513
+05:54:06,380 --> 05:54:08,499
+journalisten en onafhankelijke waarnemers;...
+
+514
+05:54:08,539 --> 05:54:09,779
+daar spannen wij ons wel voor in,
+
+515
+05:54:10,460 --> 05:54:14,559
+evenals voor volledige humanitaire toegang. Dat
+is nodig om de situatie daar te verbeteren.
+
+516
+05:54:15,059 --> 05:54:16,279
+Die situatie verbetert wel.
+
+517
+05:54:17,539 --> 05:54:18,739
+Het staakt-het-vuren houdt,
+
+518
+05:54:19,839 --> 05:54:22,559
+met schermutselingen over en weer daarbij,
+
+519
+05:54:22,720 --> 05:54:25,999
+maar gelukkig houdt dat. Nu
+is het zaak dat die toegang...
+
+520
+05:54:26,499 --> 05:54:27,799
+nog veel meer verbetert...
+
+521
+05:54:28,559 --> 05:54:30,779
+en we over kunnen gaan
+naar fase 2 van dat plan,
+
+522
+05:54:31,360 --> 05:54:36,220
+wat de daadwerkelijke ontwapening
+van Hamas betreft, het toewerken
+naar terugtrekking van de IDF...
+
+523
+05:54:36,319 --> 05:54:36,940
+uit Gaza...
+
+524
+05:54:37,400 --> 05:54:40,160
+en het neerzetten van een
+internationale stabilisatiemacht...
+
+525
+05:54:40,700 --> 05:54:44,239
+die daar de orde moet bewaken, met
+een Palestijns technisch bestuur dat...
+
+526
+05:54:44,579 --> 05:54:46,640
+Gaza de komende periode moet gaan besturen.
+
+527
+05:54:47,440 --> 05:54:48,499
+Op...
+
+528
+05:54:48,519 --> 05:54:49,979
+de...
+
+529
+05:54:50,059 --> 05:54:52,999
+foto's van de minister op de...
+
+530
+05:54:53,499 --> 05:54:57,559
+Westbank zag ik dat hij daar heeft gesproken
+met een aantal voor ons in de Kamer bekende...
+
+531
+05:54:57,620 --> 05:54:59,400
+mensenrechtenverdedigers uit Israël.
+
+532
+05:54:59,920 --> 05:55:02,739
+Zij vragen heel specifiek
+om veel strengere sancties.
+
+533
+05:55:03,220 --> 05:55:04,259
+Hoe kijkt de minister daarnaar?
+
+534
+05:55:05,839 --> 05:55:10,420
+Nogmaals, dit staat weer los van
+het Human Rights Watchrapport,
+
+535
+05:55:10,479 --> 05:55:14,059
+want dat ziet op de operaties die in
+vluchtelingenkampen hebben plaatsgevonden.
+
+536
+05:55:14,440 --> 05:55:16,999
+Over de uitbreiding van illegale nederzettingen...
+
+537
+05:55:17,079 --> 05:55:18,660
+ben ik het volledig eens met deze mensen.
+
+538
+05:55:18,759 --> 05:55:23,539
+Dat is ook de reden waarom wij nu werken
+aan een nationale handelsboycot tegen
+producten uit de illegale nederzettingen.
+
+539
+05:55:23,579 --> 05:55:29,519
+Dat is ook waarom wij ons blijven
+inspannen om Joodse extremisten, kolonisten...
+
+540
+05:55:30,220 --> 05:55:32,539
+op de Westbank, op de
+sanctielijsten te krijgen.
+
+541
+05:55:32,620 --> 05:55:33,700
+Daar blijven we ook mee doorgaan.
+
+542
+05:55:35,499 --> 05:55:40,660
+Wat we namelijk zien, is ... Misschien is er
+een staakt-het-vuren in Gaza, maar de situatie...
+
+543
+05:55:40,720 --> 05:55:45,400
+op de Westbank, zoals de minister zelf
+ook met zijn eigen ogen heeft gezien,
+verslechtert gewoon zienderogen, met de dag.
+
+544
+05:55:45,900 --> 05:55:50,479
+Ongetwijfeld heeft hij dat
+ook gehoord van mensen daar.
+
+545
+05:55:50,880 --> 05:55:55,999
+Ik vraag me dan het volgende af. Heel kort na
+het zomerreces kwam dat nationaal verbod op...
+
+546
+05:55:56,279 --> 05:55:57,880
+handel met illegale nederzettingen,
+
+547
+05:55:58,360 --> 05:56:00,259
+maar volgende week is de sinterklaasviering al.
+
+548
+05:56:00,620 --> 05:56:02,680
+Wanneer kunnen we dat hier
+in de Kamer verwachten?
+
+549
+05:56:03,239 --> 05:56:04,799
+Mevrouw Piri,
+
+550
+05:56:04,819 --> 05:56:06,700
+daar wordt door ons echt zo
+hard als wij kunnen aan gewerkt.
+
+551
+05:56:07,420 --> 05:56:08,400
+Maar ik ben inmiddels ook al...
+
+552
+05:56:09,279 --> 05:56:12,259
+geruime tijd bezig met een
+Asielnoodmaatregelenwet.
+
+553
+05:56:12,299 --> 05:56:17,160
+Ook daarbij zie je dat het zo'n anderhalf jaar
+duurt om een volledig wetstraject te doorlopen.
+
+554
+05:56:17,220 --> 05:56:18,319
+En...
+
+555
+05:56:18,920 --> 05:56:23,819
+om dit voor elkaar te krijgen, moeten we ook
+een wet aanpassen of in het leven roepen.
+
+556
+05:56:23,860 --> 05:56:25,440
+Daar wordt dus echt heel hard aan gewerkt.
+
+557
+05:56:25,579 --> 05:56:26,819
+Ik heb geen enkele reden...
+
+558
+05:56:27,279 --> 05:56:28,499
+om daarbij te vertragen.
+
+559
+05:56:29,479 --> 05:56:31,940
+De oorzaak van deze wet is niet weggenomen; de...
+
+560
+05:56:32,059 --> 05:56:36,979
+situatie op de Westbank verdient onze aandacht.
+De relatieve rust die nu heerst in Gaza...
+
+561
+05:56:37,380 --> 05:56:41,160
+geeft ons hopelijk ook de gelegenheid om daar
+meer de spotlights op te richten en te zorgen...
+
+562
+05:56:41,499 --> 05:56:43,759
+dat Israël daar ook geen
+onomkeerbare stappen neemt.
+
+563
+05:56:43,960 --> 05:56:45,079
+Een klein...
+
+564
+05:56:46,440 --> 05:56:51,299
+hoopvol signaal is in ieder geval de
+veroordeling nu door de president en de premier...
+
+565
+05:56:51,940 --> 05:56:56,100
+van het extreme geweld dat we afgelopen
+week hebben gezien op de Westbank.
+
+566
+05:56:56,420 --> 05:57:01,279
+Ik wijs de leden erop dat deze vraag ziet op
+de Westelijke Jordaanoever en niet op Gaza.
+
+567
+05:57:02,339 --> 05:57:06,079
+Maar een en ander heeft natuurlijk wel
+met elkaar te maken, voorzitter, want
+het raakt allemaal de Palestijnen.
+
+568
+05:57:07,440 --> 05:57:13,079
+Mensenrechtenorganisaties zeggen dat de terreur
+van Joodse kolonisten zo erg is dat ze het...
+
+569
+05:57:13,180 --> 05:57:15,039
+nog nooit hebben meegemaakt.
+
+570
+05:57:16,220 --> 05:57:19,799
+Dit raakt natuurlijk gezinnen, kinderen,
+
+571
+05:57:19,839 --> 05:57:22,600
+Palestijnse moeders en zonen; het raakt...
+
+572
+05:57:22,640 --> 05:57:23,979
+iedereen daar.
+
+573
+05:57:24,079 --> 05:57:26,259
+Het menselijk leed is verschrikkelijk.
+
+574
+05:57:26,319 --> 05:57:29,019
+We moeten nooit vergeten
+dat het in dit conflict...
+
+575
+05:57:29,039 --> 05:57:30,100
+ook gaat om mensen.
+
+576
+05:57:31,620 --> 05:57:32,600
+Ik hoor de minister dan...
+
+577
+05:57:32,640 --> 05:57:35,680
+zeggen dat we een waaier
+aan maatregelen treffen,
+
+578
+05:57:36,620 --> 05:57:40,660
+maar dat is dan vooral: "wij veroordelen
+het
+we vragen er aandacht voor" et cetera.
+
+579
+05:57:41,319 --> 05:57:46,059
+En uw vraag? Erkent deze minister dat de
+waaier aan maatregelen die er nu liggen en de...
+
+580
+05:57:46,220 --> 05:57:49,759
+wet waaraan wordt gewerkt — dat
+duurt misschien nog anderhalf jaar,
+
+581
+05:57:49,860 --> 05:57:55,539
+in de woorden van deze
+minister — niet genoeg zijn?
+
+582
+05:57:55,600 --> 05:57:59,779
+Nee, die wet gaat wat mij betreft
+niet nog anderhalf jaar duren,
+maar ik wilde wel even aangeven dat...
+
+583
+05:57:59,799 --> 05:58:05,239
+wetgeving nu eenmaal tijd kost. Ik heb geen
+ministeriële regeling binnen drie maanden...
+
+584
+05:58:05,739 --> 05:58:06,819
+kunnen afronden.
+
+585
+05:58:07,640 --> 05:58:09,259
+Dat ligt niet aan een gebrek aan inzet;...
+
+586
+05:58:09,299 --> 05:58:10,400
+die inzet is er wel degelijk.
+
+587
+05:58:10,920 --> 05:58:12,499
+Ja, het is een waaier aan maatregelen.
+
+588
+05:58:12,579 --> 05:58:14,579
+Ja, het is Israël daarop aanspreken.
+
+589
+05:58:14,680 --> 05:58:18,499
+Ja, het is coalities zoeken om die
+druk collectief uit te oefenen.
+
+590
+05:58:19,140 --> 05:58:21,759
+Daarom was ik ook blij dat,
+net voordat ik daar was,
+
+591
+05:58:22,799 --> 05:58:27,579
+de Amerikaanse vicepresident
+daar was toen er annexatieplannen
+werden besproken in de Knesset.
+
+592
+05:58:28,100 --> 05:58:33,239
+Daar is ook een heel duidelijk signaal
+door de Amerikanen afgegeven, namelijk dat
+daarvan geen sprake kan zijn en dat zij dat...
+
+593
+05:58:33,319 --> 05:58:34,720
+niet zullen accepteren.
+
+594
+05:58:35,140 --> 05:58:36,239
+Druk zetten,
+
+595
+05:58:37,140 --> 05:58:40,999
+tegelijkertijd de dialoog
+openhouden en maatregelen nemen...
+
+596
+05:58:41,059 --> 05:58:43,339
+zijn in de internationale diplomatie de...
+
+597
+05:58:44,259 --> 05:58:45,779
+middelen die we hebben om,
+
+598
+05:58:46,620 --> 05:58:48,999
+in dit geval, een staat tot
+ander gedrag te brengen.
+
+599
+05:58:49,720 --> 05:58:51,739
+Dit...
+
+600
+05:58:51,799 --> 05:58:53,279
+is op zich wel heel consequent,
+
+601
+05:58:53,339 --> 05:58:57,839
+want dit verhaal horen we al twee jaar. Al twee
+jaar zeggen wij: als maatregelen niet werken,
+
+602
+05:58:58,140 --> 05:58:59,200
+moet u opschalen,
+
+603
+05:58:59,419 --> 05:59:02,779
+zeker als het gaat om mensenlevens
+en mensenrechtenschendingen.
+
+604
+05:59:03,319 --> 05:59:08,339
+Ik mis de erkenning dat de waaier aan
+maatregelen die deze minister nu noemt,
+
+605
+05:59:08,399 --> 05:59:10,879
+niet werkt en dat er daarom
+moeten worden opgeschaald.
+
+606
+05:59:10,939 --> 05:59:12,459
+Ik wil daarbij twee suggesties doen.
+
+607
+05:59:13,180 --> 05:59:15,660
+Ten eerste. Er zijn sancties tegen kolonisten.
+
+608
+05:59:15,779 --> 05:59:19,319
+Heel goed. Schaal die op. Zet meer
+kolonisten op die sanctielijst. Ten tweede.
+
+609
+05:59:19,959 --> 05:59:24,859
+Maar moeten wij niet ook de ministers,
+de leden van het kabinet van Netanyahu,
+
+610
+05:59:24,899 --> 05:59:25,959
+op de sanctielijst zetten?
+
+611
+05:59:26,439 --> 05:59:31,299
+De tweede vraag is als volgt. Ik heb
+begrepen dat Nederlandse bedrijven...
+
+612
+05:59:31,379 --> 05:59:36,359
+in illegaal bezette gebieden voor 11 miljard
+euro investeren via leningen en voor 67
+miljard euro in aandelen en obligaties.
+
+613
+05:59:37,459 --> 05:59:38,560
+Moeten we...
+
+614
+05:59:38,720 --> 05:59:39,600
+die bedrijven niet aanpakken?
+
+615
+05:59:39,640 --> 05:59:40,640
+Hoe gaat de minister dat doen?
+
+616
+05:59:41,859 --> 05:59:45,379
+Op dat eerste: wij zetten ons in
+voor meer sancties tegen kolonisten,
+
+617
+05:59:45,799 --> 05:59:50,100
+overigens ook tegen Hamaskopstukken
+en leden van de PIJ.
+
+618
+05:59:50,739 --> 05:59:55,000
+In die zin zijn we daar dus volop mee
+bezig. Met het sanctioneren van ministers...
+
+619
+05:59:55,680 --> 05:59:57,180
+moet je altijd terughoudend zijn.
+
+620
+05:59:57,600 --> 06:00:01,919
+Maar wij hebben de twee ministers die
+het meest hebben opgeroepen tot geweld,
+
+621
+06:00:02,680 --> 06:00:08,439
+ook op de Westbank, namelijk ministers Ben-Gvir
+en Smotrich, als Nederland SIS-gesignaleerd.
+
+622
+06:00:08,779 --> 06:00:13,399
+Die staan dus op dit moment als persona
+non grata op de lijst. Die kunnen Europa...
+
+623
+06:00:13,919 --> 06:00:15,100
+wat dat betreft niet binnenkomen.
+
+624
+06:00:15,220 --> 06:00:20,520
+Die stap hebben wij als Nederland gezet.
+Ten slotte over Nederlandse bedrijven.
+
+625
+06:00:20,600 --> 06:00:21,720
+Dit gaat ook over in Nederland geregistreerde...
+
+626
+06:00:23,180 --> 06:00:24,859
+bedrijven die...
+
+627
+06:00:24,899 --> 06:00:26,759
+niet noodzakelijkerwijs Nederlands zijn.
+
+628
+06:00:26,819 --> 06:00:28,399
+Die volgen gewoon het internationaal recht;...
+
+629
+06:00:28,759 --> 06:00:29,879
+dat zijn private partijen.
+
+630
+06:00:30,299 --> 06:00:33,919
+Het past ons niet als overheid
+om in individuele gevallen...
+
+631
+06:00:34,739 --> 06:00:39,180
+bedrijven te sanctioneren die
+gewoon de wet volgen. Wij zijn nu...
+
+632
+06:00:39,859 --> 06:00:42,480
+een verbod op...
+
+633
+06:00:43,359 --> 06:00:45,660
+de import van producten uit illegale
+nederzettingen aan het instellen.
+
+634
+06:00:45,759 --> 06:00:47,339
+Daar hebben wij controle over.
+
+635
+06:00:47,799 --> 06:00:51,839
+Ook dat hadden wij het liefst in
+Europees verband gedaan, want dat
+heeft veel meer impact dan wanneer...
+
+636
+06:00:52,339 --> 06:00:53,200
+je dat als...
+
+637
+06:00:53,220 --> 06:00:54,839
+eilandje binnen de vrije markt doet.
+
+638
+06:00:55,379 --> 06:00:56,980
+Maar we zetten nu in ieder geval
+een stap. Mevrouw Dobbe, tot slot.
+
+639
+06:00:58,220 --> 06:00:59,859
+Mag ik nog één ding toevoegen, voorzitter?
+
+640
+06:00:59,919 --> 06:01:03,060
+Kort.
+
+641
+06:01:03,500 --> 06:01:07,680
+We lopen in Europa echt mee in
+de kopgroep die probeert om de
+situatie op de Westbank te keren.
+
+642
+06:01:08,959 --> 06:01:10,680
+Ik...
+
+643
+06:01:10,739 --> 06:01:12,060
+zal voor de derde keer vragen of de...
+
+644
+06:01:12,140 --> 06:01:16,819
+minister erkent dat de waaier aan maatregelen
+die hij neemt en telkens benoemt,
+
+645
+06:01:16,879 --> 06:01:21,580
+niet werkt en dat er daarom
+moet worden opgeschaald.
+
+646
+06:01:21,600 --> 06:01:27,540
+Ik noemde net dat door Nederlandse
+bedrijven vele miljarden worden
+geïnvesteerd op de Westbank,
+
+647
+06:01:27,700 --> 06:01:29,439
+ook in illegale nederzettingen.
+
+648
+06:01:30,339 --> 06:01:32,060
+Die zou je bijvoorbeeld kunnen...
+
+649
+06:01:32,980 --> 06:01:35,319
+raken door het belastingverdrag dat...
+
+650
+06:01:35,379 --> 06:01:38,620
+nog steeds bilateraal tussen Israël
+en Nederland bestaat, op te schorten.
+
+651
+06:01:39,259 --> 06:01:40,180
+En dan uw vraag.
+
+652
+06:01:40,640 --> 06:01:43,620
+Is deze minister nu bereid om iets te doen...
+
+653
+06:01:44,239 --> 06:01:46,560
+wat wél werkt en waarmee...
+
+654
+06:01:46,680 --> 06:01:49,759
+de druk daadwerkelijk wordt gevoeld
+door de Israëlische regering?
+
+655
+06:01:51,060 --> 06:01:54,779
+Die druk wordt echt wel gevoeld.
+
+656
+06:01:56,359 --> 06:02:00,899
+Meteen alles sanctioneren,
+het hele Israëlische...
+
+657
+06:02:00,959 --> 06:02:05,899
+bedrijfsleven raken door een belastingverdrag
+op te zeggen en allerlei maatregelen te nemen...
+
+658
+06:02:06,000 --> 06:02:08,459
+die verder helemaal niemand in Europa
+treft, is niet altijd het goede middel.
+
+659
+06:02:08,600 --> 06:02:13,200
+Dan raken we de dialoog ook kwijt. Zonder
+dialoog heeft druk ook geen enkele zin.
+
+660
+06:02:13,660 --> 06:02:15,080
+De...
+
+661
+06:02:16,759 --> 06:02:20,779
+minister kan de maatregelen die
+hij neemt, blijven herhalen,
+
+662
+06:02:20,859 --> 06:02:25,899
+maar de vraag is natuurlijk waarom
+de Israëlische regering doorgaat
+met oorlogsmisdaden plegen.
+
+663
+06:02:26,399 --> 06:02:30,799
+Waarom kan de Palestijnse
+bevolking, die is verjaagd, bij
+wie etnische zuivering is gepleegd...
+
+664
+06:02:31,060 --> 06:02:35,299
+en wier huizen zijn vernietigd, nog steeds
+niet terug naar waar ze vandaan kwam?
+
+665
+06:02:35,399 --> 06:02:36,359
+Waarom kan dat niet?
+
+666
+06:02:36,879 --> 06:02:37,959
+Dat komt doordat...
+
+667
+06:02:38,239 --> 06:02:39,839
+de internationale gemeenschap...
+
+668
+06:02:40,359 --> 06:02:44,180
+straffeloos toeziet wat
+Israël aan het doen is.
+
+669
+06:02:44,560 --> 06:02:49,680
+Daarom pleiten verschillende
+collega's er hier voor dat Nederland
+een stevigere vuist maakt en dat...
+
+670
+06:02:50,339 --> 06:02:52,239
+we gaan staan voor het internationaal recht.
+
+671
+06:02:52,279 --> 06:02:57,919
+Wat is uw vraag? Mijn vraag is dus:
+erkent de minister dat de Israëlische
+regering nu gewoon doorgaat...
+
+672
+06:02:58,359 --> 06:03:00,700
+met geweld plegen in de
+illegale nederzettingen,
+
+673
+06:03:00,819 --> 06:03:02,980
+en welke extra stappen wil hij nu nemen?
+
+674
+06:03:04,660 --> 06:03:08,540
+Wij zijn al jarenlang consequent
+in het veroordelen van geweld,
+
+675
+06:03:08,899 --> 06:03:11,779
+of dat nu op de Westbank of in Gaza is.
+
+676
+06:03:13,640 --> 06:03:16,680
+Ik heb aangegeven welke
+maatregelen we daartegen nemen,
+
+677
+06:03:16,739 --> 06:03:17,939
+hoe we daar de druk opvoeren en hoe we...
+
+678
+06:03:18,279 --> 06:03:19,680
+praten met onze partners.
+
+679
+06:03:20,419 --> 06:03:22,279
+Dat zijn de middelen die ik
+tot mijn beschikking heb.
+
+680
+06:03:23,859 --> 06:03:28,259
+Vandaag nog kwam het nieuws van 25 ngo's dat...
+
+681
+06:03:28,540 --> 06:03:33,120
+Nederlandse bedrijven gewoon actief
+zijn op de Westelijke Jordaanoever
+en dat er zelfs Nederlandse...
+
+682
+06:03:33,140 --> 06:03:37,180
+landbouwvoertuigen worden gebruikt om
+Palestijnse huizen te vernietigen.
+
+683
+06:03:38,419 --> 06:03:41,560
+Ik vraag de minister wat we daar nou aan gaan
+doen. Dan kan hij zeggen dat hij bezig is...
+
+684
+06:03:41,819 --> 06:03:44,080
+met een wetsvoorstel om de import te verbieden,
+
+685
+06:03:44,700 --> 06:03:48,299
+maar dat gaat toch niets doen
+aan de activiteiten die de
+Nederlandse bedrijven daar voeren?
+
+686
+06:03:48,379 --> 06:03:51,239
+Dan kun je toch op z'n minst zeggen
+dat je dat aan banden gaat leggen?
+
+687
+06:03:51,399 --> 06:03:52,520
+Is de minister daartoe bereid?
+
+688
+06:03:53,660 --> 06:03:57,520
+Mevrouw Teunissen schetst nu een
+versimpeling van de situatie.
+
+689
+06:03:57,859 --> 06:04:01,540
+Er zijn ook Nederlandse bedrijven actief
+op de Westbank. Dat is maar goed ook,
+
+690
+06:04:02,060 --> 06:04:05,020
+want ook de Palestijnse economie
+daar moet levensvatbaar zijn en...
+
+691
+06:04:05,720 --> 06:04:07,140
+opgebouwd kunnen worden.
+
+692
+06:04:07,239 --> 06:04:09,919
+Ik zie dus niet helemaal in wat de vraag nu is.
+
+693
+06:04:09,980 --> 06:04:12,279
+Ik ga Nederlandse bedrijven niet verbieden...
+
+694
+06:04:12,319 --> 06:04:15,480
+om actief te zijn op de Westbank;
+dat kan ik overigens niet eens.
+
+695
+06:04:16,140 --> 06:04:19,480
+Het gaat erom dat de gewelddadige acties van...
+
+696
+06:04:20,939 --> 06:04:21,859
+Joodse kolonisten stoppen,
+
+697
+06:04:23,060 --> 06:04:27,560
+dat we die veroordelen en dat we de
+Israëlische regering oproepen om...
+
+698
+06:04:27,939 --> 06:04:29,879
+illegale nederzettingen niet goed te keuren...
+
+699
+06:04:29,959 --> 06:04:30,899
+dan wel uit te bereiden.
+
+700
+06:04:31,319 --> 06:04:32,640
+Daarvoor staan wij aan de lat.
+
+701
+06:04:33,140 --> 06:04:39,040
+Tot slot. Voorzitter, tot slot. Waarom
+omarmt de minister de aanbevelingen
+van Human Rights Watch niet gewoon?
+
+702
+06:04:39,419 --> 06:04:44,439
+Daar staat heel duidelijk in wat
+Nederland extra kan doen. Kan de
+minister ingaan op de aanbevelingen?
+
+703
+06:04:45,939 --> 06:04:48,379
+Ik kan hier niet ingaan op alle
+aanbevelingen uit het rapport,
+
+704
+06:04:48,779 --> 06:04:50,319
+want daarvoor is het vragenuurtje te kort.
+
+705
+06:04:51,439 --> 06:04:54,660
+Maar als daar vragen over gesteld
+worden, dan zullen we die beantwoorden.
+
+706
+06:04:55,620 --> 06:04:57,600
+Ik...
+
+707
+06:04:57,640 --> 06:04:58,700
+word er gewoon zo boos van.
+
+708
+06:04:59,759 --> 06:05:04,640
+De Palestijnen op de Westelijke
+Jordaanoever die uit hun huis
+gegooid worden, die vermoord worden,
+
+709
+06:05:05,339 --> 06:05:07,620
+die in administratieve
+detentie gezet worden, die...
+
+710
+06:05:07,720 --> 06:05:09,339
+gegijzeld worden zonder proces,
+
+711
+06:05:10,279 --> 06:05:15,100
+al die mensen die aangevallen worden
+door terroristische kolonisten,
+kunnen gewoon niet wachten...
+
+712
+06:05:15,359 --> 06:05:18,439
+totdat deze minister eindelijk een keertje
+met die beloofde handelsmaatregel is gekomen...
+
+713
+06:05:18,480 --> 06:05:21,399
+waar we al maandenlang niks van zien.
+
+714
+06:05:21,720 --> 06:05:25,899
+Die kunnen niet wachten totdat deze minister
+eindelijk een keer uitgepraat is in Europa en...
+
+715
+06:05:26,140 --> 06:05:27,919
+misschien nooit met een akkoord of
+sancties gaat komen. Wat is uw vraag?
+
+716
+06:05:27,939 --> 06:05:30,580
+Die mensen kunnen toch niet wachten?
+
+717
+06:05:30,660 --> 06:05:34,100
+Voor onze ogen worden misdaden gepleegd tegen
+de Palestijnen, en er gebeurt maar niks.
+
+718
+06:05:36,160 --> 06:05:37,359
+Ik ben...
+
+719
+06:05:38,140 --> 06:05:39,020
+hier de Nederlandse...
+
+720
+06:05:39,080 --> 06:05:41,060
+minister van Buitenlandse Zaken, die...
+
+721
+06:05:41,120 --> 06:05:43,439
+wereldwijd de internationale rechtsorde
+probeert overeind te houden.
+
+722
+06:05:44,299 --> 06:05:48,600
+U kunt van de situatie in de wereld afleiden
+dat dat geen garantie is op succes,
+
+723
+06:05:48,700 --> 06:05:52,779
+dat het niet zo is dat alle conflicten
+in de wereld beëindigd zijn als
+Nederland zegt: nu moet het hier stoppen.
+
+724
+06:05:53,220 --> 06:05:56,100
+Dat is een proces. Daarvoor
+moet je bondgenoten inschakelen.
+
+725
+06:05:56,160 --> 06:05:57,399
+Daarvoor heb je vrienden nodig.
+
+726
+06:05:57,799 --> 06:05:59,100
+Daarvoor moet je massa creëren.
+
+727
+06:05:59,160 --> 06:06:00,620
+Daarvoor moet je dialogen openhouden.
+
+728
+06:06:00,660 --> 06:06:01,779
+Daarvoor moet je druk creëren,
+
+729
+06:06:02,200 --> 06:06:05,259
+sancties opleggen waar dat werkt
+en die verlichten waar dat werkt.
+
+730
+06:06:05,419 --> 06:06:07,620
+Dat is het werk dat ik hier doe.
+
+731
+06:06:08,439 --> 06:06:10,200
+Daarvoor sta ik aan de lat.
+
+732
+06:06:11,299 --> 06:06:14,200
+Ja, in internationaal verband.
+
+733
+06:06:14,239 --> 06:06:15,399
+Maar als dat niet lukt,
+
+734
+06:06:16,620 --> 06:06:18,759
+dan moet Nederland nationale maatregelen nemen.
+
+735
+06:06:19,160 --> 06:06:24,000
+Waarom zorgt Nederland er niet voor dat die
+terroristische kolonisten op de nationale...
+
+736
+06:06:24,299 --> 06:06:29,120
+inreislijsten en sanctielijsten
+geplaatst worden? De minister kan
+gewoon nationale maatregelen nemen.
+
+737
+06:06:29,379 --> 06:06:30,899
+Waarom is dat handelsverbod er nog niet?
+
+738
+06:06:31,480 --> 06:06:32,739
+Waarom wachten we daar zo lang op?
+
+739
+06:06:33,120 --> 06:06:37,600
+Waarom neemt deze minister nationaal
+geen maatregelen tegen bedrijven die
+ondernemen in de illegale nederzettingen?
+
+740
+06:06:37,660 --> 06:06:40,779
+Waarom doet de minister dat allemaal niet?
+
+741
+06:06:41,120 --> 06:06:44,359
+Op dit moment vinden die misdaden plaats.
+
+742
+06:06:44,879 --> 06:06:48,120
+Elke keer is het maar weer
+wachten op maatregelen.
+
+743
+06:06:48,259 --> 06:06:49,799
+Het wordt een beetje een herhaling van zetten.
+
+744
+06:06:49,939 --> 06:06:53,680
+Ik heb gezegd hoe wij ons inspannen.
+Ik heb gezegd waar wij mee bezig zijn.
+
+745
+06:06:54,359 --> 06:06:55,279
+Meer kan ik er niet aan toevoegen.
+
+746
+06:06:55,379 --> 06:06:56,100
+Tot slot.
+
+747
+06:06:58,120 --> 06:07:00,020
+Nee, het is geen herhaling van
+zetten. Als deze minister zegt dat hij
+
+748
+06:07:00,020 --> 06:07:01,919
+internationaal draagvlak voor sancties
+probeert te zoeken, dan zeg ik: goed!...
+
+749
+06:07:01,980 --> 06:07:06,939
+Maar we zien dat dat internationale
+draagvlak er steeds niet is.
+
+750
+06:07:07,379 --> 06:07:11,680
+We zien al jaren dat mensen,
+
+751
+06:07:11,739 --> 06:07:14,640
+de Palestijnen, op de Westelijke
+Jordaanoever worden geterroriseerd.
+
+752
+06:07:14,959 --> 06:07:16,239
+Ik vraag daarom aan deze
+minister waarom hij die nationale...
+
+753
+06:07:16,239 --> 06:07:17,200
+maatregelen,
+
+754
+06:07:17,239 --> 06:07:19,100
+namelijk gewoon als...
+
+755
+06:07:19,120 --> 06:07:20,239
+Nederland die terroristische...
+
+756
+06:07:20,299 --> 06:07:21,180
+kolonisten op...
+
+757
+06:07:21,220 --> 06:07:22,200
+de sanctielijst zetten, niet wenst te nemen.
+
+758
+06:07:22,540 --> 06:07:26,220
+En waarom laat dat handelsverbod zo lang
+op zich wachten? Waarom doet hij niets...
+
+759
+06:07:26,680 --> 06:07:29,879
+tegen het bloedgeld dat ook
+Nederlandse bedrijven verdienen...
+
+760
+06:07:30,459 --> 06:07:32,040
+door te handelen met illegale nederzettingen?
+
+761
+06:07:32,060 --> 06:07:33,120
+Waarom doet hij dat allemaal niet?
+
+762
+06:07:33,799 --> 06:07:38,680
+Al deze vragen heb ik ook in eerdere
+interventies van andere leden al beantwoord.
+Ik wil dat nog wel een keer doen,
+
+763
+06:07:38,720 --> 06:07:39,620
+maar dat wordt dan heel kort.
+
+764
+06:07:40,160 --> 06:07:42,100
+Wij doen waarvan wij denken dat het zin heeft,
+
+765
+06:07:42,980 --> 06:07:47,819
+zonder daarbij compleet uit de
+pas te lopen bij álle andere
+Europese landen die we hier kennen.
+
+766
+06:07:48,140 --> 06:07:49,680
+Die hebben overigens allemaal hetzelfde doel,
+
+767
+06:07:50,020 --> 06:07:53,819
+namelijk hoe we kunnen bijdragen
+aan het beëindigen van
+gewelddadigheden op de Westbank.
+
+768
+06:07:53,980 --> 06:07:56,180
+Dat doen we. Ik laat me niet
+aanpraten dat we dat niet doen.
+
+769
+06:07:56,739 --> 06:08:00,180
+Dank u wel voor de beantwoording van deze
+vragen. Vragen Vondeling Dan nodig ik tot slot...
+
+770
+06:08:00,580 --> 06:08:04,239
+mevrouw Vondeling uit.
+
+771
+06:08:05,060 --> 06:08:06,279
+Zij heeft een vraag aan dezelfde minister,
+
+772
+06:08:06,319 --> 06:08:10,660
+maar in dit geval in zijn hoedanigheid
+als minister van Asiel en Migratie.
+
+773
+06:08:10,779 --> 06:08:15,299
+De vraag gaat over het bericht "Syrische
+nep-advocaat verkoopt valse Nederlandse
+paspoorten en verblijfspapieren: 'Voor...
+
+774
+06:08:15,660 --> 06:08:17,700
+12.000 euro word je staatsburger'".
+
+775
+06:08:17,859 --> 06:08:20,140
+U heeft het woord. Dank u wel, voorzitter.
+
+776
+06:08:20,239 --> 06:08:25,180
+Syrische nep-advocaten verkopen
+vanuit Turkije valse Nederlandse...
+
+777
+06:08:25,200 --> 06:08:27,259
+paspoorten en verblijfspapieren,
+
+778
+06:08:27,779 --> 06:08:29,739
+zodat Syriërs naar Nederland kunnen reizen.
+
+779
+06:08:30,580 --> 06:08:32,180
+Dit is geen incident, voorzitter.
+
+780
+06:08:32,759 --> 06:08:34,700
+Dit is waarschijnlijk het topje van de ijsberg.
+
+781
+06:08:35,319 --> 06:08:37,959
+De criminele asielindustrie
+draait op volle toeren.
+
+782
+06:08:38,839 --> 06:08:40,779
+Het is een complete
+ondermijning van onze grens,
+
+783
+06:08:41,080 --> 06:08:43,040
+onze identiteit en onze veiligheid.
+
+784
+06:08:44,000 --> 06:08:46,419
+Iedereen die met valse
+papieren ons land binnenkomt,
+
+785
+06:08:46,739 --> 06:08:47,980
+moet keihard worden aangepakt,
+
+786
+06:08:48,439 --> 06:08:49,919
+vastgezet, vervolgd,
+
+787
+06:08:50,299 --> 06:08:51,279
+bestraft en onmiddellijk...
+
+788
+06:08:51,319 --> 06:08:52,000
+worden uitgezet.
+
+789
+06:08:52,640 --> 06:08:56,080
+Hierbij geldt: geen pardon
+en geen uitzonderingen voor
+asielzoekers, of voor wie dan ook.
+
+790
+06:08:56,939 --> 06:09:00,060
+De PVV eist hier vandaag
+opheldering van de minister.
+
+791
+06:09:00,799 --> 06:09:02,299
+Daarom is mijn vraag aan de minister...
+
+792
+06:09:02,959 --> 06:09:07,299
+hoeveel Syriërs er de afgelopen vijf jaar naar
+Nederland zijn gereisd met valse documenten,
+
+793
+06:09:07,700 --> 06:09:10,239
+zoals Nederlandse paspoorten
+of verblijfspapieren.
+
+794
+06:09:11,040 --> 06:09:13,399
+Hoeveel van hen zijn er
+vervolgd voor deze fraude?
+
+795
+06:09:14,319 --> 06:09:17,180
+Hoeveel zijn er daadwerkelijk
+gestraft en vervolgens uitgezet?
+
+796
+06:09:17,799 --> 06:09:22,700
+En mag ik als eerste aan de minister
+vragen hoeveel Syriërs er nu in
+Nederland zijn met valse papieren?
+
+797
+06:09:24,180 --> 06:09:27,080
+Het woord is aan de minister
+van Asiel en Migratie.
+
+798
+06:09:28,419 --> 06:09:29,399
+Dank, voorzitter.
+
+799
+06:09:29,620 --> 06:09:34,759
+Mevrouw Vondeling heeft vragen gesteld over
+een opmerkelijke en heel vervelende zaak,
+namelijk over de verkoop van illegale papieren.
+
+800
+06:09:35,560 --> 06:09:41,180
+Dat zou ook Nederlandse papieren betreffen.
+
+801
+06:09:43,020 --> 06:09:45,220
+Die papieren zijn natuurlijk geen
+garantie op toegang tot Nederland.
+
+802
+06:09:46,000 --> 06:09:50,560
+Ik heb zelf laatst aan de grens gestaan. De
+marechaussee checkt aan onze buitengrenzen en...
+
+803
+06:09:51,160 --> 06:09:52,459
+op onze luchthavens...
+
+804
+06:09:53,200 --> 06:09:56,319
+de identiteitspapieren en doet...
+
+805
+06:09:56,399 --> 06:09:57,560
+dat heel grondig.
+
+806
+06:09:58,359 --> 06:09:59,739
+Uit het artikel dat ik hierover las,
+
+807
+06:10:00,220 --> 06:10:05,100
+begreep ik dat er zelfs aan werd
+getwijfeld of de valse papieren
+die werden verstrekt, überhaupt...
+
+808
+06:10:05,140 --> 06:10:06,000
+wel zouden werken bij de reis naar Nederland.
+
+809
+06:10:06,779 --> 06:10:11,540
+Daardoor heeft degene die
+ze had gekocht, gevraagd om...
+
+810
+06:10:12,020 --> 06:10:13,739
+zijn geld terug te krijgen.
+
+811
+06:10:14,100 --> 06:10:17,819
+Ik heb dus vertrouwen in onze
+diensten. Mensen die met valse...
+
+812
+06:10:17,819 --> 06:10:23,000
+Nederlandse papieren proberen om Nederland
+binnen te komen en die, zoals in dit
+geval, geen woord Nederlands spreken,
+
+813
+06:10:23,600 --> 06:10:25,919
+worden er vrij snel uitgefilterd
+door de marechaussee.
+
+814
+06:10:25,939 --> 06:10:26,959
+In die zin hoop ik...
+
+815
+06:10:27,419 --> 06:10:30,419
+dat er niet veel Syriërs in Nederland
+zijn met valse Nederlandse papieren.
+
+816
+06:10:31,020 --> 06:10:34,819
+Als ze zo dom zouden zijn om met valse
+Nederlandse papieren asiel aan te vragen,
+
+817
+06:10:35,239 --> 06:10:36,700
+dan vallen ze natuurlijk
+helemaal snel door de mand.
+
+818
+06:10:36,720 --> 06:10:39,660
+Met Nederlandse papieren hoef je
+namelijk geen asiel aan te vragen,
+
+819
+06:10:40,779 --> 06:10:42,600
+omdat je dan gewoon Nederlander zou zijn.
+
+820
+06:10:43,160 --> 06:10:44,180
+Als je met valse...
+
+821
+06:10:44,220 --> 06:10:48,379
+Nederlandse papieren asiel aanvraagt en
+je eerste interview met de IND ingaat,
+
+822
+06:10:48,759 --> 06:10:53,060
+dan duurt het niet lang voordat
+de IND erachter komt dat er geen
+enkele band bestaat met Nederland.
+
+823
+06:10:53,660 --> 06:10:58,700
+Dan wordt de asielaanvraag direct kennelijk
+ongegrond verklaard en wordt iemand afgewezen.
+
+824
+06:10:58,739 --> 06:11:00,839
+Die persoon moet dan zonder
+vertrektermijn het land verlaten.
+
+825
+06:11:00,879 --> 06:11:03,779
+Op...
+
+826
+06:11:03,819 --> 06:11:07,140
+de vraag hoeveel Syriërs hier
+met valse Nederlandse papieren
+verblijven, hoop ik dat het antwoord...
+
+827
+06:11:07,839 --> 06:11:09,980
+nul dan wel heel weinig is, maar
+ik kan nooit 100% garantie geven.
+
+828
+06:11:10,500 --> 06:11:14,080
+Dat is zo, omdat je ten eerste met die
+papieren ons land vermoedelijk niet binnenkomt
+
+829
+06:11:14,080 --> 06:11:17,660
+en omdat je ten tweede in ieder geval geen
+enkele kans maakt in de asielprocedure.
+
+830
+06:11:17,700 --> 06:11:20,859
+De minister maakt hier nu een soort grap van,
+
+831
+06:11:20,899 --> 06:11:22,520
+terwijl dit echt een serieus probleem is.
+
+832
+06:11:22,580 --> 06:11:27,560
+Natuurlijk snap ik dat ze geen asiel
+aanvragen als ze een Nederlands
+paspoort hebben en hier binnenkomen.
+
+833
+06:11:27,600 --> 06:11:31,319
+Het kan natuurlijk wel zijn dat ze hiernaartoe
+reizen met Nederlandse paspoorten,
+
+834
+06:11:31,359 --> 06:11:35,459
+hun paspoort in een weiland bij Ter Apel
+gooien en dan alsnog asiel aanvragen.
+
+835
+06:11:35,899 --> 06:11:38,180
+Het gaat niet alleen maar om
+de valse papieren, maar ook...
+
+836
+06:11:38,239 --> 06:11:38,939
+om...
+
+837
+06:11:39,839 --> 06:11:44,419
+de hele misleiding van asielzoekers, waardoor
+ze zonder papieren naar Nederland komen.
+
+838
+06:11:44,819 --> 06:11:47,959
+Vorige week nog zijn er 1.100
+asielzoekers naar Nederland gekomen;...
+
+839
+06:11:48,399 --> 06:11:51,700
+elke week komen er rond de 900 tot
+1.000 asielzoekers naar Nederland.
+
+840
+06:11:52,080 --> 06:11:54,600
+Hoeveel van hen hebben überhaupt
+geen documenten? Van hoeveel van hen...
+
+841
+06:11:54,959 --> 06:11:58,020
+weten we niet...
+
+842
+06:11:58,919 --> 06:11:59,959
+waar zij vandaan komen en wie zij zijn?
+
+843
+06:12:00,200 --> 06:12:03,120
+Eigenlijk kan ik hier wel een
+antwoord op geven: dat betreft 68%.
+
+844
+06:12:03,220 --> 06:12:08,160
+68% van de asielzoekers
+overlegt geen documenten.
+
+845
+06:12:08,379 --> 06:12:09,959
+Daarvan weten we niet wie
+zij zijn en wat zij hier...
+
+846
+06:12:10,060 --> 06:12:11,120
+komen doen.
+
+847
+06:12:12,140 --> 06:12:16,799
+Bij 1.100 asielzoekers per week hebben
+we het dan over 748 asielzoekers...
+
+848
+06:12:17,239 --> 06:12:18,600
+die dat niet kunnen aantonen.
+
+849
+06:12:18,959 --> 06:12:20,839
+Dit is natuurlijk een enorm veiligheidsrisico.
+
+850
+06:12:20,959 --> 06:12:24,580
+Erkent de minister dit veiligheidsrisico
+en wat doet hij hier dan tegen?
+
+851
+06:12:25,959 --> 06:12:27,439
+Ik probeer hier zeker
+geen grap van te maken; ik...
+
+852
+06:12:27,520 --> 06:12:30,180
+heb geprobeerd om te schetsen
+hoe dit in zijn werk gaat.
+
+853
+06:12:30,819 --> 06:12:35,819
+Mensensmokkel is een enorm probleem, ook als
+het mensen betreft die als zij uiteindelijk...
+
+854
+06:12:36,359 --> 06:12:39,980
+via de landsgrenzen bij Ter
+Apel aankomen ten minste door...
+
+855
+06:12:40,299 --> 06:12:44,500
+een drietal veilige landen zijn
+gereisd en die dus eigenlijk daar
+asiel hadden moeten aanvragen.
+
+856
+06:12:45,859 --> 06:12:47,959
+In...
+
+857
+06:12:48,020 --> 06:12:52,859
+sommige gevallen is er een plausibele reden
+waarom iemand ongedocumenteerd binnenkomt:
+door de haast van de vlucht of door de...
+
+858
+06:12:53,279 --> 06:12:54,680
+vernietiging van registers is er...
+
+859
+06:12:55,339 --> 06:13:00,319
+geen gelegenheid geweest voor de asielzoeker
+om dat document bij zich te dragen. Of het
+document is ingenomen door mensensmokkelaars.
+
+860
+06:13:00,480 --> 06:13:05,919
+In zo'n geval moet er natuurlijk
+een mogelijkheid zijn om in goed
+overleg en zo mogelijk met de...
+
+861
+06:13:06,500 --> 06:13:12,620
+autoriteit in het land van herkomst zo
+snel mogelijk aan vervangende papieren te
+komen en de identiteit vast te stellen.
+
+862
+06:13:12,959 --> 06:13:14,700
+Maar u heeft wel degelijk gelijk...
+
+863
+06:13:14,759 --> 06:13:22,220
+dat er ook mensen zijn die als ze
+hier binnenkomen heel bewust een...
+
+864
+06:13:22,959 --> 06:13:24,680
+andere nationaliteit fingeren of...
+
+865
+06:13:25,220 --> 06:13:27,520
+niet willen meewerken aan
+de identiteitsvaststelling,
+
+866
+06:13:27,859 --> 06:13:29,200
+bijvoorbeeld omdat ze uit een land komen
+waarbij ze geen kans maken op asiel.
+
+867
+06:13:29,339 --> 06:13:31,799
+Ja, dat is ontzettend onwenselijk
+en ja natuurlijk, op het moment
+dat we niet weten wie iemand is en...
+
+868
+06:13:31,899 --> 06:13:35,520
+wat zijn intenties zijn, kan dat
+zeker veiligheidsrisico's opleveren.
+
+869
+06:13:36,739 --> 06:13:39,500
+Ik constateer dat de minister eigenlijk
+nergens een antwoord op heeft.
+
+870
+06:13:39,560 --> 06:13:43,339
+Hij weet niet hoeveel mensen hier met
+valse papieren zijn, hij weet niet
+hoeveel mensen hier überhaupt zijn...
+
+871
+06:13:44,580 --> 06:13:48,200
+die geen papieren hebben en een
+verblijfsvergunning krijgen.
+
+872
+06:13:48,540 --> 06:13:50,919
+Het is gewoon echt een schande dat de
+minister hier geen antwoord op heeft en...
+
+873
+06:13:51,020 --> 06:13:53,959
+het is ook een enorm
+veiligheidsrisico voor Nederland.
+
+874
+06:13:55,060 --> 06:13:58,939
+Het maakt ook duidelijk dat het enige wat
+we kunnen doen, gewoon het sluiten van
+de grenzen is voor al die gelukszoekers,
+
+875
+06:13:59,060 --> 06:14:03,620
+profiteurs en criminele asielzoekers,
+dus een totale asielstop...
+
+876
+06:14:03,939 --> 06:14:08,040
+invoeren en onmiddellijk
+strengere grensbewaking regelen.
+
+877
+06:14:08,200 --> 06:14:12,279
+Deze conclusie was volgens mij al op
+papier gezet voordat ik mijn antwoord gaf.
+
+878
+06:14:15,700 --> 06:14:16,759
+Het staat ook in ons verkiezingsprogramma,
+dus daar houden we ons aan.
+Dank u wel, mevrouw Vondeling.
+
+879
+06:14:16,779 --> 06:14:19,620
+Ik geef ruimte voor vervolgvragen,
+allereerst aan mevrouw Rajkowski.
+
+880
+06:14:19,779 --> 06:14:23,859
+Gaat uw gang. Is de minister
+het met de VVD eens dat...
+
+881
+06:14:24,239 --> 06:14:26,980
+beide asielwetten een deel van
+de oplossing kunnen bieden,
+
+882
+06:14:27,459 --> 06:14:29,839
+namelijk ervoor zorgen dat er
+minder mensen naar Nederland komen,
+
+883
+06:14:29,919 --> 06:14:35,459
+net zoals het amendement van mijn eigen
+hand over het ongewenst verklaren? Dus dat
+als mensen gedrag vertonen dat niet mag,
+
+884
+06:14:35,759 --> 06:14:40,060
+zij eerder ongewenst kunnen
+worden verklaard en kunnen worden
+uitgezet? En dan mijn tweede vraag.
+
+885
+06:14:40,600 --> 06:14:45,279
+Hoopt deze minister ook, net als
+de VVD-fractie, dat alle partijen...
+
+886
+06:14:45,319 --> 06:14:48,720
+die niet alleen in de verkiezingen over
+een strenger asielbeleid hebben gesproken...
+
+887
+06:14:49,060 --> 06:14:53,660
+maar dat ook in de Kamer steeds doen, niet
+voor vertraging zullen zorgen bij deze wetten?
+
+888
+06:14:54,540 --> 06:14:57,120
+Het korte antwoord daarop is: ja. Volmondig ja.
+
+889
+06:14:57,959 --> 06:15:00,060
+Zoals u weet, heb ik recent...
+
+890
+06:15:00,779 --> 06:15:04,939
+de novelle naar uw Kamer gestuurd
+waarmee de hulp aan illegalen...
+
+891
+06:15:05,239 --> 06:15:06,140
+niet meer strafbaar is.
+
+892
+06:15:06,459 --> 06:15:10,580
+Daarmee denk ik voldaan te hebben aan de wens
+van destijds een meerderheid van uw Kamer...
+
+893
+06:15:11,640 --> 06:15:17,000
+die los van dat punt kon
+instemmen met deze asielwet.
+
+894
+06:15:17,060 --> 06:15:21,020
+Ik hoop dat we heel spoedig kunnen
+overgaan tot de beantwoording en
+dan een verschil kunnen maken.
+
+895
+06:15:21,419 --> 06:15:26,220
+Ik zeg dit ook in het licht van
+deze gevallen, want inderdaad gaat
+het draagvlak voor ons asielsysteem...
+
+896
+06:15:26,459 --> 06:15:29,700
+kapot aan mensen die eindeloos
+door blijven procederen,
+
+897
+06:15:30,459 --> 06:15:34,180
+die geen negatieve sancties zien
+als zij hier illegaal blijven,
+
+898
+06:15:34,439 --> 06:15:37,120
+aan mensen die zich hier kunnen misdragen,
+
+899
+06:15:37,259 --> 06:15:38,819
+die niet meewerken aan hun vertrek.
+
+900
+06:15:39,379 --> 06:15:44,819
+Al die zaken, en de vereenvoudiging van
+de procedure, worden aangepakt met deze...
+
+901
+06:15:47,500 --> 06:15:48,640
+Asielnoodmaatregelenwet.
+
+902
+06:15:48,660 --> 06:15:53,000
+We zijn het er snel over eens dat het
+belangrijk is om snel die wetten aan te nemen
+en op die manier de instroom te beperken.
+
+903
+06:15:53,359 --> 06:15:57,080
+Maar ik vond deze berichten toch
+erg zorgelijk, ook gezien de...
+
+904
+06:15:57,080 --> 06:16:01,259
+heel echt lijkende foto's in de krant van
+valse paspoorten — of vervalste paspoorten;...
+
+905
+06:16:01,279 --> 06:16:02,859
+ik weet niet eens welke van de twee
+het is — en de opmerking van de...
+
+906
+06:16:03,799 --> 06:16:07,020
+Dienst Terugkeer en Vertrek dat er...
+
+907
+06:16:07,239 --> 06:16:10,120
+duizenden Syriërs per
+jaar naar Nederland komen.
+
+908
+06:16:10,520 --> 06:16:11,580
+Een deel daarvan komt uit Turkije.
+
+909
+06:16:11,640 --> 06:16:15,140
+Een groot deel zal worden onderschept
+als zij valse papieren hebben — ik heb...
+
+910
+06:16:15,459 --> 06:16:17,220
+alle vertrouwen in onze
+marechaussee om dat te doen —...
+
+911
+06:16:17,259 --> 06:16:20,299
+maar een groot deel ook niet. Ik
+vind dit toch een heel slecht idee.
+
+912
+06:16:20,600 --> 06:16:25,399
+De vraag is of er signalen zijn dat...
+
+913
+06:16:25,419 --> 06:16:26,739
+Nederlandse ambtenaren betrokken
+zijn bij die paspoorten.
+
+914
+06:16:26,759 --> 06:16:31,839
+Hoe kunnen ze anders zo'n redelijk goed lijkend
+Nederlands paspoort in Turkije produceren?
+
+915
+06:16:31,959 --> 06:16:37,180
+Kan de minister een brief sturen over wat hier
+precies aan de hand is en hoever het reikt?
+
+916
+06:16:37,720 --> 06:16:43,239
+Nee, wij hebben geen enkele indicatie
+dat er bij deze valse papieren enige
+betrokkenheid is van Nederlanders,
+
+917
+06:16:43,540 --> 06:16:47,819
+Nederlandse ambtenaren dan wel
+echte Nederlandse papieren.
+
+918
+06:16:47,859 --> 06:16:50,000
+Dit zijn vervalsingen.
+
+919
+06:16:50,520 --> 06:16:53,120
+Vervalsingen kunnen goed zijn, maar
+vervalsingen zijn niet zo goed dat
+de marechaussee die niet doorziet.
+
+920
+06:16:53,480 --> 06:16:55,480
+Bij elke twijfel...
+
+921
+06:16:55,959 --> 06:16:59,419
+zal er ook aan iemand in het
+Nederlands gevraagd worden: goh,
+
+922
+06:16:59,500 --> 06:17:00,459
+waar woont u eigenlijk?
+
+923
+06:17:01,399 --> 06:17:05,480
+Als men daar het antwoord al op
+schuldig blijft, dan wordt er
+meteen een zijkamertje ingegaan.
+
+924
+06:17:05,939 --> 06:17:11,259
+Ik dank de minister van Asiel en Migratie voor
+zijn beantwoording. Daarmee zijn we aan het
+einde gekomen van deze mondelinge vragenronde.
+
+925
+06:17:11,279 --> 06:17:16,220
+Ik schors de vergadering voor
+een enkel ogenblik, waarna we...
+
+926
+06:17:16,279 --> 06:17:18,319
+zullen...
+
+927
+06:24:52,279 --> 06:24:54,040
+beginnen...
+
+928
+06:24:58,439 --> 06:25:00,879
+met...
+
+929
+06:25:05,799 --> 06:25:09,640
+de...
+
+930
+06:25:15,640 --> 06:25:19,239
+stemmingen.
