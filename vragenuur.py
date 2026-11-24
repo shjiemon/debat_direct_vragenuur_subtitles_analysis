@@ -14,7 +14,6 @@ from urllib.request import urlopen
 DEBAT_DIRECT = "https://debatdirect.tweedekamer.nl"
 ACTIVITIES = "https://gegevensmagazijn.tweedekamer.nl/OData/v5/Activiteit"
 TERMS_URL = "https://www.tweedekamer.nl/applicaties/disclaimer"
-TERMS_LABEL = "Ik accepteer de licentievoorwaarden van de Tweede Kamer"
 INDEX_COLUMNS = ("date", "url", "status")
 LOG_COLUMNS = ("date", "url", "status", "file", "detail")
 SRT_CUE = re.compile(
@@ -73,7 +72,8 @@ def recording_links(page, day, timeout_error):
 def build_index(page, args, timeout_error):
     sessions = completed_sessions(args.start, args.end)
     if not sessions:
-        raise ValueError("The Tweede Kamer returned no completed Vragenuur sessions.")
+        raise ValueError(
+            "The Tweede Kamer returned no completed Vragenuur sessions.")
 
     args.index.parent.mkdir(parents=True, exist_ok=True)
     incomplete = 0
@@ -88,7 +88,8 @@ def build_index(page, args, timeout_error):
                     row.update(url=links[0], status="indexed")
                 elif links:
                     row["status"] = "ambiguous"
-                    print(f"{day}  multiple recordings: {', '.join(links)}", file=sys.stderr)
+                    print(
+                        f"{day}  multiple recordings: {', '.join(links)}", file=sys.stderr)
             except timeout_error as error:
                 print(f"{day}  {error}", file=sys.stderr)
             incomplete += row["status"] != "indexed"
@@ -96,7 +97,8 @@ def build_index(page, args, timeout_error):
             output.flush()
             print(f"{day}  {row['status']}")
 
-    print(f"Indexed {len(sessions) - incomplete} of {len(sessions)} sessions in {args.index}")
+    print(
+        f"Indexed {len(sessions) - incomplete} of {len(sessions)} sessions in {args.index}")
     return int(bool(incomplete))
 
 
@@ -114,17 +116,17 @@ def download_subtitle(page, row, target):
         or not url.path.startswith(f"/{row['date']}/")
         or "/plenaire-zaal/" not in url.path
     ):
-        raise ValueError("Expected a Debat Direct Plenaire zaal URL for this date.")
+        raise ValueError(
+            "Expected a Debat Direct Plenaire zaal URL for this date.")
 
     page.goto(row["url"], wait_until="domcontentloaded")
-    heading = page.locator("#debate-metadata h1")
-    if heading.inner_text(timeout=15_000).strip().casefold() != "vragenuur":
-        raise ValueError("The recording page is no longer titled Vragenuur.")
-    page.get_by_role("button", name="Download", exact=True).click()
-    agreement = page.locator("#debate-agreement")
-    agreement.wait_for(state="attached")
-    if not agreement.is_checked():
-        page.get_by_text(TERMS_LABEL, exact=True).click()
+    metadata = page.locator("#debate-metadata")
+    # The heading can exist before Debat Direct has loaded the recording title.
+    metadata.get_by_role("heading", name="Vragenuur", level=1, exact=True).wait_for(
+        state="visible", timeout=20_000
+    )
+    metadata.get_by_role("button", name="Download", exact=True).click()
+    page.locator("#debate-agreement").check(timeout=10_000)
 
     subtitle_button = page.get_by_role(
         "button", name=re.compile(r"^download ondertiteling$", re.IGNORECASE)
@@ -136,7 +138,8 @@ def download_subtitle(page, row, target):
     try:
         event.value.save_as(partial)
         if not valid_srt(partial):
-            raise ValueError("The download did not contain SRT cue timestamps.")
+            raise ValueError(
+                "The download did not contain SRT cue timestamps.")
         partial.replace(target)
     finally:
         partial.unlink(missing_ok=True)
@@ -161,11 +164,13 @@ def download_index(page, args, playwright_error):
         for row in rows:
             day = date.fromisoformat(row["date"]).isoformat()
             target = args.output / f"{day}.srt"
-            entry = dict(date=day, url=row["url"], file="", status="error", detail="")
+            entry = dict(date=day, url=row["url"],
+                         file="", status="error", detail="")
             try:
                 if row["status"] != "indexed" or not row["url"]:
                     raise ValueError("This row has no verified recording URL.")
-                entry.update(status=download_subtitle(page, row, target), file=target.name)
+                entry.update(status=download_subtitle(
+                    page, row, target), file=target.name)
             except (OSError, ValueError, playwright_error) as error:
                 errors += 1
                 entry["detail"] = str(error).splitlines()[0]
@@ -180,10 +185,14 @@ def download_index(page, args, playwright_error):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     commands = parser.add_subparsers(dest="command", required=True)
-    index = commands.add_parser("index", help="rebuild the date and recording URL index")
-    index.add_argument("--start", type=date.fromisoformat, default=date(2023, 1, 1))
-    index.add_argument("--end", type=date.fromisoformat, default=date(2025, 12, 31))
-    download = commands.add_parser("download", help="download subtitles from an index")
+    index = commands.add_parser(
+        "index", help="rebuild the date and recording URL index")
+    index.add_argument("--start", type=date.fromisoformat,
+                       default=date(2023, 1, 1))
+    index.add_argument("--end", type=date.fromisoformat,
+                       default=date(2025, 12, 31))
+    download = commands.add_parser(
+        "download", help="download subtitles from an index")
     download.add_argument("--output", type=Path, default=Path("subtitles"))
     download.add_argument("--date", type=date.fromisoformat)
     download.add_argument("--limit", type=int)
@@ -192,27 +201,31 @@ def main():
         help=f"accept the Tweede Kamer licence in each download dialog ({TERMS_URL})",
     )
     for command in (index, download):
-        command.add_argument("--index", type=Path, default=Path("vragenuur_index.csv"))
-        command.add_argument("--headed", action="store_true", help="show the Chromium window")
+        command.add_argument("--index", type=Path,
+                             default=Path("vragenuur_index.csv"))
+        command.add_argument("--headed", action="store_true",
+                             help="show the Chromium window")
     args = parser.parse_args()
 
     if args.command == "index" and args.start > args.end:
         parser.error("--start must be on or before --end")
     if args.command == "download":
         if not args.accept_license:
-            parser.error(f"Review the Tweede Kamer licence at {TERMS_URL} and pass --accept-license if you agree.")
+            parser.error(
+                f"Review the Tweede Kamer licence at {TERMS_URL} and pass --accept-license if you agree.")
         if args.limit is not None and args.limit < 1:
             parser.error("--limit must be at least 1")
 
     try:
         from playwright.sync_api import Error, TimeoutError, sync_playwright
     except ImportError:
-        parser.error("Install Playwright with python3 -m pip install playwright, then run python3 -m playwright install chromium.")
+        parser.error(
+            "Install Playwright with python3 -m pip install playwright, then run python3 -m playwright install chromium.")
 
     try:
         with sync_playwright() as playwright:
             browser = playwright.chromium.launch(headless=not args.headed)
-            page = browser.new_page(accept_downloads=True)
+            page = browser.new_page(accept_downloads=True, locale="nl-NL")
             if args.command == "index":
                 return build_index(page, args, TimeoutError)
             return download_index(page, args, Error)
