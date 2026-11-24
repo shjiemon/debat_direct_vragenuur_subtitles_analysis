@@ -8,6 +8,7 @@ import json
 from pathlib import Path
 import re
 import sys
+from tempfile import NamedTemporaryFile
 from urllib.parse import parse_qs, urlencode, urljoin, urlsplit
 from urllib.request import urlopen
 
@@ -27,6 +28,7 @@ VERIFIED_CAPTION_TRACKS = {
     "2025-05-20": ("nl-pol", "14:04:45", "15:15:26", "+02:00"),
 }
 INDEX_COLUMNS = ("date", "url", "status")
+DEFAULT_INDEX = Path("vragenuur_index.csv")
 LOG_COLUMNS = ("date", "url", "status", "file", "detail")
 SRT_CUE = re.compile(
     rb"(?m)^\d{2,}:\d{2}:\d{2},\d{3} --> \d{2,}:\d{2}:\d{2},\d{3}"
@@ -85,36 +87,65 @@ def recording_links(page, day, timeout_error):
             return []
 
 
+def resolve_recordings(page, sessions, timeout_error):
+    rows = {}
+    for day in sessions:
+        row = dict(date=day, url="", status="unresolved")
+        try:
+            links = recording_links(page, day, timeout_error)
+            if len(links) == 1:
+                row.update(url=links[0], status="indexed")
+            elif links:
+                row["status"] = "ambiguous"
+                print(f"{day}  multiple recordings: {', '.join(links)}",
+                      file=sys.stderr)
+        except timeout_error as error:
+            print(f"{day}  {error}", file=sys.stderr)
+        rows[day] = row
+        print(f"{day}  {row['status']}")
+    return rows
+
+
+def read_index(path):
+    try:
+        with path.open(encoding="utf-8-sig", newline="") as source:
+            reader = csv.DictReader(source)
+            if not set(INDEX_COLUMNS).issubset(reader.fieldnames or ()):
+                raise ValueError(
+                    f"{path}: expected the columns {', '.join(INDEX_COLUMNS)}.")
+            return {date.fromisoformat(row["date"]).isoformat(): row for row in reader}
+    except FileNotFoundError:
+        return {}
+
+
+def write_index(path, rows):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with NamedTemporaryFile(
+        mode="w", encoding="utf-8", newline="", dir=path.parent, delete=False
+    ) as output:
+        temporary = Path(output.name)
+        try:
+            writer = csv.DictWriter(
+                output, fieldnames=INDEX_COLUMNS, extrasaction="ignore")
+            writer.writeheader()
+            writer.writerows(rows[day] for day in sorted(rows))
+            output.close()
+            temporary.replace(path)
+        finally:
+            temporary.unlink(missing_ok=True)
+
+
 def build_index(page, args, timeout_error):
     sessions = completed_sessions(args.start, args.end)
     if not sessions:
         raise ValueError(
             "The Tweede Kamer returned no completed Vragenuur sessions.")
-
-    args.index.parent.mkdir(parents=True, exist_ok=True)
-    incomplete = 0
-    with args.index.open("w", encoding="utf-8", newline="") as output:
-        index = csv.DictWriter(output, fieldnames=INDEX_COLUMNS)
-        index.writeheader()
-        for day in sessions:
-            row = dict(date=day, url="", status="unresolved")
-            try:
-                links = recording_links(page, day, timeout_error)
-                if len(links) == 1:
-                    row.update(url=links[0], status="indexed")
-                elif links:
-                    row["status"] = "ambiguous"
-                    print(
-                        f"{day}  multiple recordings: {', '.join(links)}", file=sys.stderr)
-            except timeout_error as error:
-                print(f"{day}  {error}", file=sys.stderr)
-            incomplete += row["status"] != "indexed"
-            index.writerow(row)
-            output.flush()
-            print(f"{day}  {row['status']}")
-
+    path = args.index or DEFAULT_INDEX
+    rows = resolve_recordings(page, sessions, timeout_error)
+    write_index(path, rows)
+    incomplete = sum(row["status"] != "indexed" for row in rows.values())
     print(
-        f"Indexed {len(sessions) - incomplete} of {len(sessions)} sessions in {args.index}")
+        f"Indexed {len(sessions) - incomplete} of {len(sessions)} sessions in {path}")
     return int(bool(incomplete))
 
 
@@ -306,16 +337,38 @@ def download_subtitle(page, row, target, timeout_error):
     return result
 
 
-def download_index(page, args, playwright_error, timeout_error):
-    with args.index.open(encoding="utf-8", newline="") as source:
-        rows = list(csv.DictReader(source))
+def download_rows(page, args, timeout_error):
+    path = args.index or DEFAULT_INDEX
+    cached = read_index(path)
     if args.date:
-        rows = [row for row in rows if row["date"] == args.date.isoformat()]
-    if args.limit:
-        rows = rows[:args.limit]
-    if not rows:
-        raise ValueError("The index contains no rows for this selection.")
+        day = args.date.isoformat()
+        sessions = [day] if day in cached else completed_sessions(
+            args.date, args.date)
+    elif args.index is not None and cached and args.start is None and args.end is None:
+        # An explicit, existing index can specify a custom set of dates.
+        sessions = sorted(cached)
+    else:
+        start = args.start or date.fromisoformat(START_DATE)
+        end = args.end or date.fromisoformat(END_DATE)
+        sessions = completed_sessions(start, end)
+    if not sessions:
+        raise ValueError(
+            "The Tweede Kamer returned no completed Vragenuur sessions for this selection.")
 
+    sessions = sessions[:args.limit]
+    needs_url = [
+        day for day in sessions
+        if day not in cached or cached[day]["status"] != "indexed" or not cached[day]["url"]
+    ]
+    if needs_url:
+        print(f"Resolving {len(needs_url)} recording links for {path}.")
+        cached.update(resolve_recordings(page, needs_url, timeout_error))
+        write_index(path, cached)
+    return [cached[day] for day in sessions]
+
+
+def download_index(page, args, playwright_error, timeout_error):
+    rows = download_rows(page, args, timeout_error)
     args.output.mkdir(parents=True, exist_ok=True)
     errors = 0
     with (args.output / "download_log.csv").open("w", encoding="utf-8", newline="") as output:
@@ -353,7 +406,11 @@ def main():
     index.add_argument("--end", type=date.fromisoformat,
                        default=date.fromisoformat(END_DATE))
     download = commands.add_parser(
-        "download", help="download subtitles from an index")
+        "download", help="update the index and download subtitles")
+    download.add_argument("--start", type=date.fromisoformat,
+                          help=f"first date to download (default: {START_DATE})")
+    download.add_argument("--end", type=date.fromisoformat,
+                          help=f"last date to download (default: {END_DATE})")
     download.add_argument("--output", type=Path, default=Path("subtitles"))
     download.add_argument("--date", type=date.fromisoformat)
     download.add_argument("--limit", type=int)
@@ -363,7 +420,7 @@ def main():
     )
     for command in (index, download):
         command.add_argument("--index", type=Path,
-                             default=Path("vragenuur_index.csv"))
+                             help=f"index CSV path (default: {DEFAULT_INDEX})")
         command.add_argument("--headed", action="store_true",
                              help="show the Chromium window")
     args = parser.parse_args()
@@ -371,6 +428,10 @@ def main():
     if args.command == "index" and args.start > args.end:
         parser.error("--start must be on or before --end")
     if args.command == "download":
+        if args.date and (args.start is not None or args.end is not None):
+            parser.error("--date cannot be combined with --start or --end")
+        if (args.start or date.fromisoformat(START_DATE)) > (args.end or date.fromisoformat(END_DATE)):
+            parser.error("--start must be on or before --end")
         if not args.accept_license:
             parser.error(
                 f"Review the Tweede Kamer licence at {TERMS_URL} and pass --accept-license if you agree.")
