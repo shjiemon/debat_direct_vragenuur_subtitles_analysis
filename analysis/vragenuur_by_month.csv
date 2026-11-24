@@ -1,0 +1,31 @@
+month,debate_count,expected_debate_count,missing_debate_count,word_count,filtered_word_count,asiel_count,asiel_per_1000,asiel_forms,migratie_count,migratie_per_1000,migratie_forms
+2023-01,3,3,0,30221,14046,58,1.919195,"{""asiel"": 10, ""asielbeleid"": 4, ""asielcrisis"": 6, ""asieldossier"": 1, ""asielinperkingen"": 1, ""asielinstroombeperking"": 1, ""asielinstroombeperkingen"": 1, ""asielmigranten"": 2, ""asielprocedure"": 1, ""asielprognoses"": 1, ""asielstelsel"": 4, ""asielstop"": 3, ""asielzoekers"": 22, ""asielzoekerscentrum"": 1}",3,0.099269,"{""migratie"": 2, ""migratieachtergrond"": 1}"
+2023-02,3,3,0,31395,14617,0,0.0,{},2,0.063704,"{""migratieketen"": 2}"
+2023-03,4,4,0,44024,20581,4,0.09086,"{""asiel"": 4}",9,0.204434,"{""migratie"": 2, ""migratieachtergrond"": 6, ""migratiestroom"": 1}"
+2023-04,3,3,0,28353,13406,20,0.705393,"{""asielaanvraag"": 1, ""asielbeleid"": 1, ""asielcrisis"": 1, ""asielinstroom"": 1, ""asielprofiteurs"": 1, ""asielramp"": 1, ""asielstop"": 2, ""asielzoekers"": 11, ""asielzoekersinstroom"": 1}",0,0.0,{}
+2023-05,3,4,1,28109,13010,0,0.0,{},0,0.0,{}
+2023-06,4,4,0,43034,20154,67,1.556908,"{""asiel"": 13, ""asielaanpak"": 1, ""asielaanvraag"": 1, ""asielaanvragen"": 1, ""asielbeleid"": 5, ""asieldeal"": 1, ""asieldebat"": 4, ""asielketen"": 1, ""asieloverlast"": 1, ""asielproblemen"": 1, ""asielramp"": 2, ""asielstop"": 3, ""asielzoeker"": 5, ""asielzoekers"": 28}",3,0.069712,"{""immigratie"": 1, ""migratie"": 1, ""migratiepartij"": 1}"
+2023-07,1,1,0,10456,4806,0,0.0,{},0,0.0,{}
+2023-09,2,3,1,24527,11296,3,0.122314,"{""asiel"": 1, ""asielinstroom"": 1, ""asielvraag"": 1}",0,0.0,{}
+2023-10,4,4,0,39810,18695,28,0.703341,"{""asiel"": 1, ""asielaanvraag"": 1, ""asielaanvragen"": 4, ""asielbescherming"": 1, ""asielcrisis"": 1, ""asielketen"": 2, ""asielopvang"": 1, ""asielproblematiek"": 1, ""asielprocedure"": 1, ""asielrelaas"": 1, ""asielstop"": 2, ""asielstroom"": 2, ""asielverzoeken"": 1, ""asielzoekers"": 8, ""asielzoekerscentrum"": 1}",6,0.150716,"{""migratie"": 6}"
+2023-12,2,2,0,14696,7033,13,0.884594,"{""asiel"": 5, ""asielprocessen"": 1, ""asielzoekers"": 7}",0,0.0,{}
+2024-01,3,3,0,31173,14758,0,0.0,{},2,0.064158,"{""arbeidsmigratie"": 1, ""migratie"": 1}"
+2024-02,3,3,0,27297,12812,0,0.0,{},0,0.0,{}
+2024-03,4,4,0,43708,20213,1,0.022879,"{""asielinstroom"": 1}",0,0.0,{}
+2024-04,4,4,0,40377,19000,0,0.0,{},12,0.297199,"{""arbeidsmigratie"": 11, ""migratie"": 1}"
+2024-05,3,3,0,22568,10480,0,0.0,{},0,0.0,{}
+2024-06,4,4,0,43528,20340,0,0.0,{},2,0.045947,"{""migratieachtergrond"": 2}"
+2024-09,3,3,0,27379,12826,0,0.0,{},9,0.328719,"{""arbeidsmigratie"": 8, ""migratie"": 1}"
+2024-10,4,4,0,40286,18975,20,0.49645,"{""asiel"": 5, ""asielaanvraag"": 1, ""asielbeleid"": 3, ""asielcrisiswet"": 2, ""asielinstroom"": 2, ""asielketen"": 1, ""asielmigratiepact"": 1, ""asielprocedure"": 1, ""asielzoekers"": 4}",30,0.744676,"{""arbeidsmigratie"": 4, ""asielmigratiepact"": 1, ""migratie"": 7, ""migratiebeleid"": 4, ""migratiepact"": 14}"
+2024-11,4,4,0,31157,14565,4,0.128382,"{""asiel"": 3, ""asielcrisis"": 1}",19,0.609815,"{""arbeidsmigratie"": 15, ""migratie"": 3, ""migratiestroom"": 1}"
+2024-12,3,3,0,27912,13060,9,0.322442,"{""asiel"": 3, ""asielaanvragen"": 1, ""asielplannen"": 1, ""asielsysteem"": 1, ""asielzaken"": 3}",3,0.107481,"{""migratie"": 3}"
+2025-01,3,3,0,30489,14327,0,0.0,{},1,0.032799,"{""migratieachtergrond"": 1}"
+2025-02,3,3,0,29628,14133,2,0.067504,"{""asiel"": 2}",5,0.168759,"{""migratie"": 2, ""migratiepact"": 1, ""migratiestromen"": 2}"
+2025-03,3,4,1,27600,13206,6,0.217391,"{""asielboot"": 2, ""asielzoeker"": 1, ""asielzoekers"": 3}",1,0.036232,"{""migratieachtergrond"": 1}"
+2025-04,4,4,0,35010,16266,32,0.914025,"{""asiel"": 9, ""asielbeleid"": 7, ""asielinstroom"": 5, ""asielprobleem"": 1, ""asielstroom"": 4, ""asieltoestand"": 1, ""asielzoeker"": 1, ""asielzoekers"": 4}",17,0.485576,"{""arbeidsmigratie"": 1, ""immigratie"": 1, ""migratie"": 11, ""migratieachtergrond"": 2, ""migratiebeleid"": 2}"
+2025-05,3,3,0,26918,12608,15,0.557248,"{""asiel"": 3, ""asielmisère"": 1, ""asielopvang"": 1, ""asielwet"": 1, ""asielzoeker"": 1, ""asielzoekers"": 7, ""asielzoekerscentrum"": 1}",8,0.297199,"{""migratie"": 4, ""migratiebeleid"": 2, ""migratiedomein"": 1, ""migratiepact"": 1}"
+2025-06,2,2,0,19212,9081,6,0.312305,"{""asiel"": 2, ""asielprocedure"": 1, ""asielwoordvoerder"": 1, ""asielzoekerscentra"": 1, ""asielzoekerscentrum"": 1}",6,0.312305,"{""arbeidsmigratie"": 3, ""immigratie"": 1, ""migratie"": 2}"
+2025-07,1,1,0,8710,4111,0,0.0,{},0,0.0,{}
+2025-09,4,4,0,40005,18454,7,0.174978,"{""asiel"": 3, ""asielzoeker"": 2, ""asielzoekers"": 1, ""kankerasielzoekers"": 1}",7,0.174978,"{""immigratie"": 1, ""migratie"": 3, ""migratieachtergrond"": 3}"
+2025-11,1,1,0,8926,4190,29,3.248936,"{""asiel"": 10, ""asielaanvraag"": 1, ""asielbeleid"": 1, ""asielindustrie"": 1, ""asielnoodmaatregelenwet"": 2, ""asielprocedure"": 1, ""asielstop"": 1, ""asielsysteem"": 1, ""asielwet"": 1, ""asielwetten"": 1, ""asielzoeker"": 1, ""asielzoekers"": 8}",3,0.336097,"{""migratie"": 3}"
+2025-12,3,3,0,30771,14548,0,0.0,{},0,0.0,{}
