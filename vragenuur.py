@@ -344,7 +344,9 @@ def main():
     try:
         with sync_playwright() as playwright:
             browser = playwright.chromium.launch(headless=not args.headed)
-            page = browser.new_page(accept_downloads=True, locale="nl-NL")
+            context = browser.new_context(
+                accept_downloads=True, locale="nl-NL")
+            page = context.new_page()
             if args.command == "index":
                 return build_index(page, args, TimeoutError)
             return download_index(page, args, Error)
