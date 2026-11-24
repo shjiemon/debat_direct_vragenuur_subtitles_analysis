@@ -11,6 +11,13 @@ from pathlib import Path
 import re
 from unicodedata import normalize
 
+try:
+    from nltk.corpus import stopwords
+    from sklearn.feature_extraction.text import CountVectorizer
+except ImportError as error:
+    raise ValueError(
+        "Install the dependencies with python -m pip install nltk scikit-learn.") from error
+
 SEARCH_TERMS = ("asiel", "migratie")
 DATED_SRT = re.compile(r"[0-9]{4}-[0-9]{2}-[0-9]{2}\.srt")
 TIMESTAMP = r"[0-9]{2,}:[0-9]{2}:[0-9]{2}[,.][0-9]{3}"
@@ -40,10 +47,47 @@ def subtitle_words(path):
     return WORD.findall(normalize("NFC", captions).casefold())
 
 
-def summarize_words(bag):
+def vectorize_debates(files_by_date):
+    """Build a bag of words per debate and retain the original word totals."""
+    if not files_by_date:
+        return {}, {}
+    try:
+        dutch_stopwords = set(stopwords.words("dutch"))
+    except LookupError as error:
+        raise ValueError(
+            "Download the NLTK stopwords with python -m nltk.downloader stopwords.") from error
+
+    word_counts = {}
+    documents = {}
+    for day, path in files_by_date.items():
+        words = subtitle_words(path)
+        if not words:
+            raise ValueError(f"{path}: the captions contain no words.")
+        word_counts[day] = len(words)
+        kept = " ".join(word for word in words if word not in dutch_stopwords)
+        if kept:
+            documents[day] = kept
+
+    bags = {}
+    if documents:
+        vectorizer = CountVectorizer(analyzer=str.split)
+        matrix = vectorizer.fit_transform(documents.values())
+        vocabulary = vectorizer.get_feature_names_out()
+        for index, day in enumerate(documents):
+            row = matrix.getrow(index)
+            bags[day] = Counter({
+                vocabulary[column]: int(count)
+                for column, count in zip(row.indices, row.data)
+            })
+    return word_counts, bags
+
+
+def summarize_words(bag, total_words):
     """Count matching word forms and normalize against all spoken words."""
-    total_words = sum(bag.values())
-    summary = {"word_count": total_words or None}
+    summary = {
+        "word_count": total_words or None,
+        "filtered_word_count": sum(bag.values()) if total_words else None,
+    }
     for term in SEARCH_TERMS:
         forms = {word: count for word, count in bag.items() if term in word}
         matches = sum(forms.values())
@@ -92,25 +136,23 @@ def analyse(subtitles, output_dir, index=None):
         raise ValueError(
             f"No debates found in the index or YYYY-MM-DD.srt files in {subtitles}.")
 
+    word_counts, bags = vectorize_debates(files_by_date)
     debates = []
     monthly_words = defaultdict(Counter)
-    analysed_by_month = Counter()
+    monthly_word_counts = Counter()
+    analysed_by_month = Counter(day[:7] for day in word_counts)
     expected_by_month = Counter(day[:7] for day in debate_dates)
     for day in sorted(debate_dates):
         month = day[:7]
-        path = files_by_date.get(day)
-        bag = Counter()
-        if path is not None:
-            bag.update(subtitle_words(path))
-            if not bag:
-                raise ValueError(f"{path}: the captions contain no words.")
-            monthly_words[month].update(bag)
-            analysed_by_month[month] += 1
+        bag = bags.get(day, Counter())
+        total_words = word_counts.get(day, 0)
+        monthly_words[month].update(bag)
+        monthly_word_counts[month] += total_words
 
         debates.append({
             "date": day,
-            "subtitle_status": "available" if path is not None else "missing",
-            **summarize_words(bag),
+            "subtitle_status": "available" if day in word_counts else "missing",
+            **summarize_words(bag, total_words),
         })
 
     # Pool words across available debates. Keep coverage from the full index.
@@ -120,7 +162,7 @@ def analyse(subtitles, output_dir, index=None):
             "debate_count": analysed_by_month[month],
             "expected_debate_count": expected,
             "missing_debate_count": expected - analysed_by_month[month],
-            **summarize_words(monthly_words[month]),
+            **summarize_words(monthly_words[month], monthly_word_counts[month]),
         }
         for month, expected in sorted(expected_by_month.items())
     ]
