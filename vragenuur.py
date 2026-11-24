@@ -11,6 +11,9 @@ import sys
 from urllib.parse import parse_qs, urlencode, urljoin, urlsplit
 from urllib.request import urlopen
 
+START_DATE = '2021-01-01'
+END_DATE = '2026-11-23'
+
 DEBAT_DIRECT = "https://debatdirect.tweedekamer.nl"
 ACTIVITIES = "https://gegevensmagazijn.tweedekamer.nl/OData/v5/Activiteit"
 TERMS_URL = "https://www.tweedekamer.nl/applicaties/disclaimer"
@@ -346,9 +349,9 @@ def main():
     index = commands.add_parser(
         "index", help="rebuild the date and recording URL index")
     index.add_argument("--start", type=date.fromisoformat,
-                       default=date(2023, 1, 1))
+                       default=date.fromisoformat(START_DATE))
     index.add_argument("--end", type=date.fromisoformat,
-                       default=date(2025, 12, 31))
+                       default=date.fromisoformat(END_DATE))
     download = commands.add_parser(
         "download", help="download subtitles from an index")
     download.add_argument("--output", type=Path, default=Path("subtitles"))
