@@ -68,24 +68,28 @@ of sessions.
 ## Analyse and plot
 
 ```sh
-python analyse_vragenuur.py
+python analyse_vragenuur.py subtitles
+python analyse_vragenuur.py stenograms
 ```
 
-The analysis parses the spoken text, strips cue numbers and timestamps,
-removes Dutch stopwords, and builds a bag of words per debate. Substring
-matching counts compounds such as `asielopvang` and `immigratie`. The CSVs in
-`analysis/` contain raw counts, counts per 1,000 subtitle words, and the
-matching word forms, with one file per debate and another aggregated by
-month. The analysis uses the index to include sessions with missing
-subtitles. Those rows have blank counts to distinguish them from observed
-zeros.
+Choose `subtitles` for SRT files in `subtitles/` or `stenograms` for text
+files in `stenograms/`. Results go to `analysis/` and `analysis_stenograms/`,
+respectively. Use `--input-dir` or `--output-dir` to override those folders.
+
+The analysis strips cue numbers and timestamps from subtitles and removes
+speaker labels from stenograms by default. It removes Dutch stopwords and
+builds a bag of words per debate. Substring matching counts compounds such
+as `asielopvang` and `immigratie`. The CSVs contain raw counts, counts per
+1,000 words, and matching word forms, with one file per debate and another
+aggregated by month. The index identifies sessions with missing input.
+Those rows have blank counts to distinguish them from observed zeros.
 
 The analysis reads every dated SRT in the subtitle folder. To analyse only
 the separate 2026 collection in the example above, point it at that folder
 and its matching index.
 
 ```sh
-python analyse_vragenuur.py subtitles_2026 --index vragenuur_2026.csv --output-dir analysis_2026
+python analyse_vragenuur.py subtitles --input-dir subtitles_2026 --index vragenuur_2026.csv --output-dir analysis_2026
 ```
 
 If you have `plot_vragenuur.py` in your checkout, run it after the analysis.
