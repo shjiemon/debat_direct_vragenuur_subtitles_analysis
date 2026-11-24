@@ -19,6 +19,10 @@ LOG_COLUMNS = ("date", "url", "status", "file", "detail")
 SRT_CUE = re.compile(
     rb"(?m)^\d{2,}:\d{2}:\d{2},\d{3} --> \d{2,}:\d{2}:\d{2},\d{3}"
 )
+SUBTITLE_TIME = r"(?:[0-9]+:)?[0-5][0-9]:[0-5][0-9][,.][0-9]{3}"
+SUBTITLE_CUE = re.compile(
+    rf"^[ \t]*({SUBTITLE_TIME})[ \t]*-->[ \t]*({SUBTITLE_TIME})(?:[ \t]+.*)?$"
+)
 
 
 def completed_sessions(start, end):
@@ -106,6 +110,57 @@ def valid_srt(path):
     return path.is_file() and bool(SRT_CUE.search(path.read_bytes()))
 
 
+def subtitle_as_srt(data):
+    if data.startswith((b"\xff\xfe", b"\xfe\xff")):
+        text = data.decode("utf-16")
+    elif b"\0" in data[:256]:
+        # Timestamps are ASCII, so NUL bytes reveal the byte order in UTF-16.
+        sample = data[:256]
+        encoding = "utf-16-le" if sample[1::2].count(
+            0) > sample[::2].count(0) else "utf-16-be"
+        text = data.decode(encoding)
+    else:
+        try:
+            text = data.decode("utf-8-sig")
+        except UnicodeDecodeError:
+            text = data.decode("cp1252")
+
+    text = text.replace("\r\n", "\n").replace("\r", "\n").strip()
+    webvtt = text.startswith(("WEBVTT\n", "WEBVTT ", "WEBVTT\t"))
+    cues = []
+    for block in re.split(r"\n[ \t]*\n", text):
+        lines = block.splitlines()
+        if not lines:
+            continue
+        first_line = lines[0].strip()
+        if webvtt and (
+            first_line.startswith(("WEBVTT", "NOTE ", "NOTE\t"))
+            or first_line in {"NOTE", "STYLE", "REGION"}
+        ):
+            continue
+        # SubRip normally has a numeric cue ID. WebVTT allows arbitrary IDs.
+        timing_index = 0
+        times = SUBTITLE_CUE.fullmatch(lines[0])
+        if not times and len(lines) >= 2 and (webvtt or first_line.isdecimal()):
+            timing_index = 1
+            times = SUBTITLE_CUE.fullmatch(lines[1])
+        if not times or timing_index + 1 >= len(lines):
+            continue
+
+        timestamps = []
+        for timestamp in times.groups():
+            if timestamp.count(":") == 1:
+                timestamp = f"00:{timestamp}"
+            timestamps.append(timestamp.replace(".", ",").zfill(12))
+        timing = " --> ".join(timestamps)
+        cue_text = "\n".join(lines[timing_index + 1:])
+        cues.append(f"{len(cues) + 1}\n{timing}\n{cue_text}")
+
+    if not cues:
+        raise ValueError("No SubRip or WebVTT cues found.")
+    return ("\n\n".join(cues) + "\n").encode("utf-8")
+
+
 def download_subtitle(page, row, target):
     if valid_srt(target):
         return "already_downloaded"
@@ -134,12 +189,25 @@ def download_subtitle(page, row, target):
     with page.expect_download(timeout=45_000) as event:
         subtitle_button.click(timeout=10_000)
 
+    download = event.value
     partial = target.with_suffix(".srt.part")
     try:
-        event.value.save_as(partial)
-        if not valid_srt(partial):
+        download.save_as(partial)
+        data = partial.read_bytes()
+        try:
+            srt = subtitle_as_srt(data)
+        except ValueError as error:
+            filename = Path(download.suggested_filename).name
+            suffix = Path(filename).suffix
+            if not re.fullmatch(r"\.[a-zA-Z0-9]{1,10}", suffix):
+                suffix = ".bin"
+            original = target.with_suffix(f".original{suffix}")
+            partial.replace(original)
             raise ValueError(
-                "The download did not contain SRT cue timestamps.")
+                f"{error} Browser supplied {filename!r} ({len(data):,} bytes). "
+                f"Original saved as {original}."
+            ) from error
+        partial.write_bytes(srt)
         partial.replace(target)
     finally:
         partial.unlink(missing_ok=True)
