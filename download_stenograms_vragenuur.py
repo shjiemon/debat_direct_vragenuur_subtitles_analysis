@@ -3,9 +3,10 @@
 
 Edit START_DATE and END_DATE below, or override either date with --start
 or --end (inclusive, YYYY-MM-DD). Each date gets a UTF-8 text file of the
-speaker and interruption paragraphs. Each turn starts with a [[SPEAKER]]
-line. The original full-sitting XML is retained by default. Use --skip-xml
-to save only the text and CSV index.
+speaker and interruption paragraphs. Each turn starts with a
+[[SPEAKER: name]] line using the label from the XML. The original
+full-sitting XML is retained by default. Use --skip-xml to save only the
+text and CSV index.
 The index lists the reports used, their publication status and any gaps.
 Requires only the Python standard library.
 """
@@ -32,7 +33,6 @@ ODATA = "https://gegevensmagazijn.tweedekamer.nl/OData/v5/"
 PUBLICATION_PRIORITY = {"Ongecorrigeerd": 0,
                         "Gecorrigeerd": 1, "Gerectificeerd": 2}
 SPEECH_TAGS = {"woordvoerder", "interrumpant"}
-SPEAKER_PREFIX = "[[SPEAKER]] "
 INDEX_FIELDS = ("date", "status", "activity_numbers", "sections", "text_file",
                 "report_statuses", "report_urls", "detail")
 
@@ -121,7 +121,7 @@ def format_speech(turn, text_node):
         speaker = " ".join(speaker.split()) or "Unknown speaker"
 
     speech = "\n\n".join(text for text in texts if text)
-    return f"{SPEAKER_PREFIX}{speaker}\n{speech}" if speech else ""
+    return f"[[SPEAKER: {speaker}]]\n{speech}" if speech else ""
 
 
 def speech_blocks(node):
