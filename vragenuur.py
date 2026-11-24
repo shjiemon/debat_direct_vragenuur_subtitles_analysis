@@ -14,15 +14,15 @@ from urllib.request import urlopen
 DEBAT_DIRECT = "https://debatdirect.tweedekamer.nl"
 ACTIVITIES = "https://gegevensmagazijn.tweedekamer.nl/OData/v5/Activiteit"
 TERMS_URL = "https://www.tweedekamer.nl/applicaties/disclaimer"
-PILOT_RECORDING = f"{DEBAT_DIRECT}/2025-04-08/overig/plenaire-zaal/vragenuur-14-01"
-# These exact bounds were observed in Debat Direct's player for the pilot.
-PILOT_CAPTIONS = (
-    "https://livestreaming.b67v2.tweedekamer.nl/2025-04-08/plenairezaal/subtitles/nl-pol/vod.vtt?"
-    + urlencode({
-        "start": "2025-04-08T14:00:20.0000000+02:00",
-        "end": "2025-04-08T15:06:55.0000000+02:00",
-    })
-)
+CAPTION_HOST = "livestreaming.b67v2.tweedekamer.nl"
+DUTCH_CAPTION_TRACKS = ("nl-pol", "nl-nld")
+# These debate bounds and track names were verified against the live archive.
+VERIFIED_CAPTION_TRACKS = {
+    "2023-02-14": ("nl-pol", "14:00:09", "15:07:01", "+01:00"),
+    "2023-05-09": ("nl-nld", "14:00:45", "15:02:50", "+02:00"),
+    "2025-04-08": ("nl-pol", "14:00:20", "15:06:55", "+02:00"),
+    "2025-05-20": ("nl-pol", "14:04:45", "15:15:26", "+02:00"),
+}
 INDEX_COLUMNS = ("date", "url", "status")
 LOG_COLUMNS = ("date", "url", "status", "file", "detail")
 SRT_CUE = re.compile(
@@ -170,26 +170,40 @@ def subtitle_as_srt(data):
     return ("\n\n".join(cues) + "\n").encode("utf-8")
 
 
-def is_debate_caption_response(response, day):
-    url = urlsplit(response.url)
+def verified_caption_url(row):
+    day = row["date"]
+    expected = f"{DEBAT_DIRECT}/{day}/overig/plenaire-zaal/vragenuur-14-01"
+    if row["url"] != expected or day not in VERIFIED_CAPTION_TRACKS:
+        return None
+
+    language, start, end, offset = VERIFIED_CAPTION_TRACKS[day]
+    bounds = urlencode({
+        "start": f"{day}T{start}.0000000{offset}",
+        "end": f"{day}T{end}.0000000{offset}",
+    })
+    return f"https://{CAPTION_HOST}/{day}/plenairezaal/subtitles/{language}/vod.vtt?{bounds}"
+
+
+def is_debate_caption_request(request, day):
+    url = urlsplit(request.url)
     bounds = parse_qs(url.query)
+    paths = {
+        f"/{day}/plenairezaal/subtitles/{language}/vod.vtt"
+        for language in DUTCH_CAPTION_TRACKS
+    }
     return (
         url.scheme == "https"
-        and url.hostname == "livestreaming.b67v2.tweedekamer.nl"
-        and url.path.casefold() == f"/{day}/plenairezaal/subtitles/nl-pol/vod.vtt"
+        and url.hostname == CAPTION_HOST
+        and url.path.casefold() in paths
         and all(bounds.get(key, [""])[0].startswith(f"{day}T") for key in ("start", "end"))
     )
 
 
-def download_playback_captions(context, row):
-    if row["url"] == PILOT_RECORDING:
-        with urlopen(PILOT_CAPTIONS, timeout=30) as response:
-            return response.read()
-
+def playback_caption_url(context, row):
     playback = context.new_page()
     try:
-        with playback.expect_response(
-            lambda response: is_debate_caption_response(response, row["date"]),
+        with playback.expect_request(
+            lambda request: is_debate_caption_request(request, row["date"]),
             timeout=35_000,
         ) as event:
             playback.goto(row["url"], wait_until="domcontentloaded")
@@ -207,29 +221,12 @@ def download_playback_captions(context, row):
                 '[aria-label="Videospeler"] button[aria-labelledby="controlbar-play"]'
             )
             play_button.press("Enter", timeout=10_000)
-
-        response = event.value
-        if not response.ok:
-            raise ValueError(
-                f"The playback caption request returned HTTP {response.status}.")
-        return response.body()
+        return event.value.url
     finally:
         playback.close()
 
 
-def download_subtitle(page, row, target):
-    if valid_srt(target):
-        return "already_downloaded"
-    url = urlsplit(row["url"])
-    if (
-        url.scheme != "https"
-        or url.netloc != "debatdirect.tweedekamer.nl"
-        or not url.path.startswith(f"/{row['date']}/")
-        or "/plenaire-zaal/" not in url.path
-    ):
-        raise ValueError(
-            "Expected a Debat Direct Plenaire zaal URL for this date.")
-
+def open_official_subtitle_download(page, row):
     page.goto(row["url"], wait_until="domcontentloaded")
     metadata = page.locator("#debate-metadata")
     # The heading can exist before Debat Direct has loaded the recording title.
@@ -244,20 +241,49 @@ def download_subtitle(page, row, target):
     )
     with page.expect_download(timeout=45_000) as event:
         subtitle_button.click(timeout=10_000)
+    return event.value
 
-    download = event.value
-    filename = Path(download.suggested_filename).name
-    result = "downloaded"
+
+def download_subtitle(page, row, target, timeout_error):
+    if valid_srt(target):
+        return "already_downloaded"
+    url = urlsplit(row["url"])
+    if (
+        url.scheme != "https"
+        or url.netloc != "debatdirect.tweedekamer.nl"
+        or not url.path.startswith(f"/{row['date']}/")
+        or "/plenaire-zaal/" not in url.path
+    ):
+        raise ValueError(
+            "Expected a Debat Direct Plenaire zaal URL for this date.")
+
+    caption_url = verified_caption_url(row)
+    data = b""
+    filename = "playback.vtt"
+    result = "downloaded_from_playback"
     partial = target.with_suffix(".srt.part")
     try:
-        download.save_as(partial)
-        data = partial.read_bytes()
+        if caption_url is None:
+            try:
+                download = open_official_subtitle_download(page, row)
+            except timeout_error:
+                print(
+                    f"{row['date']}  SRT download unavailable. Trying the playback caption track.")
+            else:
+                download.save_as(partial)
+                data = partial.read_bytes()
+                if data:
+                    filename = Path(download.suggested_filename).name
+                    result = "downloaded"
+                else:
+                    print(
+                        f"{row['date']}  Empty SRT download. Trying the playback caption track.")
+
         if not data:
-            print(
-                f"{row['date']}  Empty SRT download. Trying the playback caption track.")
-            data = download_playback_captions(page.context, row)
-            filename = "playback.vtt"
-            result = "downloaded_from_playback"
+            caption_url = caption_url or playback_caption_url(
+                page.context, row)
+            with urlopen(caption_url, timeout=30) as response:
+                data = response.read()
             partial.write_bytes(data)
 
         try:
@@ -279,7 +305,7 @@ def download_subtitle(page, row, target):
     return result
 
 
-def download_index(page, args, playwright_error):
+def download_index(page, args, playwright_error, timeout_error):
     with args.index.open(encoding="utf-8", newline="") as source:
         rows = list(csv.DictReader(source))
     if args.date:
@@ -303,7 +329,7 @@ def download_index(page, args, playwright_error):
                 if row["status"] != "indexed" or not row["url"]:
                     raise ValueError("This row has no verified recording URL.")
                 entry.update(status=download_subtitle(
-                    page, row, target), file=target.name)
+                    page, row, target, timeout_error), file=target.name)
             except (OSError, ValueError, playwright_error) as error:
                 errors += 1
                 entry["detail"] = str(error)
@@ -364,7 +390,7 @@ def main():
             page = context.new_page()
             if args.command == "index":
                 return build_index(page, args, TimeoutError)
-            return download_index(page, args, Error)
+            return download_index(page, args, Error, TimeoutError)
     except (OSError, ValueError, Error) as error:
         print(error, file=sys.stderr)
         return 1
