@@ -21,7 +21,7 @@ except ImportError as error:
 SEARCH_TERMS = ("asiel", "migratie")
 STRIP_SPEAKER_LABELS_FROM_STENOGRAM_TXT = True
 SOURCE_DEFAULTS = {
-    "subtitles": (".srt", "analysis"),
+    "subtitles": (".srt", "analysis_subtitles"),
     "stenograms": (".txt", "analysis_stenograms"),
 }
 
@@ -229,7 +229,7 @@ def main():
     parser.add_argument("--input-dir", type=Path,
                         help="override the selected source folder")
     parser.add_argument("--output-dir", type=Path,
-                        help="output folder (default: analysis or analysis_stenograms)")
+                        help="output folder (default: analysis_subtitles or analysis_stenograms)")
     parser.add_argument(
         "--index", type=Path,
         help="CSV of completed debates (default: stenograms_index.csv in the "
