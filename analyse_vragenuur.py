@@ -27,7 +27,8 @@ SOURCE_DEFAULTS = {
 
 DATED_INPUT = re.compile(
     r"[0-9]{4}-[0-9]{2}-[0-9]{2}\.(?:srt|txt)", re.IGNORECASE)
-SPEAKER_PREFIX = "[[SPEAKER]] "
+SPEAKER_LABEL = re.compile(r"\[\[([^\[\]]+)\]\]")
+LEGACY_SPEAKER_PREFIX = "[[SPEAKER]] "
 TIMESTAMP = r"[0-9]{2,}:[0-9]{2}:[0-9]{2}[,.][0-9]{3}"
 CUE_TIMING = re.compile(rf"{TIMESTAMP}[ \t]+-->[ \t]+{TIMESTAMP}(?:[ \t]+.*)?")
 FORMATTING_TAG = re.compile(r"<[^<>\n]+>")
@@ -60,13 +61,18 @@ def subtitle_words(path):
 
 
 def stenogram_words(path, strip_speaker_labels):
-    """Read plain text, treating the speaker tag as markup."""
+    """Read plain text and handle both current and earlier speaker labels."""
     lines = []
     for line in path.read_text(encoding="utf-8-sig").splitlines():
-        if line.startswith(SPEAKER_PREFIX):
+        speaker = None
+        if line.startswith(LEGACY_SPEAKER_PREFIX):
+            speaker = line.removeprefix(LEGACY_SPEAKER_PREFIX)
+        elif match := SPEAKER_LABEL.fullmatch(line.strip()):
+            speaker = match.group(1).removeprefix("SPEAKER:").strip()
+        if speaker is not None:
             if strip_speaker_labels:
                 continue
-            line = line.removeprefix(SPEAKER_PREFIX)
+            line = speaker
         lines.append(line)
     return tokenize("\n".join(lines))
 
