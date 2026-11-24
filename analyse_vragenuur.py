@@ -224,8 +224,8 @@ def analyse(input_dir, output_dir, index=None,
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("source", nargs="?", default="subtitles",
-                        help="subtitles, stenograms, or an input folder (default: subtitles)")
+    parser.add_argument("source", choices=SOURCE_DEFAULTS,
+                        help="which corpus to analyse")
     parser.add_argument("--input-dir", type=Path,
                         help="override the selected source folder")
     parser.add_argument("--output-dir", type=Path,
@@ -242,11 +242,7 @@ def main():
              f"(default: {STRIP_SPEAKER_LABELS_FROM_STENOGRAM_TXT})",
     )
     args = parser.parse_args()
-    if args.input_dir is not None and args.source not in SOURCE_DEFAULTS:
-        parser.error(
-            "--input-dir requires a source mode (subtitles or stenograms)")
-    suffix, default_output = SOURCE_DEFAULTS.get(
-        args.source, (None, "analysis"))
+    suffix, default_output = SOURCE_DEFAULTS[args.source]
     input_dir = args.input_dir or Path(args.source)
     output_dir = args.output_dir or Path(default_output)
 
