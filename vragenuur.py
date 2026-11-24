@@ -115,12 +115,10 @@ def build_index(page, args, timeout_error):
     return int(bool(incomplete))
 
 
-def valid_srt(path):
-    return path.is_file() and bool(SRT_CUE.search(path.read_bytes()))
-
-
 def subtitle_as_srt(data):
-    if data.startswith((b"\xff\xfe", b"\xfe\xff")):
+    if data.startswith((b"WEBVTT", b"\xef\xbb\xbfWEBVTT")):
+        text = data.decode("utf-8-sig")
+    elif data.startswith((b"\xff\xfe", b"\xfe\xff")):
         text = data.decode("utf-16")
     elif b"\0" in data[:256]:
         # Timestamps are ASCII, so NUL bytes reveal the byte order in UTF-16.
@@ -245,7 +243,7 @@ def open_official_subtitle_download(page, row):
 
 
 def download_subtitle(page, row, target, timeout_error):
-    if valid_srt(target):
+    if target.is_file() and SRT_CUE.search(target.read_bytes()):
         return "already_downloaded"
     url = urlsplit(row["url"])
     if (
