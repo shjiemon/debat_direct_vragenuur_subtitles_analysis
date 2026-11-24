@@ -14,6 +14,15 @@ from urllib.request import urlopen
 DEBAT_DIRECT = "https://debatdirect.tweedekamer.nl"
 ACTIVITIES = "https://gegevensmagazijn.tweedekamer.nl/OData/v5/Activiteit"
 TERMS_URL = "https://www.tweedekamer.nl/applicaties/disclaimer"
+PILOT_RECORDING = f"{DEBAT_DIRECT}/2025-04-08/overig/plenaire-zaal/vragenuur-14-01"
+# These exact bounds were observed in Debat Direct's player for the pilot.
+PILOT_CAPTIONS = (
+    "https://livestreaming.b67v2.tweedekamer.nl/2025-04-08/plenairezaal/subtitles/nl-pol/vod.vtt?"
+    + urlencode({
+        "start": "2025-04-08T14:00:20.0000000+02:00",
+        "end": "2025-04-08T15:06:55.0000000+02:00",
+    })
+)
 INDEX_COLUMNS = ("date", "url", "status")
 LOG_COLUMNS = ("date", "url", "status", "file", "detail")
 SRT_CUE = re.compile(
@@ -173,6 +182,10 @@ def is_debate_caption_response(response, day):
 
 
 def download_playback_captions(context, row):
+    if row["url"] == PILOT_RECORDING:
+        with urlopen(PILOT_CAPTIONS, timeout=30) as response:
+            return response.read()
+
     playback = context.new_page()
     try:
         with playback.expect_response(
@@ -190,9 +203,10 @@ def download_playback_captions(context, row):
                 state="visible", timeout=15_000)
             if captions_off.is_visible():
                 captions_off.click()
-            playback.get_by_role("button", name="Video starten", exact=True).first.click(
-                timeout=10_000
+            play_button = playback.locator(
+                '[aria-label="Videospeler"] button[aria-labelledby="controlbar-play"]'
             )
+            play_button.press("Enter", timeout=10_000)
 
         response = event.value
         if not response.ok:
@@ -292,10 +306,11 @@ def download_index(page, args, playwright_error):
                     page, row, target), file=target.name)
             except (OSError, ValueError, playwright_error) as error:
                 errors += 1
-                entry["detail"] = str(error).splitlines()[0]
+                entry["detail"] = str(error)
             log.writerow(entry)
             output.flush()
-            print(f"{day}  {entry['status']} {entry['detail']}".rstrip())
+            summary = entry["detail"].partition("\n")[0]
+            print(f"{day}  {entry['status']} {summary}".rstrip())
 
     print(f"{len(rows) - errors} of {len(rows)} subtitles available in {args.output}")
     return int(bool(errors))
