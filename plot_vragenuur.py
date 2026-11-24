@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """Plot per-debate asylum and migration mentions from analyse_vragenuur.py."""
 
+from matplotlib.ticker import MaxNLocator
+from matplotlib.patches import Patch
+from matplotlib.lines import Line2D
+from matplotlib import pyplot as plt
+from matplotlib import dates as mdates
 import argparse
 import csv
 from datetime import date, timedelta
@@ -8,11 +13,6 @@ from pathlib import Path
 
 import matplotlib
 matplotlib.use("Agg")
-from matplotlib import dates as mdates
-from matplotlib import pyplot as plt
-from matplotlib.lines import Line2D
-from matplotlib.patches import Patch
-from matplotlib.ticker import MaxNLocator
 
 ANALYSIS_DIRS = {
     "subtitles": Path("analysis_subtitles"),
@@ -36,13 +36,15 @@ def read_debates(path):
         reader = csv.DictReader(source)
         absent = columns.difference(reader.fieldnames or ())
         if absent:
-            raise ValueError(f"{path} is missing columns {', '.join(sorted(absent))}.")
+            raise ValueError(
+                f"{path} is missing columns {', '.join(sorted(absent))}.")
         for row in reader:
             day = date.fromisoformat(row["date"])
             if row["subtitle_status"] == "missing":
                 missing.append(day)
             elif row["subtitle_status"] == "available":
-                available.append((day, int(row["asiel_count"]), int(row["migratie_count"])))
+                available.append(
+                    (day, int(row["asiel_count"]), int(row["migratie_count"])))
             else:
                 raise ValueError(f"{day} has an unfamiliar coverage status.")
     if not available:
@@ -77,7 +79,8 @@ def plot_mentions(analysis_dir, output, source="subtitles"):
         gridspec_kw={"height_ratios": [12, 1.5]},
     )
     try:
-        fig.subplots_adjust(left=0.072, right=0.976, top=0.775, bottom=0.17, hspace=0.16)
+        fig.subplots_adjust(left=0.072, right=0.976,
+                            top=0.775, bottom=0.17, hspace=0.16)
         fig.text(0.072, 0.918, "Asylum and migration in the Vragenuur",
                  fontsize=23, fontweight="bold", color=INK)
         period = f"{first_day.day} {first_day:%b %Y} to {last_day.day} {last_day:%b %Y}"
@@ -96,7 +99,8 @@ def plot_mentions(analysis_dir, output, source="subtitles"):
                    bbox_to_anchor=(0.064, 0.845), ncol=3, frameon=False,
                    fontsize=10, labelcolor=INK, columnspacing=1.8)
 
-        axis.set_ylabel("Word occurrences per debate", fontsize=10, color=MUTED)
+        axis.set_ylabel("Word occurrences per debate",
+                        fontsize=10, color=MUTED)
         axis.set_ylim(bottom=0)
         axis.yaxis.set_major_locator(MaxNLocator(nbins=6, integer=True))
         axis.tick_params(axis="y", length=0, pad=7, colors=MUTED, labelsize=9)
@@ -142,8 +146,10 @@ def plot_mentions(analysis_dir, output, source="subtitles"):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("source", choices=ANALYSIS_DIRS, help="which analysis to plot")
-    parser.add_argument("--analysis-dir", type=Path, help="override the analysis folder")
+    parser.add_argument("source", choices=ANALYSIS_DIRS,
+                        help="which analysis to plot")
+    parser.add_argument("--analysis-dir", type=Path,
+                        help="override the analysis folder")
     parser.add_argument("--output", type=Path,
                         help="image path (defaults to vragenuur_mentions.png in the analysis directory)")
     args = parser.parse_args()
