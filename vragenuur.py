@@ -8,7 +8,7 @@ import json
 from pathlib import Path
 import re
 import sys
-from urllib.parse import urlencode, urljoin, urlsplit
+from urllib.parse import parse_qs, urlencode, urljoin, urlsplit
 from urllib.request import urlopen
 
 DEBAT_DIRECT = "https://debatdirect.tweedekamer.nl"
@@ -161,6 +161,48 @@ def subtitle_as_srt(data):
     return ("\n\n".join(cues) + "\n").encode("utf-8")
 
 
+def is_debate_caption_response(response, day):
+    url = urlsplit(response.url)
+    bounds = parse_qs(url.query)
+    return (
+        url.scheme == "https"
+        and url.hostname == "livestreaming.b67v2.tweedekamer.nl"
+        and url.path.casefold() == f"/{day}/plenairezaal/subtitles/nl-pol/vod.vtt"
+        and all(bounds.get(key, [""])[0].startswith(f"{day}T") for key in ("start", "end"))
+    )
+
+
+def download_playback_captions(context, row):
+    playback = context.new_page()
+    try:
+        with playback.expect_response(
+            lambda response: is_debate_caption_response(response, row["date"]),
+            timeout=35_000,
+        ) as event:
+            playback.goto(row["url"], wait_until="domcontentloaded")
+            captions_off = playback.get_by_role(
+                "button", name="Ondertiteling inschakelen", exact=True
+            )
+            captions_on = playback.get_by_role(
+                "button", name="Ondertiteling uitschakelen", exact=True
+            )
+            captions_off.or_(captions_on).wait_for(
+                state="visible", timeout=15_000)
+            if captions_off.is_visible():
+                captions_off.click()
+            playback.get_by_role("button", name="Video starten", exact=True).first.click(
+                timeout=10_000
+            )
+
+        response = event.value
+        if not response.ok:
+            raise ValueError(
+                f"The playback caption request returned HTTP {response.status}.")
+        return response.body()
+    finally:
+        playback.close()
+
+
 def download_subtitle(page, row, target):
     if valid_srt(target):
         return "already_downloaded"
@@ -190,28 +232,37 @@ def download_subtitle(page, row, target):
         subtitle_button.click(timeout=10_000)
 
     download = event.value
+    filename = Path(download.suggested_filename).name
+    result = "downloaded"
     partial = target.with_suffix(".srt.part")
     try:
         download.save_as(partial)
         data = partial.read_bytes()
+        if not data:
+            print(
+                f"{row['date']}  Empty SRT download. Trying the playback caption track.")
+            data = download_playback_captions(page.context, row)
+            filename = "playback.vtt"
+            result = "downloaded_from_playback"
+            partial.write_bytes(data)
+
         try:
             srt = subtitle_as_srt(data)
         except ValueError as error:
-            filename = Path(download.suggested_filename).name
             suffix = Path(filename).suffix
             if not re.fullmatch(r"\.[a-zA-Z0-9]{1,10}", suffix):
                 suffix = ".bin"
             original = target.with_suffix(f".original{suffix}")
             partial.replace(original)
             raise ValueError(
-                f"{error} Browser supplied {filename!r} ({len(data):,} bytes). "
+                f"{error} Received {filename!r} ({len(data):,} bytes). "
                 f"Original saved as {original}."
             ) from error
         partial.write_bytes(srt)
         partial.replace(target)
     finally:
         partial.unlink(missing_ok=True)
-    return "downloaded"
+    return result
 
 
 def download_index(page, args, playwright_error):
