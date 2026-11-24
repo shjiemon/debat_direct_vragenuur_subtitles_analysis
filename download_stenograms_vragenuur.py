@@ -3,8 +3,9 @@
 
 Edit START_DATE and END_DATE below, or override either date with --start
 or --end (inclusive, YYYY-MM-DD). Each date gets a UTF-8 text file of the
-speaker and interruption paragraphs. The original full-sitting XML is
-retained by default. Use --skip-xml to save only the text and CSV index.
+speaker and interruption paragraphs. Each turn starts with a [[SPEAKER]]
+line. The original full-sitting XML is retained by default. Use --skip-xml
+to save only the text and CSV index.
 The index lists the reports used, their publication status and any gaps.
 Requires only the Python standard library.
 """
@@ -31,6 +32,7 @@ ODATA = "https://gegevensmagazijn.tweedekamer.nl/OData/v5/"
 PUBLICATION_PRIORITY = {"Ongecorrigeerd": 0,
                         "Gecorrigeerd": 1, "Gerectificeerd": 2}
 SPEECH_TAGS = {"woordvoerder", "interrumpant"}
+SPEAKER_PREFIX = "[[SPEAKER]] "
 INDEX_FIELDS = ("date", "status", "activity_numbers", "sections", "text_file",
                 "report_statuses", "report_urls", "detail")
 
@@ -99,16 +101,38 @@ def preferred_report(sitting):
     ))
 
 
-def spoken_paragraphs(node):
+def format_speech(turn, text_node):
+    paragraphs = list(text_node.iterfind(".//{*}alinea"))
+    if not paragraphs:
+        return ""
+
+    # VLOS puts the printed name in its own inline item, before the first words.
+    lead = paragraphs[0].find("{*}alineaitem")
+    heading = ""
+    if lead is not None and lead.find('.//{*}nadruk[@type="Vet"]') is not None:
+        heading = " ".join("".join(lead.itertext()).split())
+    texts = [" ".join("".join(paragraph.itertext()).split())
+             for paragraph in paragraphs]
+    if heading.endswith(":") and texts[0].startswith(heading):
+        speaker = heading[:-1].rstrip()
+        texts[0] = texts[0][len(heading):].lstrip()
+    else:
+        speaker = turn.findtext("{*}spreker/{*}verslagnaam", "")
+        speaker = " ".join(speaker.split()) or "Unknown speaker"
+
+    speech = "\n\n".join(text for text in texts if text)
+    return f"{SPEAKER_PREFIX}{speaker}\n{speech}" if speech else ""
+
+
+def speech_blocks(node):
     for child in node:
         if child.tag.rsplit("}", 1)[-1] == "tekst":
             if node.tag.rsplit("}", 1)[-1] in SPEECH_TAGS:
-                for paragraph in child.iterfind(".//{*}alinea"):
-                    text = " ".join("".join(paragraph.itertext()).split())
-                    if text:
-                        yield text
+                block = format_speech(node, child)
+                if block:
+                    yield block
         else:
-            yield from spoken_paragraphs(child)
+            yield from speech_blocks(child)
 
 
 def extract_sections(xml, day):
@@ -121,9 +145,9 @@ def extract_sections(xml, day):
     sections = []
     for activity in meeting.findall("{*}activiteit"):
         if activity.get("soort", "").strip().casefold() == "vragenuur":
-            paragraphs = list(spoken_paragraphs(activity))
-            if paragraphs:
-                sections.append("\n\n".join(paragraphs))
+            blocks = list(speech_blocks(activity))
+            if blocks:
+                sections.append("\n\n".join(blocks))
     return sections
 
 
