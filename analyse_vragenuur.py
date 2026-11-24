@@ -43,14 +43,15 @@ def subtitle_words(path):
 def summarize_words(bag):
     """Count matching word forms and normalize against all spoken words."""
     total_words = sum(bag.values())
-    summary = {"word_count": total_words}
+    summary = {"word_count": total_words or None}
     for term in SEARCH_TERMS:
         forms = {word: count for word, count in bag.items() if term in word}
         matches = sum(forms.values())
-        summary[f"{term}_count"] = matches
-        summary[f"{term}_per_1000"] = round(1_000 * matches / total_words, 6)
+        summary[f"{term}_count"] = matches if total_words else None
+        summary[f"{term}_per_1000"] = round(
+            1_000 * matches / total_words, 6) if total_words else None
         summary[f"{term}_forms"] = json.dumps(
-            forms, ensure_ascii=False, sort_keys=True)
+            forms, ensure_ascii=False, sort_keys=True) if total_words else None
     return summary
 
 
@@ -61,41 +62,75 @@ def write_csv(path, rows):
         writer.writerows(rows)
 
 
-def analyse(subtitles, output_dir):
+def read_index_dates(index):
+    """Read the dates of completed debates, including those with no download."""
+    with index.open(encoding="utf-8-sig", newline="") as source:
+        reader = csv.DictReader(source)
+        if "date" not in (reader.fieldnames or []):
+            raise ValueError(f"{index}: expected a date column.")
+        return {date.fromisoformat(row["date"]).isoformat() for row in reader}
+
+
+def analyse(subtitles, output_dir, index=None):
     if not subtitles.is_dir():
         raise ValueError(f"Subtitle directory not found: {subtitles}")
 
-    paths = sorted(path for path in subtitles.iterdir()
-                   if DATED_SRT.fullmatch(path.name))
-    if not paths:
-        raise ValueError(f"No YYYY-MM-DD.srt files found in {subtitles}.")
+    files_by_date = {
+        date.fromisoformat(path.stem).isoformat(): path
+        for path in subtitles.iterdir()
+        if path.is_file() and DATED_SRT.fullmatch(path.name)
+    }
+    if index is None:
+        default_index = subtitles.parent / "vragenuur_index.csv"
+        if default_index.is_file():
+            index = default_index
+
+    debate_dates = set(files_by_date)
+    if index is not None:
+        debate_dates.update(read_index_dates(index))
+    if not debate_dates:
+        raise ValueError(
+            f"No debates found in the index or YYYY-MM-DD.srt files in {subtitles}.")
 
     debates = []
     monthly_words = defaultdict(Counter)
-    monthly_sessions = Counter()
-    for path in paths:
-        day = date.fromisoformat(path.stem).isoformat()
-        words = subtitle_words(path)
-        if not words:
-            raise ValueError(f"{path}: the captions contain no words.")
-        bag = Counter(words)
-        debates.append({"date": day, **summarize_words(bag)})
-
-        # Pool counts and words across all available debates in each month.
+    analysed_by_month = Counter()
+    expected_by_month = Counter(day[:7] for day in debate_dates)
+    for day in sorted(debate_dates):
         month = day[:7]
-        monthly_words[month].update(bag)
-        monthly_sessions[month] += 1
+        path = files_by_date.get(day)
+        bag = Counter()
+        if path is not None:
+            bag.update(subtitle_words(path))
+            if not bag:
+                raise ValueError(f"{path}: the captions contain no words.")
+            monthly_words[month].update(bag)
+            analysed_by_month[month] += 1
 
+        debates.append({
+            "date": day,
+            "subtitle_status": "available" if path is not None else "missing",
+            **summarize_words(bag),
+        })
+
+    # Pool words across available debates. Keep coverage from the full index.
     months = [
-        {"month": month,
-            "debate_count": monthly_sessions[month], **summarize_words(bag)}
-        for month, bag in sorted(monthly_words.items())
+        {
+            "month": month,
+            "debate_count": analysed_by_month[month],
+            "expected_debate_count": expected,
+            "missing_debate_count": expected - analysed_by_month[month],
+            **summarize_words(monthly_words[month]),
+        }
+        for month, expected in sorted(expected_by_month.items())
     ]
     output_dir.mkdir(parents=True, exist_ok=True)
     write_csv(output_dir / "vragenuur_by_debate.csv", debates)
     write_csv(output_dir / "vragenuur_by_month.csv", months)
     print(
-        f"Analysed {len(debates)} debate(s) in {len(months)} month(s). CSV files: {output_dir}")
+        f"Analysed {len(files_by_date)} of {len(debates)} debates across {len(months)} months. "
+        f"CSV files: {output_dir}"
+    )
 
 
 def main():
@@ -103,10 +138,14 @@ def main():
     parser.add_argument("subtitles", nargs="?", type=Path,
                         default=Path("subtitles"))
     parser.add_argument("--output-dir", type=Path, default=Path("analysis"))
+    parser.add_argument(
+        "--index", type=Path,
+        help="CSV of completed debates (defaults to vragenuur_index.csv next to the subtitle directory)",
+    )
     args = parser.parse_args()
 
     try:
-        analyse(args.subtitles, args.output_dir)
+        analyse(args.subtitles, args.output_dir, args.index)
     except (OSError, ValueError) as error:
         parser.exit(1, f"{error}\n")
 
